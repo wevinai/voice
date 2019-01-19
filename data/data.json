@@ -1,0 +1,18 @@
+[
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/audio/tt1.meg3",
+    "species": "cat",
+    "race": "yyyy",
+    "gender": "male",
+    "purpose": "food",
+    "format" : "video"
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/video/x1.wav",
+    "species": "dog",
+    "race": "yyyy",
+    "gender": "female",
+    "purpose": "relax",
+    "format": "audio"
+  }
+]
