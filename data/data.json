@@ -1,18 +1,65 @@
 [
   {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/tt1.meg3",
+    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_DIG0013_04_short.mp3",
     "species": "cat",
-    "race": "yyyy",
+    "race": "",
     "gender": "male",
-    "purpose": "food",
-    "format" : "video"
+    "purpose": "purring",
+    "format" : "audio"
+    "age" : "juvenile"
   },
   {
-    "location": "/hdd/mlrom/Data/animal_voice/video/x1.wav",
-    "species": "dog",
-    "race": "yyyy",
-    "gender": "female",
-    "purpose": "relax",
-    "format": "audio"
+    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_DIG0013_05_short.mp3",
+    "species": "cat",
+    "race": "",
+    "gender": "male",
+    "purpose": "purring",
+    "format" : "audio"
+    "age" : "juvenile"
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_DIG0015_14_short.mp3",
+    "species": "cat",
+    "race": "",
+    "gender": "male",
+    "purpose": "purring",
+    "format" : "audio"
+    "age" : "juvenile"
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_DIG0103_01_rear_short.mp3",
+    "species": "cat",
+    "race": "",
+    "gender": "male",
+    "purpose": "cutto_purring",
+    "format" : "audio"
+    "age" : "juvenile"
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_DIG0105_08_short.mp3",
+    "species": "cat",
+    "race": "",
+    "gender": "male",
+    "purpose": "call",
+    "format" : "audio"
+    "age" : "juvenile"
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S0001_01_short.mp3",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "call",
+    "format" : "audio"
+    "age" : "juvenile"
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_V1542_22_short.mp3",
+    "species": "cat",
+    "race": "",
+    "gender": "pair",
+    "purpose": "hiss growl",
+    "format" : "audio"
+    "age" : "adult"
   }
 ]
