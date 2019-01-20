@@ -5,16 +5,89 @@
     "race": "",
     "gender": "male",
     "purpose": "purring",
-    "format" : "audio"
+    "format" : "audio",
     "age" : "juvenile"
   },
+
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/audio/415209__inspectorj__cat-screaming-a.wav",
+    "species": "cat",
+    "race": "",
+    "gender": "male?",
+    "purpose": "screaming",
+    "format" : "audio"
+  },
+
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/audio/76879__noisecollector__hungrycat.wav",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "food",
+    "format" : "audio"
+  },
+
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/video/169983__missozzy__hungry-cats.wav",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "food",
+    "format": "audio"
+  }
+
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/video/110011__tuberatanka__cat-meow.wav",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "food",
+    "format": "audio"
+  }
+
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/video/145046__thanvannispen__049-oscar-miauw.aiff",
+    "species": "cat",
+    "race": "",
+    "gender": "male",
+    "purpose": "food",
+    "format": "audio"
+  }
+
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/video/260881__trautwein__cat-purr.wav",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "purr",
+    "format": "audio"
+  }
+
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/video/260881__trautwein__cat-purr.wav",
+    "species": "cat",
+    "race": "male",
+    "gender": "",
+    "purpose": "purr",
+    "format": "audio"
+  }
+
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/video/327438__softcoresoft__cat-angry-meow.wav",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "angry",
+    "format": "audio"
+  }
+
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_DIG0013_05_short.mp3",
     "species": "cat",
     "race": "",
     "gender": "male",
     "purpose": "purring",
-    "format" : "audio"
+    "format" : "audio",
     "age" : "juvenile"
   },
   {
@@ -23,7 +96,7 @@
     "race": "",
     "gender": "male",
     "purpose": "purring",
-    "format" : "audio"
+    "format" : "audio",
     "age" : "juvenile"
   },
   {
@@ -32,7 +105,7 @@
     "race": "",
     "gender": "male",
     "purpose": "cutto_purring",
-    "format" : "audio"
+    "format" : "audio",
     "age" : "juvenile"
   },
   {
@@ -41,7 +114,7 @@
     "race": "",
     "gender": "male",
     "purpose": "call",
-    "format" : "audio"
+    "format" : "audio",
     "age" : "juvenile"
   },
   {
@@ -50,7 +123,7 @@
     "race": "",
     "gender": "",
     "purpose": "call",
-    "format" : "audio"
+    "format" : "audio",
     "age" : "juvenile"
   },
   {
@@ -59,7 +132,55 @@
     "race": "",
     "gender": "pair",
     "purpose": "hiss growl",
-    "format" : "audio"
+    "format" : "audio",
     "age" : "adult"
+  },
+
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/video/49784__urmumsacow__angry-cat.wav",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "angry",
+    "format": "audio"
   }
+
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/video/120160__oneirophile__cat-wants-food.wav",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "angry and hungry",
+    "format": "audio"
+  }
+
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/video/440735__jbierfeldt__cat-annoyed-meow-wail.wav",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "annoyed",
+    "format": "audio"
+  }
+
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/video/362953__josepharaoh99__cat-call-meow.mp3",
+    "species": "cat",
+    "race": "",
+    "gender": "male",
+    "purpose": "annoyed",
+    "format": "audio"
+    "age": "juvenile"
+  }
+
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/video/362953__josepharaoh99__cat-call-meow.mp3",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "annoyed",
+    "format": "audio"
+
+  }
+
 ]
