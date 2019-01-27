@@ -28,7 +28,7 @@
   },
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/video/169983__missozzy__hungry-cats.wav",
+    "location": "/hdd/mlrom/Data/animal_voice/audio/169983__missozzy__hungry-cats.wav",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -37,7 +37,7 @@
   }
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/video/110011__tuberatanka__cat-meow.wav",
+    "location": "/hdd/mlrom/Data/animal_voice/audio/110011__tuberatanka__cat-meow.wav",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -46,7 +46,7 @@
   }
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/video/145046__thanvannispen__049-oscar-miauw.aiff",
+    "location": "/hdd/mlrom/Data/animal_voice/audio/145046__thanvannispen__049-oscar-miauw.aiff",
     "species": "cat",
     "race": "",
     "gender": "male",
@@ -55,7 +55,7 @@
   }
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/video/260881__trautwein__cat-purr.wav",
+    "location": "/hdd/mlrom/Data/animal_voice/audio/260881__trautwein__cat-purr.wav",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -64,7 +64,7 @@
   }
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/video/260881__trautwein__cat-purr.wav",
+    "location": "/hdd/mlrom/Data/animal_voice/audio/260881__trautwein__cat-purr.wav",
     "species": "cat",
     "race": "male",
     "gender": "",
@@ -73,7 +73,7 @@
   }
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/video/327438__softcoresoft__cat-angry-meow.wav",
+    "location": "/hdd/mlrom/Data/animal_voice/audio/327438__softcoresoft__cat-angry-meow.wav",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -137,7 +137,7 @@
   },
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/video/49784__urmumsacow__angry-cat.wav",
+    "location": "/hdd/mlrom/Data/animal_voice/audio/49784__urmumsacow__angry-cat.wav",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -146,7 +146,7 @@
   }
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/video/120160__oneirophile__cat-wants-food.wav",
+    "location": "/hdd/mlrom/Data/animal_voice/audio/120160__oneirophile__cat-wants-food.wav",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -155,7 +155,7 @@
   }
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/video/440735__jbierfeldt__cat-annoyed-meow-wail.wav",
+    "location": "/hdd/mlrom/Data/animal_voice/audio/440735__jbierfeldt__cat-annoyed-meow-wail.wav",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -164,23 +164,53 @@
   }
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/video/362953__josepharaoh99__cat-call-meow.mp3",
+    "location": "/hdd/mlrom/Data/animal_voice/audio/362953__josepharaoh99__cat-call-meow.mp3",
     "species": "cat",
     "race": "",
     "gender": "male",
     "purpose": "annoyed",
-    "format": "audio"
+    "format": "audio",
     "age": "juvenile"
   }
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/video/362953__josepharaoh99__cat-call-meow.mp3",
+    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_V2012_09_short.mp3",
+    "species": "cat",
+    "race": "",
+    "gender": "female",
+    "purpose": "contact call",
+    "format": "audio",
+    "age": "adult",
+    "note": "Crickets in da backround"
+  }
+
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S1042_06_short.mp3", 
     "species": "cat",
     "race": "",
     "gender": "",
-    "purpose": "annoyed",
+    "purpose": "call",
     "format": "audio"
+  }
 
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S1103_03_short.mp3", 
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "call",
+    "format": "audio",
+    "age" : "call"
+  }
+
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_V1542_22_short.mp3", 
+    "species": "cat",
+    "race": "",
+    "gender": "male",
+    "purpose": "purring",
+    "format": "audio",
+    "age" : "adult",
   }
 
 ]
