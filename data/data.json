@@ -34,7 +34,7 @@
     "gender": "",
     "purpose": "food",
     "format": "audio"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/110011__tuberatanka__cat-meow.wav",
@@ -43,7 +43,7 @@
     "gender": "",
     "purpose": "food",
     "format": "audio"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/145046__thanvannispen__049-oscar-miauw.aiff",
@@ -52,7 +52,7 @@
     "gender": "male",
     "purpose": "food",
     "format": "audio"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/260881__trautwein__cat-purr.wav",
@@ -61,7 +61,7 @@
     "gender": "",
     "purpose": "purr",
     "format": "audio"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/260881__trautwein__cat-purr.wav",
@@ -70,7 +70,7 @@
     "gender": "",
     "purpose": "purr",
     "format": "audio"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/327438__softcoresoft__cat-angry-meow.wav",
@@ -79,7 +79,7 @@
     "gender": "",
     "purpose": "angry",
     "format": "audio"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_DIG0013_05_short.mp3",
@@ -90,6 +90,7 @@
     "format" : "audio",
     "age" : "juvenile"
   },
+
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_DIG0015_14_short.mp3",
     "species": "cat",
@@ -99,6 +100,7 @@
     "format" : "audio",
     "age" : "juvenile"
   },
+
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_DIG0103_01_rear_short.mp3",
     "species": "cat",
@@ -108,6 +110,7 @@
     "format" : "audio",
     "age" : "juvenile"
   },
+
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_DIG0105_08_short.mp3",
     "species": "cat",
@@ -117,6 +120,7 @@
     "format" : "audio",
     "age" : "juvenile"
   },
+
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S0001_01_short.mp3",
     "species": "cat",
@@ -126,6 +130,7 @@
     "format" : "audio",
     "age" : "juvenile"
   },
+
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_V1542_22_short.mp3",
     "species": "cat",
@@ -143,7 +148,7 @@
     "gender": "",
     "purpose": "angry",
     "format": "audio"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/120160__oneirophile__cat-wants-food.wav",
@@ -152,7 +157,7 @@
     "gender": "",
     "purpose": "angry and hungry",
     "format": "audio"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/440735__jbierfeldt__cat-annoyed-meow-wail.wav",
@@ -161,7 +166,7 @@
     "gender": "",
     "purpose": "annoyed",
     "format": "audio"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/362953__josepharaoh99__cat-call-meow.mp3",
@@ -171,7 +176,7 @@
     "purpose": "annoyed",
     "format": "audio",
     "age": "juvenile"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_V2012_09_short.mp3",
@@ -182,7 +187,7 @@
     "format": "audio",
     "age": "adult",
     "note": "Crickets in da backround"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S1042_06_short.mp3", 
@@ -191,7 +196,7 @@
     "gender": "",
     "purpose": "call",
     "format": "audio"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/362953__josepharaoh99__cat-call-meow.mp3",
@@ -200,7 +205,7 @@
     "gender": "",
     "purpose": "call",
     "format": "audio"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S1103_03_short.mp3", 
@@ -210,7 +215,7 @@
     "purpose": "call",
     "format": "audio",
     "age" : "call"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S0106_01_short.mp3",
@@ -220,7 +225,7 @@
     "purpose": "call",
     "format": "audio",
     "age" : "juvenile"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S0125_01_short.mp3",
@@ -230,7 +235,7 @@
     "purpose": "angry",
     "format": "audio",
     "age" : ""
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S0292_05_short.mp3",
@@ -240,7 +245,8 @@
     "purpose": "call",
     "format": "audio",
     "age" : "adult"
-  }
+  },
+
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S0429_01_short.mp3",
     "species": "cat",
@@ -249,7 +255,7 @@
     "purpose": "call purr",
     "format": "audio",
     "age" : "adult"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S0618_01_short.mp3",
@@ -259,7 +265,7 @@
     "purpose": "call",
     "format": "audio",
     "age" : "call"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_V1542_22_short.mp3", 
@@ -269,7 +275,7 @@
     "purpose": "purring",
     "format": "audio",
     "age" : "adult"
-  }
+  },
 
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S1103_03_short.mp3",
