@@ -1,0 +1,46 @@
+Learn Basic Python
+------------------
+1. Download from Github:
+    > cd work                      # change directory to ~/work
+    > mkdir LearnPython            # create a new directory called LearnPython
+    > cd LearnPython               # change directory to ~/work/LearnPython
+    > git clone https://github.com/rajathkmp/Python-Lectures.git
+                                   # Read examples from Github repository
+
+2. Use ipython/jupyter to go over examples
+    > cd work/LearnPython/Python-Lectures
+    > jupyter notebook             # start a Jupyter notebook to work on
+
+    In browser, click 01.ipython
+    Click Run button to go thru the example
+
+    Use 02.ipython to be familiar with basic python syntax
+
+3. Data Structures
+    List: Go thru 03.ipython to learn "LIST"
+    String: Go thru 04.ipython to learn "STRING"
+    Control structure: Go thru 05.ipython to learn if-else, for loops
+
+4. Write a iPython/Jupyter program to interpret date:
+   Input is a string of various date formats, output year/month/day in separate line. 
+   For example:
+       my_program May-21-1997
+    Or my_program 05/21/1997
+   should all produce:
+       Year: 1997
+       Month: May
+       Day: 21
+   (1) Write your own date_translator
+   (2) Use datetime library:
+       from datetime import datetime
+       datetime.strptime('Jan-01-2000', '%b-%d-%Y')
+
+5. Learn functions/classes
+   Go thru 06.ipython and 07.ipython to learn how to write functions and classes
+
+6. Learn Dictionary
+   1) Use jupyter to go thru dictionaries.ipynb example
+   2) Reimplement date_interpreter program by adding translation from word month to number month
+      using dictionaries.
+
+

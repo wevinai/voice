@@ -1,0 +1,18 @@
+Learn Eclipse By running digit recognition problem
+--------------------------------------------------
+1. Set up Eclipse for MNIST
+    > eclipse
+    In Workspace, write "/home/xxxx/work" where xxxx is the user name 
+    (vincent/weilin),
+    click Launch
+    click "workbench"
+    In "Project Explore", there should be a project/directory "keras"
+    find "keras/examples/mnist_cnn.py", double click, the Python file will
+    show up.
+    1) click "Run"
+    2) Setup "breakpoint" and "Debug" to step thru the program
+
+2. Tutorial on sklearn - traditional Machine Learning package
+   > git clone git://github.com/jakevdp/sklearn_tutorial.git
+   > Go over 02.1, 02.2
+

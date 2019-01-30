@@ -1,0 +1,11 @@
+Learn Numpy
+--------------------------------------------------
+1. Go thru tutorial to learn Numpy
+   1) Download from https://github.com/ksopyla/numpy-tutorial.git
+   2) In jupyter, manually input each example into ipython to learn Numpy
+
+2. Write a program to test Numpy 2-dimensional array performance by:
+   1) Implement two 500x500 Numpy array dot product using Numpy.dot()
+   2) Implement the same operation using loop
+   3) Report time to do the computation!
+
