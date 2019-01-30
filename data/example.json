@@ -1,0 +1,16 @@
+[
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/audio/415209__inspectorj__cat-screaming-a.wav",
+    "species": "cat",
+    "race": "",
+    "gender": "male?",
+    "format" : "audio",
+    "active_region": [
+      {
+        "start": 0.146,
+        "end": 1.389,
+        "label": "screaming"
+      }
+    ]
+  }
+]
