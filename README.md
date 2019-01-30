@@ -1,20 +1,24 @@
 # README for all the contents within this project
-AI project
 
 Notes:
-1. All the data should locate at /hdd/mlrom/Data/animal_voice/ where audio files in 
-   /hdd/mlrom/Data/animal_voice/audio and video files in /hdd/mlrom/Data/animal_voice/video
+1. Project directory structure explanation:
+   - All the data should locate at /hdd/mlrom/Data/animal_voice/ where audio files in 
+     /hdd/mlrom/Data/animal_voice/audio and video files in /hdd/mlrom/Data/animal_voice/video
+   - All code/human-written stuff are checked into GitHub and should locates at ~/work/voice
+     In your home directory
+   - voice/scripts includes code/scripts to check if everything is smooth
+   - voice/src includes source code for our AI code
+   - voice/data includes data related information, temporary data, etc
+   - voice/tryout includes the code which you can play around using Jupyter, etc
+   - voice/lessons includes a number of tutorial/material to learn Python/Numpy/Eclipse/Github
 
-2. If you are not familiar with Python/Numpy/Eclipse, please refer to voice/lessons 
-   for lessons to learn
-
-3. Useful Linux commands 
+2. Useful Linux commands 
    - Goto your own home directory: cd or cd ~
    - Goto a particular directory: cd <directory>, e.g. cd ~/work/voice    # ~ refers to home directory
    - Goto parent directory: cd ..
    - Remove a file/directory: rm <filename>
 
-4. Useful GitHub commands
+3. Useful GitHub commands
    - Get a repository: git clone <http://...>
    - Check current changes: git status
    - Pull from repository: git pull
@@ -22,7 +26,7 @@ Notes:
    - Commit a change: git commit -m"what changed message"
    - Push committed changes to GitHub: git push
 
-5. Python programming rules:
+4. Python programming rules:
    - Indent is 4 spaces
    - all file/function/variable names should be self explanatory, if using multiple words, separate with "_",
      for example, a function cutwindows should be "cut_windows"
@@ -38,11 +42,12 @@ Notes:
        - git pull and merge your changes with others
        - Run regression using scripts/check_code_integrity.py (to be done)
        - If regression passes, check in your change!
-       
-6. Issues on editing a Json file?
+
+5. Issues on editing a Json file?
    - Is [], {} in pairs?
    - Is the key to the dictionary consistent?
    - Is list separated by a comma and finish with empty note?
+
 
 HowTo:
 1. How to add an audio/video file into our system?
