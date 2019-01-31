@@ -29,7 +29,7 @@ def preprocess_data(**kwargs):
     subdir = '_'.join(['dur'+str(duration).replace('.','p'),
                        'win'+str(fft_win).replace('.','p'),
                        'hop'+str(fft_hop).replace('.','p'), 'mfcc'+str(n_mfcc)])
-    DEST_DIR = os.path.join(os.getcwd(), subdir)
+    DEST_DIR = os.path.join(os.getcwd(), 'data', subdir)
 
     if not os.path.exists(DEST_DIR):
         os.makedirs(DEST_DIR)
@@ -132,6 +132,6 @@ def rescale(m):
 
 if __name__ =='__main__':
 
-    DATA_CTRL_FILE = './data/try.json'
+    DATA_CTRL_FILE = './data/example.json'
     preprocess_data(dur=1, discard_short = False, fft_win=50, fft_hop=25, n_mfcc=13)
 
