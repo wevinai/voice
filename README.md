@@ -17,6 +17,7 @@ Notes:
    - Goto a particular directory: cd <directory>, e.g. cd ~/work/voice    # ~ refers to home directory
    - Goto parent directory: cd ..
    - Remove a file/directory: rm <filename>
+   - Create a new directory under current directory: mkdir <directory_name>
 
 3. Useful GitHub commands
    - Get a repository: git clone <http://...>
