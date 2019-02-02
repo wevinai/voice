@@ -12,6 +12,7 @@ import cPickle as pickle
 from selenium import webdriver
 import os
 import subprocess
+import time
 
 import sys
 reload(sys)
@@ -113,9 +114,13 @@ def download(download_links, tag):
     '''
     Download audio file contents (log-in required) using selenium+chromedriver
     '''
+    download_dir = os.path.join(DOWNLOAD_TO, tag)
+    if not os.path.exists(download_dir):
+        os.makedirs(download_dir)
+
     ## chrome browser launch
     chromeOptions = webdriver.ChromeOptions()
-    prefs = {"download.default_directory" : DOWNLOAD_TO+tag}
+    prefs = {"download.default_directory" : download_dir}
     chromeOptions.add_experimental_option("prefs",prefs)
     driver = webdriver.Chrome(executable_path=CHROME_WEBDRIVER, chrome_options=chromeOptions)
     ## freesound.org log in
@@ -128,23 +133,28 @@ def download(download_links, tag):
     pwrd.click()
     pwrd.send_keys(PASSWORD)
     driver.find_element_by_xpath("//input[@value='login'][@type='submit']").click()
-    with open(os.path.join(DOWNLOAD_TO, 'data.json'), 'w') as jf:
+    with open(os.path.join(download_dir, 'data.json'), 'w') as jf:
         print('[', file=jf)
         i=0
         last_link, last_text = '', ''
         for link, text in download_links:
             driver.get(link)
             if i != 0:
-                print_json(jf, False, last_link, last_text)
+                print_json(jf, False, last_link, last_text, download_dir)
             i+=1
             last_link, last_text = link, text
-        print_json(jf, True, last_link, last_text)
+        print_json(jf, True, last_link, last_text, download_dir)
         print('{} files downloaded'.format(i))
         print(']', file=jf)
 
-def print_json(f, last, link, desc, formats='audio', species='cat'):
+    # sleep for 60 seconds to wait for all downloads to finish. this step is important!
+    time.sleep(60)
+
+def print_json(f, last, link, desc, download_dir, formats='audio', species='cat'):
+    filename = link.split('/')[-1]
     print('  {', file=f)
-    print('    "location": "{}",'.format(link), file=f)
+    print('    "location": "{}",'.format(os.path.join(download_dir,filename)), file=f)
+    print('    "website": "{}",'.format(link), file=f)
     print('    "description": "{}",'.format(desc), file=f)
     print('    "species: ": "{}",'.format(species), file=f)
     print('    "race": "",', file=f)
@@ -200,18 +210,5 @@ if __name__ == '__main__':
     DOWNLOAD_TO = '/hdd/mlrom/Data/animal_voice/downloads/freesound/'
 
     links = get_links('meow')
-    ######### (optional) save to /load from pickle
-    # with open( "cat_freesound.pkl", "w" ) as f:
-    #     pickle.dump(links, f)
-    # with open("cat_freesound.pkl") as f:
-    #     links =  pickle.load(f)
-    #########
     download(links,'meow')
 
-    # rename('data/freesound/meow','meow_fs')
-    # convert2wav('data/freesound/meow')
-    # movewavfiles('data/freesound/meow')
-
-    #rename('data/tierstimmen_cat','cat_ts')
-    #convert2wav('data/tierstimmen_cat')
-    #movewavfiles('data/tierstimmen_cat')
