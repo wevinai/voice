@@ -89,4 +89,9 @@ HowTo:
    - Select "Make a copy" optino without changing original audio
    - Load a wav/mp3/aiff file
 
+3. How to download and organize the audio/video?
+   - Download from freesound.org:
+         python scripts/scraper_freesound.py
+     This script download all the audio files from freesound.org whose label don't include a bunch of 
+     keywords, and search by keyword "meow".
 

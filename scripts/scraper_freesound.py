@@ -12,7 +12,7 @@ import cPickle as pickle
 from selenium import webdriver
 import os
 import subprocess
-import time
+from time import sleep
 
 import sys
 reload(sys)
@@ -22,7 +22,6 @@ global USER_NAME
 global PASSWORD
 #global FIREFOX_USER_PF =  os.getenv('FIREFOX_USER_PF_FREESOUND') #path to a special user preference setting of firefox browser (to download media files without asking agreement)
 global CHROME_WEBDRIVER
-global DOWNLOAD_TO
 
 def get_links(keyword): 
     '''
@@ -66,6 +65,7 @@ def get_links(keyword):
     return download_links
 
 def blockwords(key): #returns a list of block words for the search keyword
+    fake, othernoise, stupid, ambiguity = [], [], [], []
     if key == 'meow':
         # This list is used temporarily to filter some files irrelevant (or poorly tagged) for my search term 'meow'.
         # User should use their own filter (or none) that fits their purpose.
@@ -92,31 +92,15 @@ def filter_file(listings, blocklist):
             rightlinks.append('http://freesound.org'+item.find('a',attrs={'class':'title'})['href'])
     return rightlinks
 
-def testlogin(browser=None): #testing loging in selenium+firefox and selenium+chrome. Firefox needs cumtom profile setup for auto-download
-    if browser == 'chrome':
-        #Chrome downloads without asking.
-        driver = webdriver.Chrome(CHROME_WEBDRIVER)
-    else:
-        #Use default firefox browser (empty preference)
-        driver = webdriver.Firefox()
-    loginpg = 'http://freesound.org/home/login/?next=/'
-    driver.get(loginpg)
-    user = driver.find_element_by_name('username')
-    user.click()
-    user.send_keys(USER_NAME)
-    pwrd = driver.find_element_by_name('password')
-    pwrd.click()
-    pwrd.send_keys(PASSWORD)
-    driver.find_element_by_xpath("//input[@value='login'][@type='submit']").click()
-    return driver
-
-def download(download_links, tag): 
+def download(download_links, tag, download_to): 
     '''
     Download audio file contents (log-in required) using selenium+chromedriver
     '''
-    download_dir = os.path.join(DOWNLOAD_TO, tag)
-    if not os.path.exists(download_dir):
-        os.makedirs(download_dir)
+    download_dir = os.path.join(download_to, tag)
+    if os.path.exists(download_dir):
+        print('Download directory {} exist, please clean up'.format(download_dir))
+        quit()
+    os.makedirs(download_dir)
 
     ## chrome browser launch
     chromeOptions = webdriver.ChromeOptions()
@@ -148,7 +132,7 @@ def download(download_links, tag):
         print(']', file=jf)
 
     # sleep for 60 seconds to wait for all downloads to finish. this step is important!
-    time.sleep(60)
+    sleep(180)
 
 def print_json(f, last, link, desc, download_dir, formats='audio', species='cat'):
     filename = link.split('/')[-1]
@@ -172,43 +156,22 @@ def print_json(f, last, link, desc, download_dir, formats='audio', species='cat'
     else:
         print('  },', file=f)
 
-def rename(directory,tag): #rename audio files and save the name change log as pickle
-    fileslist = os.listdir(directory)
-    newfileslist=map(lambda i: tag+ '_' + str(i) + '.' + fileslist[i].split('.')[1],range(len(fileslist)))
-    log = zip(fileslist,newfileslist)
-    with open( 'renamed_'+tag+'.pkl', "w" ) as f:
-        pickle.dump(log, f)
-    print(directory)
-    for old, new in log:
-        os.rename(directory+'/'+old,directory+'/'+new)
-    print('rename done')
-
-def convert2wav(directory): # convert non-.wav audio files to .wav files using ffmpeg
-    audioformats = ['mp3','flac','ogg','aiff','aif']
-    fileslist = os.listdir(directory)
-    bashCommandlist = filter(None,map(lambda name: 'ffmpeg -i '+ directory + '/'+ name + ' -ar 22050 -ac 1 '+ directory+'/'+ name.split('.')[0]+'.wav' if str(name.split('.')[1]) in audioformats else None, fileslist))
-    for command in bashCommandlist:
-        subprocess.check_output(['bash','-c', command])
-    print('.wav convert done')
-
-def movewavfiles(subdirectory): #move all .wav files into a subfolder named wav.
-    # example: movewavfiles('data/freesound/test')
-    cwd = os.getcwd()
-    if not os.path.isdir(subdirectory+'/wav'):
-        os.makedirs(subdirectory+'/wav')
-    command = 'mv '+cwd+'/'+subdirectory+'/*.wav '+cwd+'/'+subdirectory+'/wav/'
-    print(command)
-    subprocess.check_output(['bash','-c', command])
-    print('wav files moved')
-    print('current directory: ', os.getcwd())
-
 if __name__ == '__main__':
+    from argparse import ArgumentParser, ArgumentDefaultsHelpFormatter
+    parser = ArgumentParser(formatter_class=ArgumentDefaultsHelpFormatter)
 
     USER_NAME = 'wevinai'
     PASSWORD = 'wevinai0'
     CHROME_WEBDRIVER = '/usr/bin/chromedriver'
-    DOWNLOAD_TO = '/hdd/mlrom/Data/animal_voice/downloads/freesound/'
 
-    links = get_links('meow')
-    download(links,'meow')
+    parser.add_argument('-kw', '--keyword',
+                        help='Search keyword at freesound.org, e.g. meow',
+                        default='meow', dest='keyword')
+    parser.add_argument('-o', '--download_dir',
+                        help='Download directory which holds all video/audio',
+                        default='/hdd/mlrom/Data/animal_voice/downloads/freesound/', dest='download_to')
+    args = parser.parse_args()
+
+    links = get_links(args.keyword)
+    download(links, args.keyword, args.download_to)
 
