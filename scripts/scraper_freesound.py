@@ -12,7 +12,7 @@ import cPickle as pickle
 from selenium import webdriver
 import os
 import subprocess
-import time
+from time import sleep
 
 import sys
 reload(sys)
@@ -148,7 +148,7 @@ def download(download_links, tag):
         print(']', file=jf)
 
     # sleep for 60 seconds to wait for all downloads to finish. this step is important!
-    time.sleep(60)
+    sleep(60)
 
 def print_json(f, last, link, desc, download_dir, formats='audio', species='cat'):
     filename = link.split('/')[-1]
