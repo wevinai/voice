@@ -6,8 +6,8 @@ import librosa
 import math
 import os
 import json
+import sys
 
-global DATA_CTRL_FILE
 global DEST_DIR
 
 def preprocess_data(**kwargs):
@@ -20,6 +20,7 @@ def preprocess_data(**kwargs):
         dur: slice width of a time series signal in second (default: 1)
         discard_short: discard the time series data if it's shorter than slice width you want (default: True).
     """
+    ctrl_file = kwargs['ctrl_file']
     duration = kwargs['dur']
     fft_win = kwargs['fft_win']
     fft_hop = kwargs['fft_hop']
@@ -29,12 +30,12 @@ def preprocess_data(**kwargs):
     subdir = '_'.join(['dur'+str(duration).replace('.','p'),
                        'win'+str(fft_win).replace('.','p'),
                        'hop'+str(fft_hop).replace('.','p'), 'mfcc'+str(n_mfcc)])
-    DEST_DIR = os.path.join(os.getcwd(), 'data', subdir)
+    DEST_DIR = os.path.join('/hdd/mlrom/Data/animal_voice/data', subdir)
 
     if not os.path.exists(DEST_DIR):
         os.makedirs(DEST_DIR)
 
-    with open(DATA_CTRL_FILE, 'r') as f:
+    with open(ctrl_file, 'r') as f:
         dcf = json.load(f)
         ext = '.npy'
         for audio in dcf:
@@ -56,11 +57,12 @@ def preprocess_data(**kwargs):
             y_norm = y/(abs(y).max())
             n_fft = int(round(fft_win/1000 * sr))
             hop_length = int(round(fft_hop/1000 * sr))
+            audio_file_base = os.path.basename(audio_file)
             for ar in audio['active_region']:
                 i, j = int(ar['start']*sr), int(ar['end']*sr)
                 if j - i <= duration * sr:
                     y_seg = cut_window(y=y_norm, frm=i, to=j, sr=sr, dur=duration, discard_short=kwargs['discard_short'])
-                    savename = '_'.join([audio_file.basename().split('.')[0], 'k'+str(k)])
+                    savename = '_'.join([audio_file_base.split('.')[0], 'k'+str(k)])
                     save_mfcc(save_to=os.path.join(DEST_DIR, savename+ext), y=y_seg, sr=sr, n_mfcc=n_mfcc,
                               n_fft=n_fft, hop_length=hop_length)
                 else:
@@ -109,10 +111,10 @@ def cut_window(y, frm, to, dur=1, sr=22050, discard_short=True):
         right = left + dur * sr
         if left<0:
             left = 0
-            right = round(dur*sr)
+            right = dur*sr
         elif right>len(y):
             right = len(y)
-            left = right -  round(dur*sr)
+            left = right -  dur*sr
         return y[int(left):int(right)]
     else: 
         if discard_short:
@@ -120,7 +122,7 @@ def cut_window(y, frm, to, dur=1, sr=22050, discard_short=True):
             return None
         else: 
             #padd with zeros at the end
-            return np.array(np.append(y,np.zeros(round(dur*sr)-len(y))))
+            return np.append(y,np.zeros(dur*sr-len(y)))
 
 def rescale(m):
     #rescale by global max of absolute values
@@ -132,6 +134,8 @@ def rescale(m):
 
 if __name__ =='__main__':
 
-    DATA_CTRL_FILE = './data/example.json'
-    preprocess_data(dur=1, discard_short = False, fft_win=50, fft_hop=25, n_mfcc=13)
+    if len(sys.argv) != 2:
+        print('Usage: python preprocess_data.py <JSON_file_path>')
+    if os.path.isfile(sys.argv[1]):
+        preprocess_data(ctrl_file=sys.argv[1], dur=1, discard_short = False, fft_win=50, fft_hop=25, n_mfcc=13)
 
