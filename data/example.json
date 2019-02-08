@@ -1,16 +1,33 @@
 [
   {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/415209__inspectorj__cat-screaming-a.wav",
-    "description": "I heard cat crying outside my house at 3AM.",
-    "species": "cat",
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/100030__nfrae__beef-mow1.wav",
+    "website": "http://freesound.org/people/nfrae/sounds/100030/download/100030__nfrae__beef-mow1.wav",
+    "description": "beef_mow1.wav / -cat meow. / animal cat meow upset",
+    "species: ": "",
     "race": "",
-    "gender": "male?",
-    "format" : "audio",
+    "gender": "",
+    "format": "audio",
     "active_region": [
       {
-        "start": 0.146,
-        "end": 1.389,
-        "label": "screaming"
+        "start": 0,
+        "end": 0.792,
+        "label": "upset"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/110011__tuberatanka__cat-meow.wav",
+    "website": "http://freesound.org/people/tuberatanka/sounds/110011/download/110011__tuberatanka__cat-meow.wav",
+    "description": "cat meow / my hungry cat meowing / cat meow meowing",
+    "species: ": "",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 0.194,
+        "end": 1.18,
+        "label": "hungry"
       }
     ]
   }
