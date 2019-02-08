@@ -5,7 +5,7 @@ Description: check JSON integrity for given files. It will check the following f
     2. 'label' must be part of correct labels listed below
     3. 'start' and 'end' time is consistent
     Usage is
-        python check_json.py json_file.json
+        python check_json.py <json_file.json> ...
 Author: Yuan
 '''
 from __future__ import print_function
