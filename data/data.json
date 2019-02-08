@@ -1,790 +1,353 @@
 [
   {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_DIG0013_04_short.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "purring",
-    "format" : "audio",
-    "age" : "juvenile"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/415209__inspectorj__cat-screaming-a.wav",
-    "species": "cat",
-    "race": "",
-    "gender": "male?",
-    "purpose": "screaming",
-    "format" : "audio"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/76879__noisecollector__hungrycat.wav",
-    "species": "cat",
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/100030__nfrae__beef-mow1.wav",
+    "website": "http://freesound.org/people/nfrae/sounds/100030/download/100030__nfrae__beef-mow1.wav",
+    "description": "beef_mow1.wav / -cat meow. / animal cat meow upset",
+    "species: ": "",
     "race": "",
     "gender": "",
-    "purpose": "food",
-    "format" : "audio"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/169983__missozzy__hungry-cats.wav",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "food",
-    "format": "audio"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/110011__tuberatanka__cat-meow.wav",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "food",
-    "format": "audio"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/145046__thanvannispen__049-oscar-miauw.aiff",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "food",
-    "format": "audio"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/260881__trautwein__cat-purr.wav",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "purr",
-    "format": "audio"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/260881__trautwein__cat-purr.wav",
-    "species": "cat",
-    "race": "male",
-    "gender": "",
-    "purpose": "purr",
-    "format": "audio"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/327438__softcoresoft__cat-angry-meow.wav",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "angry",
-    "format": "audio"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_DIG0013_05_short.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "purring",
-    "format" : "audio",
-    "age" : "juvenile"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_DIG0015_14_short.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "purring",
-    "format" : "audio",
-    "age" : "juvenile"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_DIG0103_01_rear_short.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "cutto_purring",
-    "format" : "audio",
-    "age" : "juvenile"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_DIG0105_08_short.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "call",
-    "format" : "audio",
-    "age" : "juvenile"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S0001_01_short.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "call",
-    "format" : "audio",
-    "age" : "juvenile"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_V1542_22_short.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "pair",
-    "purpose": "hiss growl",
-    "format" : "audio",
-    "age" : "adult"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/49784__urmumsacow__angry-cat.wav",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "angry",
-    "format": "audio"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/120160__oneirophile__cat-wants-food.wav",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "angry and hungry",
-    "format": "audio"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/440735__jbierfeldt__cat-annoyed-meow-wail.wav",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "annoyed",
-    "format": "audio"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/362953__josepharaoh99__cat-call-meow.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "annoyed",
     "format": "audio",
-    "age": "juvenile"
+    "active_region": [
+      {
+        "start": 0,
+        "end": 0.792,
+        "label": "upset"
+      }
+    ]
   },
-
   {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_V2012_09_short.mp3",
-    "species": "cat",
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/110011__tuberatanka__cat-meow.wav",
+    "website": "http://freesound.org/people/tuberatanka/sounds/110011/download/110011__tuberatanka__cat-meow.wav",
+    "description": "cat meow / my hungry cat meowing / cat meow meowing",
+    "species: ": "",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 0.194,
+        "end": 1.18,
+        "label": "hungry"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/207383__npeo__meow-meow-meow.wav",
+    "website": "http://freesound.org/people/Npeo/sounds/207383/download/207383__npeo__meow-meow-meow.wav",
+    "description": "Meow Meow Meow / High quality recording of my cat meowing 3 times. Presumably to let him out. / meow feline kitty cat pet mew call animal",
+    "species: ": "",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 0.401,
+        "end": 1.306,
+        "label": "begging"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/24015__dwsolo__themba1.wav",
+    "website": "http://freesound.org/people/dwsolo/sounds/24015/download/24015__dwsolo__themba1.wav",
+    "description": "themba1.wav / Themba, my cat, miaows for attention / attention-getting cat-sounds meow miaow",
+    "species: ": "",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 1.219,
+        "label": "attention seeking"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/262314__steffcaffrey__cat-meow3.wav",
+    "website": "http://freesound.org/people/steffcaffrey/sounds/262314/download/262314__steffcaffrey__cat-meow3.wav",
+    "description": "Cat Meow3.wav / Male cat meow greeting. 16 Bit 44.1kHz Mono. Zoom H4. / cute pets meow feline kitty field-recording cat mew cats animal kitten meowing happy",
+    "species: ": "",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 0.06,
+        "end": 0.837,
+        "label": "happy greeting"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/325767__moniquekruger__cat-meowing.wav",
+    "website": "http://freesound.org/people/MoniqueKruger/sounds/325767/download/325767__moniquekruger__cat-meowing.wav",
+    "description": "Cat Meowing.wav / I annoyed my cat and got him to mow, moan, so that i would leave him alone. He only meowed ... / moan cat-sounds OWI meow domestic feline whine cat kitty mew cats miaul pets kitten miaow miaou",
+    "species: ": "",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 4.078,
+        "end": 4.829,
+        "label": "annoyed"
+      },
+      {
+        "start": 6.932,
+        "end": 7.533,
+        "label": "annoyed"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/33657__tim-kahn__meow.wav",
+    "website": "http://freesound.org/people/tim.kahn/sounds/33657/download/33657__tim-kahn__meow.wav",
+    "description": "Meow.wav / I saw a very noisy cat when I was walking around, it let me get very close to it, but ... / animal cat meow outside",
+    "species: ": "",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 0.124,
+        "end": 0.75,
+        "label": "begging"
+      },
+      {
+        "start": 2.805,
+        "end": 3.759,
+        "label": "begging"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/381783__ghostlung__cat-meow.mp3",
+    "website": "http://freesound.org/people/ghostlung/sounds/381783/download/381783__ghostlung__cat-meow.mp3",
+    "description": "Cat Meow / A clip of my cat meowing! She was on my desk and didn't really like it when I picked her ... / meowing kitten animal cats mew pet cat kitty feline meow pets animals",
+    "species: ": "",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 0.122,
+        "end": 1.086,
+        "label": "complaining"
+      },
+      {
+        "start": 1.399,
+        "end": 2.469,
+        "label": "complaining"
+      },
+      {
+        "start": 3.084,
+        "end": 4.127,
+        "label": "complaining"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/385892__spacether__262312-steffcaffrey-cat-meow1.mp3",
+    "website": "http://freesound.org/people/spacether/sounds/385892/download/385892__spacether__262312-steffcaffrey-cat-meow1.mp3",
+    "description": "262312__steffcaffrey__ca... / Male cat meow greeting, now in mp3 / happy meowing kitten animal mew cat kitty feline meow field-recording",
+    "species: ": "",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 0.056,
+        "end": 0.534,
+        "label": "happy greeting"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/39989__fishdog__meows-01.aiff",
+    "website": "http://freesound.org/people/Fishdog/sounds/39989/download/39989__fishdog__meows-01.aiff",
+    "description": "meows 01.aif / excerpt 01 from aging, demanding house-cat. sample 03 (not this one) sounds a bit like 'hello.' excerpt 02 from aging, ... / animal cat domestic field-recording household meow suburban vocal",
+    "species: ": "",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 0.184,
+        "end": 0.746,
+        "label": "greetings"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/406613__stubb__cat-meowing-yowl-far-mono.wav",
+    "website": "http://freesound.org/people/_stubb/sounds/406613/download/406613__stubb__cat-meowing-yowl-far-mono.wav",
+    "description": "Cat Meowing_Yowl_far_mon... / Cat meowing. / cat meowing yowl meow",
+    "species: ": "",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 0.614,
+        "end": 1.683,
+        "label": "painful"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/440735__jbierfeldt__cat-annoyed-meow-wail.wav",
+    "website": "http://freesound.org/people/jbierfeldt/sounds/440735/download/440735__jbierfeldt__cat-annoyed-meow-wail.wav",
+    "description": "Cat Annoyed Meow / Wail / A cat's annoyed meow. (Note: I didn't harm the cat in any way to get her to produce this sound. ... / wailing sad cry wail kitten animal miau cat angry meow annoy",
+    "species: ": "",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 1.363,
+        "end": 2.195,
+        "label": "annoyed"
+      },
+      {
+        "start": 2.831,
+        "end": 3.859,
+        "label": "annoyed"
+      },
+      {
+        "start": 5.211,
+        "end": 6.008,
+        "label": "annoyed"
+      },
+      {
+        "start": 7.29,
+        "end": 8.884,
+        "label": "annoyed"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/451250__dreamstobecome__cat-chirp.wav",
+    "website": "http://freesound.org/people/dreamstobecome/sounds/451250/download/451250__dreamstobecome__cat-chirp.wav",
+    "description": "cat chirp.wav / Queen Felicia is very comfy in my lap and makes tiny contented chirping sounds. / miaow animal mew vocalization cat pet kitty feline domestic meow chirp",
+    "species: ": "",
     "race": "",
     "gender": "female",
-    "purpose": "contact call",
     "format": "audio",
-    "age": "adult",
-    "note": "Crickets in da backround"
+    "active_region": [
+      {
+        "start": 0.572,
+        "end": 0.863,
+        "label": "comfortable"
+      },
+      {
+        "start": 2.749,
+        "end": 2.95,
+        "label": "comfortable"
+      },
+      {
+        "start": 6.461,
+        "end": 6.792,
+        "label": "comfortable"
+      }
+    ]
   },
-
   {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S1042_06_short.mp3", 
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "call",
-    "format": "audio"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/362953__josepharaoh99__cat-call-meow.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "call",
-    "format": "audio"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S1103_03_short.mp3", 
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "call",
-    "format": "audio",
-    "age" : "call"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S0106_01_short.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "call",
-    "format": "audio",
-    "age" : "juvenile"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S0125_01_short.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "Female",
-    "purpose": "angry",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S0292_05_short.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "call",
-    "format": "audio",
-    "age" : "adult"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S0429_01_short.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "Female",
-    "purpose": "call purr",
-    "format": "audio",
-    "age" : "adult"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S0618_01_short.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "call",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_V1542_22_short.mp3", 
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "purring",
-    "format": "audio",
-    "age" : "adult"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Felis_silvestris_f_domestica_S1103_03_short.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/1010.wav",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/0436.wav",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/0981.wav",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/cat_purring_1.m4a",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/b671476c-208a-4f92-be4d-f5e13b13cd62-preview.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/083a5191e1a55ecec38cdb39c9d869ca-preview.mp3",
-    "species": "cat",
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/455285__sieuamthanh__cat-meo.wav",
+    "website": "http://freesound.org/people/SieuAmThanh/sounds/455285/download/455285__sieuamthanh__cat-meo.wav",
+    "description": "Cat Meo / Mother cat. Use Zoom H1. 2013.02 / cat miaou meo miaow meow",
+    "species: ": "",
     "race": "",
     "gender": "female",
-    "purpose": "purr",
     "format": "audio",
-    "age" : ""
+    "active_region": [
+      {
+        "start": 0,
+        "end": 1.228,
+        "label": "begging"
+      },
+      {
+        "start": 1.52,
+        "end": 2.338,
+        "label": "begging"
+      },
+      {
+        "start": 3.098,
+        "end": 4.267,
+        "label": "begging"
+      },
+      {
+        "start": 4.968,
+        "end": 6.342,
+        "label": "begging"
+      },
+      {
+        "start": 6.985,
+        "end": 8.037,
+        "label": "begging"
+      },
+      {
+        "start": 9.06,
+        "end": 9.732,
+        "label": "begging"
+      },
+      {
+        "start": 11.486,
+        "end": 12.567,
+        "label": "begging"
+      },
+      {
+        "start": 13.21,
+        "end": 14.408,
+        "label": "begging"
+      },
+      {
+        "start": 14.905,
+        "end": 16.104,
+        "label": "begging"
+      },
+      {
+        "start": 16.484,
+        "end": 17.302,
+        "label": "begging"
+      },
+      {
+        "start": 18.705,
+        "end": 19.64,
+        "label": "begging"
+      }
+    ]
   },
-
   {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/839c32354e8d30879302a634478e8f14-preview.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "female",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/5c271ecebada7d5e22720c04f86ee398-preview.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/a28cceee0c381f436f26eb36edb35d3e-preview.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/947b65ffe8deb6f6007bfb3bb534ed67-preview.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/max.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "14 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/marilyn.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "female",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "5 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/ali.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "female",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "4 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/brucewayne.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "13 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/shmee.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "female",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "2 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/chickpea.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "0.4 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/previous.mp3",
-    "species": "cat",
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/4915__noisecollector__cat3.wav",
+    "website": "http://freesound.org/people/NoiseCollector/sounds/4915/download/4915__noisecollector__cat3.wav",
+    "description": "cat3.wav / Cat meowing into a clip on mic direct to PC. Different meow than the other ones. / animal cat environmental-sounds-research meow pet",
+    "species: ": "",
     "race": "",
     "gender": "",
-    "purpose": "purr",
     "format": "audio",
-    "age" : ""
+    "active_region": [
+      {
+        "start": 0,
+        "end": 0.972,
+        "label": "begging"
+      }
+    ]
   },
-
   {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/madison.mp3",
-    "species": "cat",
+    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/85238__cognito-perceptu__cat-pleads.wav",
+    "website": "http://freesound.org/people/cognito%20perceptu/sounds/85238/download/85238__cognito-perceptu__cat-pleads.wav",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "",
     "race": "",
     "gender": "",
-    "purpose": "purr",
     "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/bleach.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "16 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/cauchy.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "5 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/chicken.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "7 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/trip.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "female",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "14 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/bigboy.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/fausto.m4a",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "5 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/miguela.m4a",
-    "species": "cat",
-    "race": "",
-    "gender": "female",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "5 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/swizzle.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "female",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "3 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/maja.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "female",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "5 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/adrian.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "19 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/gatewildersquid.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "11 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/bowie.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "15 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/dirty.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "female",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "15 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/tiger.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "female",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "11 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/dragon.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "female",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "10 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/canolli.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "male",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "0.25 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/margot.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "female",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : "11 yrs"
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-purring-1.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-purring-2.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-purring-3.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "purr",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-meow-1.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "meow",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-meow-2.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "meow",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-meow-3.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "meow",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-meow-4.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "meow",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-meow-5.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "meow",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-meow-6.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "meow",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-meow-7.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "meow",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-meow-8.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "meow",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-meow-9.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "meow",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-meow-10.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "meow",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-meow-11.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "meow",
-    "format": "audio",
-    "age" : ""
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-sneeze-1.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "sneeze",
-    "format": "audio",
-    "age" : ""
+    "active_region": [
+      {
+        "start": 0.252,
+        "end": 1.074,
+        "label": "begging"
+      }
+    ]
   }
-
 ]
