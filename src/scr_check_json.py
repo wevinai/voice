@@ -17,6 +17,7 @@ if len(sys.argv)==1:
     print('Usage: python check_json.py <json_file.json> ...')
     quit()
 
+va, vs = 0, 0
 for jf in sys.argv[1:]:
     with open(jf, 'r') as f:
         try:
@@ -34,15 +35,22 @@ for jf in sys.argv[1:]:
             if 'format' not in e:
                 print('ERROR: "format" is missing in {}'.format(e))
                 quit()
+            if len(e['active_region']) == 0:
+                print('ERROR: "active_region" is empty in {}'.format(e))
             for ar in e['active_region']:
                 if 'label' not in ar:
                     print('Label is missing: {}'.format(e))
                     quit()
-                elif ar['label'] not in settings.all_labels:
-                    print('Label is inconsistent (label={}): {}'.format(ar['label'], e['location'].split('/')[-1]))
-                    quit()
+                #elif ar['label'] and ar['label'] not in settings.all_labels:
+                #    print('Label is inconsistent (label={}): {}'.format(ar['label'], e['location'].split('/')[-1]))
+                #    quit()
                 if ar['start'] > ar['end']:
                     print('Start time > end time (s={}, e={}) in {}'.format(ar['start'], ar['end'], 
                           e['location'].split('/')[-1]))
+                if ar['label']:
+                    vs += 1
+            if e['active_region'][0]['label']:
+                va += 1
 print('Check Finish, everything is good')
+print('There are {} valid and labelled audios and {} valid segments'.format(va, vs))
 
