@@ -96,4 +96,8 @@ HowTo:
          python scripts/scraper_freesound.py
      This script download all the audio files from freesound.org whose label don't include a bunch of 
      keywords, and search by keyword "meow".
+   - Download videos from youtube using youtube-dl in command line
+         youtube-dl <youtube_page_address>
+     e.g.,
+         youtube-dl https://www.youtube.com/watch?v=Fzn_AKN67oI
 
