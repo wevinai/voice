@@ -5,5 +5,6 @@ Author: Yuan
 from __future__ import print_function
 from sets import Set
 
-all_labels = {'hungry', 'happy', 'upset', 'annoy', 'angry', 'complain', 'comfortable', 'pain', 'attention', 'beg'}
+all_labels = {'hungry', 'happy', 'upset', 'annoy', 'angry', 'complain', 'comfortable', 'pain', 'attention', 
+              'beg', 'scared'}
 
