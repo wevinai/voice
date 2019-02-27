@@ -12,7 +12,7 @@ Author: Yuan
 from __future__ import print_function
 import sys
 import json
-
+import settings
 import sys
 reload(sys)
 sys.setdefaultencoding('utf8')
@@ -98,6 +98,12 @@ if __name__ == '__main__':
                 # sort active region data
                 e['active_region'].sort(key=lambda ar: ar['start'])
                 efilename = e['location'].split('/')[-1]
+                # print (e['active_region']['label'])
+		for x in e['active_region']:
+		    if x['label'] not in settings.all_labels:
+		    	for y in settings.all_labels:
+			    if y in x['label']:
+				x['label'] = y
                 if efilename not in audio_dict:
                     audio_dict[efilename] = e
                 else: # conflicted entry found, needs further check
