@@ -9,6 +9,7 @@ from __future__ import print_function
 import os
 import sys
 import librosa
+import settings
 
 #uses librosa library to check is can load the files
 
@@ -22,7 +23,7 @@ for dir0 in dirs:
     for name in files:
         if name.lower().endswith('.json'):
             continue
-        if name.endswith(('.wav', '.mp3', '.aiff', '.flac', '.m4a')):
+        if name.endswith(settings.all_formats):
             try:
                 y, sr = librosa.load(os.path.join(dir0, name))
             except Exception as ex:
