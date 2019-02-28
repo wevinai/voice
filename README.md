@@ -25,6 +25,9 @@ Notes:
    - Add a file to repository: git add <directory/filename>
    - Commit a change: git commit -m"what changed message"
    - Push committed changes to GitHub: git push
+   - Revert a uncomitted file change: git checkout file_name
+   - Check previous checkin information: git log file_name
+   - Find difference with older version: git diff <commit_version_id> file_name
 
 4. Python programming rules:
    - Indent is 4 spaces
