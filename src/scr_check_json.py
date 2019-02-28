@@ -9,6 +9,7 @@ Description: check JSON integrity for given files. It will check the following f
 Author: Yuan
 '''
 from __future__ import print_function
+import os
 import sys
 import json
 import settings
@@ -25,6 +26,12 @@ def check_json(dirs):
     	    for e in l:
                 if 'location' not in e:
                     print('ERROR: "location" is missing in {}'.format(e))
+                    quit()
+                if not os.path.isfile(e['location']):
+                    print('ERROR: audio/video file {} does not exist'.format(e['location']))
+                    quit()
+                if not e['location'].lower().endswith(settings.all_formats):
+                    print('ERROR: Format is not support in audio/video file {}'.format(e['location']))
                     quit()
                 if 'active_region' not in e:
                     print('ERROR: "active_region" is missing in {}'.format(e))
