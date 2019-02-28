@@ -10,4 +10,4 @@ all_labels = {'hungry', 'happy', 'upset', 'annoy', 'angry', 'complain', 'comfort
               'beg', 'sick', 'scared'}
 
 # tuples
-all_formats = ('.wav', '.mp3', '.aiff', '.flac', '.m4a', '.mp4', '.webm', '.mkv')
+all_formats = ('.wav', '.mp3', '.aiff', '.aif', '.au', '.flac', '.m4a', '.mp4', '.webm', '.mkv')

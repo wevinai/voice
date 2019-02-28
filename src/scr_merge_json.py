@@ -111,12 +111,10 @@ if __name__ == '__main__':
                     if e['location'] != e1['location'] or e['format'] != e1['format'] or \
                        len(e['active_region']) != len(e1['active_region']):
                         print('ERROR: conflict entry found: filename is {}'.format(efilename))
-                        quit()
                     el = [ar['label'] for ar in e['active_region']]
                     e1l = [ar['label'] for ar in e['active_region']]
                     if el != e1l:
                         print('ERROR: Label inconsistent for conflict entries in {}'. format(efilename))
-                        quit()
         # Now, audio_dict holds all valid entries, let's output them
         assert len(audio_dict) != 0
         with open(output_json_file, 'w') as ojf:
