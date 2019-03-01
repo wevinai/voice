@@ -44,11 +44,15 @@ def check_json(dirs):
                 for ar in e['active_region']:
                     if ar['start']==0 and ar['end']==0:
                         continue
+                    if not isinstance(ar['start'], (int,float)) or not isinstance(ar['end'], (int,float)):
+                        print('ERROR: type of start/end not (int,float) in {} : {} {}'.format(e['location'], 
+                              type(ar['start']), type(ar['end'])))
+                        quit()
                     if ar['label'] == '':
                         print('Label is missing: {}'.format(e))
                         quit()
                     elif ar['label'] not in settings.all_labels:
-                        print('Label is inconsistent (label={}): {}'.format(ar['label'], e['location'].split('/')[-1]))
+                        print('Label is incorrect (label={}): {}'.format(ar['label'], e['location'].split('/')[-1]))
                         quit()
                     if ar['start'] > ar['end']:
                         print('Start time > end time (s={}, e={}) in {}'.format(ar['start'], ar['end'], 
