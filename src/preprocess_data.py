@@ -1,3 +1,8 @@
+'''
+Preprocess all the input audio/videos and output MFCC vectors for future processing.
+Usage:
+    python preprocess_data.py <json_file.json>
+'''
 from __future__ import division
 import numpy as np
 import cPickle as pickle
@@ -53,16 +58,20 @@ def preprocess_data(**kwargs):
             except:
                 print 'librosa failed on file {}'.format(audio_file)
                 quit()
+            assert y.ndim==1, 'librosa read in unknown shape: {} from file {}'.format(y.shape, audio_file)
             k = 0
             y_norm = y/(abs(y).max())
             n_fft = int(round(fft_win/1000 * sr))
             hop_length = int(round(fft_hop/1000 * sr))
             audio_file_base = os.path.basename(audio_file)
             for ar in audio['active_region']:
+                assert isinstance(ar['start'], (int,float)) and isinstance(ar['end'], (int,float)), \
+                       'start/end type is not int: {} {}'.format(type(ar['start']), type(ar['end']))
                 i, j = int(ar['start']*sr), int(ar['end']*sr)
                 if j - i <= duration * sr:
                     y_seg = cut_window(y=y_norm, frm=i, to=j, sr=sr, dur=duration, discard_short=kwargs['discard_short'])
-                    savename = '_'.join([audio_file_base.split('.')[0], 'k'+str(k)])
+                    # add 4x'_' to be unique
+                    savename = '____'.join([audio_file_base.split('.')[0], 'k'+str(k)])
                     save_mfcc(save_to=os.path.join(DEST_DIR, savename+ext), y=y_seg, sr=sr, n_mfcc=n_mfcc,
                               n_fft=n_fft, hop_length=hop_length)
                 else:
@@ -74,8 +83,10 @@ def preprocess_data(**kwargs):
                     slices = filter(None, map(lambda n: (i+cut(n)-cut(0), i+cut(n)+cut(0)) if i+cut(n)<j else None,
                                               range(int(math.ceil(len(y)/sr)))))
                     for ii, jj in slices:
-                        y_seg = cut_window(y=y_norm, frm=ii, to=jj, sr=sr, dur=duration, discard_short = kwargs['discard_short'])
-                        savename = '_'.join([os.path.basename(audio_file).split('.')[0],'k'+str(k)+'_'+'m'+str(m)])
+                        y_seg = cut_window(y=y_norm, frm=ii, to=jj, sr=sr, dur=duration,
+                                           discard_short = kwargs['discard_short'])
+                        # Use 4x'_' to be unique
+                        savename = '____'.join([os.path.basename(audio_file).split('.')[0],'k'+str(k)+'____'+'m'+str(m)])
                         # print DEST_DIR+savename+ext
                         save_mfcc(save_to=os.path.join(DEST_DIR, savename+ext), y=y_seg, sr=sr, n_mfcc=n_mfcc, 
                                   n_fft = n_fft, hop_length = hop_length)
