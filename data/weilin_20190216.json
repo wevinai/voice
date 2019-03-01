@@ -803,8 +803,8 @@
     "age" : "",
     "active_region": [
       {
-	"start": [],
-	"end": [],
+	"start": 0,
+	"end": 0,
 	"label": "comfortable"
       }
     ]
@@ -820,8 +820,8 @@
     "age" : "",
     "active_region": [
       {
-	"start": [],
-	"end": [],
+	"start": 0,
+	"end": 0,
 	"label": "comfortable"
       }
     ]
@@ -837,8 +837,8 @@
     "age" : "",
     "active_region": [
       {
-	"start": [],
-	"end": [],
+	"start": 0,
+	"end": 0,
 	"label": "comfortable"
       }
     ]
