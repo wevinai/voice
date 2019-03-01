@@ -7,6 +7,8 @@ Description: Given a list of JSON files, it will:
     2. Merge them by
         a) Ignore those files which are not marked;
         b) Output a unified JSON file by including all valid entries
+    Usage:
+        python scr_merge_json.py <output.json> <input1.json> <input2.json> ...
 Author: Yuan
 '''
 from __future__ import print_function
