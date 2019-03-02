@@ -23,7 +23,7 @@ for dir0 in dirs:
     for name in files:
         if name.lower().endswith('.json'):
             continue
-        if name.endswith(settings.all_formats):
+        if name.lower().endswith(settings.all_formats):
             try:
                 y, sr = librosa.load(os.path.join(dir0, name))
             except Exception as ex:
