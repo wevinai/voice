@@ -109,3 +109,8 @@ HowTo:
          python scr_notin.py 1.json 2.json
      It will return all the entries in 1.json which are not in 2.json!
 
+5. How to find those audios which are not described in given json file?
+   - Use scr_list_miss_audio.py:
+         python scr_list_miss_audio.py data.json audio_dir
+     It will list all the audio files in audio_dir directory but not listed/described in data.json!
+
