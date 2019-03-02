@@ -104,3 +104,8 @@ HowTo:
      e.g.,
          youtube-dl https://www.youtube.com/watch?v=Fzn_AKN67oI
 
+4. How to find difference between two json file?
+   - Use the new script scr_notin.py
+         python scr_notin.py 1.json 2.json
+     It will return all the entries in 1.json which are not in 2.json!
+
