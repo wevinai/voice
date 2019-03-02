@@ -12,8 +12,8 @@ import math
 import os
 import json
 import sys
-
-global DEST_DIR
+import settings
+from datetime import date
 
 def preprocess_data(**kwargs):
     """Create mfcc matrix dataset for all files
@@ -32,13 +32,13 @@ def preprocess_data(**kwargs):
     n_mfcc = kwargs['n_mfcc']
 
 
-    subdir = '_'.join(['dur'+str(duration).replace('.','p'),
+    subdir = '_'.join([date.today().strftime('%y%m%d'), 'dur'+str(duration).replace('.','p'),
                        'win'+str(fft_win).replace('.','p'),
                        'hop'+str(fft_hop).replace('.','p'), 'mfcc'+str(n_mfcc)])
-    DEST_DIR = os.path.join('/hdd/mlrom/Data/animal_voice/data', subdir)
+    save_dir = os.path.join(settings.data_dir, subdir)
 
-    if not os.path.exists(DEST_DIR):
-        os.makedirs(DEST_DIR)
+    if not os.path.exists(save_dir):
+        os.makedirs(save_dir)
 
     with open(ctrl_file, 'r') as f:
         dcf = json.load(f)
@@ -65,14 +65,15 @@ def preprocess_data(**kwargs):
             hop_length = int(round(fft_hop/1000 * sr))
             audio_file_base = os.path.basename(audio_file)
             for ar in audio['active_region']:
+                # check if start/end are either int or float
                 assert isinstance(ar['start'], (int,float)) and isinstance(ar['end'], (int,float)), \
                        'start/end type is not int: {} {}'.format(type(ar['start']), type(ar['end']))
                 i, j = int(ar['start']*sr), int(ar['end']*sr)
                 if j - i <= duration * sr:
                     y_seg = cut_window(y=y_norm, frm=i, to=j, sr=sr, dur=duration, discard_short=kwargs['discard_short'])
                     # add 4x'_' to be unique
-                    savename = '____'.join([audio_file_base.split('.')[0], 'k'+str(k)])
-                    save_mfcc(save_to=os.path.join(DEST_DIR, savename+ext), y=y_seg, sr=sr, n_mfcc=n_mfcc,
+                    savename = '____'.join([audio_file_base.split('.')[0], ar['label'], 'k'+str(k)])
+                    save_mfcc(save_to=os.path.join(save_dir, savename+ext), y=y_seg, sr=sr, n_mfcc=n_mfcc,
                               n_fft=n_fft, hop_length=hop_length)
                 else:
                     m=0
@@ -86,9 +87,9 @@ def preprocess_data(**kwargs):
                         y_seg = cut_window(y=y_norm, frm=ii, to=jj, sr=sr, dur=duration,
                                            discard_short = kwargs['discard_short'])
                         # Use 4x'_' to be unique
-                        savename = '____'.join([os.path.basename(audio_file).split('.')[0],'k'+str(k)+'____'+'m'+str(m)])
-                        # print DEST_DIR+savename+ext
-                        save_mfcc(save_to=os.path.join(DEST_DIR, savename+ext), y=y_seg, sr=sr, n_mfcc=n_mfcc, 
+                        savename = '____'.join([os.path.basename(audio_file).split('.')[0], ar['label'], 'k'+str(k), 'm'+str(m)])
+                        # print save_dir+savename+ext
+                        save_mfcc(save_to=os.path.join(save_dir, savename+ext), y=y_seg, sr=sr, n_mfcc=n_mfcc, 
                                   n_fft = n_fft, hop_length = hop_length)
                         m+=1
                 k+=1
