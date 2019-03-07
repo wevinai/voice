@@ -1,0 +1,794 @@
+[
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/Morning Cat Meows.mp4",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 0.133,
+	"end": 3.593,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - 2_kittens_1_cat_lots_of_meowing_K1wpNsgkevs.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 0.430,
+	"end": 2.068,
+	"label": "complain"
+      },
+      {
+	"start": 2.041,
+	"end": 4.056,
+	"label": "complain"
+      },
+      {
+	"start": 4.378,
+	"end": 8.649,
+	"label": "complain"
+      },
+      {
+	"start": 8.756,
+	"end": 11.335,
+	"label": "complain"
+      },
+      {
+	"start": 13.484,
+	"end": 15.686,
+	"label": "complain"
+      },
+      {
+	"start": 17.405,
+	"end": 20.253,
+	"label": "complain"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - bengal_cat_meowing_sqvDGxjV-HM.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 45.602,
+	"end": 49.144,
+	"label": "comfortable"
+      },
+      {
+	"start": 68.182,
+	"end": 71.281,
+	"label": "comfortable"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - calico_cat_wont_stop_meowing_in_the_bathroom_lSdRU9T2iq4.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 0.211,
+	"end": 1.265,
+	"label": "happy"
+      },
+      {
+	"start": 1.318,
+	"end": 2.372,
+	"label": "attention"
+      },
+      {
+	"start": 3.532,
+	"end": 4.744,
+	"label": "attention"
+      },
+      {
+	"start": 4.902,
+	"end": 5.851,
+	"label": "attention"
+      },
+      {
+	"start": 6.062,
+	"end": 7.802,
+	"label": "beg"
+      },
+      {
+	"start": 7.854,
+	"end": 8.961,
+	"label": "happy"
+      },
+      {
+	"start": 9.172,
+	"end": 9.752,
+	"label": "happy"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - can_cat_meow_Q3tFjVhf3lg.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 2.521,
+	"end": 3.491,
+	"label": "attention"
+      },
+      {
+	"start": 4.558,
+	"end": 5.722,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cat_asking_for_help_okUWga1mTQU.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 8.706,
+	"end": 16.389,
+	"label": "beg"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cat_meowing_4P-5AdgYUng.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 1.819,
+	"end": 2.839,
+	"label": "attention"
+      },
+      {
+	"start": 9.992,
+	"end": 10.736,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cat_meowing_and_purring_o20C8lbpEhI.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 0.898,
+	"end": 1.796,
+	"label": "attention"
+      },
+      {
+	"start": 2.620,
+	"end": 3.667,
+	"label": "attention"
+      },
+      {
+	"start": 4.191,
+	"end": 5.838,
+	"label": "attention"
+      },
+      {
+	"start": 6.287,
+	"end": 7.410,
+	"label": "happy"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cat_meowing_at_her_kittens_DwQ-cTR-dMM.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 1.113,
+	"end": 2.226,
+	"label": "attention"
+      },
+      {
+	"start": 3.336,
+	"end": 3.200,
+	"label": "complain"
+      },
+      {
+	"start": 3.336,
+	"end": 4.313,
+	"label": "attention"
+      },
+      {
+	"start": 4.730,
+	"end": 5.612,
+	"label": "happy"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cat_meowing_Cf6dTOzwLBw.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 34.446,
+	"end": 35.169,
+	"label": "happy"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cat_meowing_relentlessly_xASVCgdiQKk.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 1.282,
+	"end": 2.337,
+	"label": "attention"
+      },
+      {
+	"start": 4.146,
+	"end": 5.503,
+	"label": "attention"
+      },
+      {
+	"start": 5.804,
+	"end": 7.086,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cat_meowing_very_loudly_f67TcSJ6eTs.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 0,
+	"end": 1.596,
+	"label": "attention"
+      },
+      {
+	"start": 2.714,
+	"end": 5.108,
+	"label": "attention"
+      },
+      {
+	"start": 6.784,
+	"end": 8.779,
+	"label": "complain"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cat_meowing_very_loudly_f67TcSJ6eTs.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 1.525,
+	"end": 6.290,
+	"label": "hungry"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cat_meows_and_gets_pets_oR2tn1EmBkg.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 10.431,
+	"end": 12.372,
+	"label": "happy"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cat_meows_and_wants_cuddles_late_at_night_A-ySxRqFlgc.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 40.391,
+	"end": 42.330,
+	"label": "comfortable"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cat_meows_and_wants_cuddles_late_at_night_A-ySxRqFlgc.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 4.214,
+	"end": 11.301,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cat_meows_i_love_you_77T_0D30zik.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 2.719,
+	"end": 4.649,
+	"label": "happy"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cat_meow_sound_kittens_and_cats_meowing_sounds_sfx_kitty_noises_relaxing_feline_purrs_-kXh_GE2fPw.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 33.546,
+	"end": 37.412,
+	"label": "happy"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cat_meow_voice_q2dW7eCMBMQ.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 0,
+	"end": 1.262,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cats_meowing_at_birds_J1wC67In7Fg.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 7.274,
+	"end": 11.607,
+	"label": "comfortable"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cats_react_to_alexa_meow_fiF0_lWdBBA.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 3.202,
+	"end": 5.521,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cat_wont_stop_meowing_until_owner_wakes_up_7rHXLqdxIkg.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 0,
+	"end": 2.034,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - close_up_of_cat_meowing_funny_cat_meowing_dDqtQU2iABY.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 7.491,
+	"end": 10.062,
+	"label": "happy"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - crazy_cat_meowing_c5lcXPvMAqI.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 3.300,
+	"end": 5.543,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cuddly_cat_meowing_N0NhbztN8WQ.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 2.247,
+	"end": 3.233,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cute_baby_kitten_meows_because_mama_cat_is_not_there_PB5FosTwM8s.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 0.618,
+	"end": 1.546,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - cute_calico_cat_meows_and_wants_food__rlu1HSuwJU.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 0,
+	"end": 11.291,
+	"label": "hungry"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - fat_cat_meow_F-DUG9Vl_io.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 30.347,
+	"end": 31.899,
+	"label": "annoy"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - extra_long_super_long_cat_meow_funny_cat_meow_funny_kitten_meow_funny_cat_funny_kitten_IwdgCPMRCBk.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 5.074,
+	"end": 8.508,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - fat_cat_meows_on_the_snow_-qtVG-jHMcI.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 0,
+	"end": 3.383,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - fluffy_cat_meowing_OGPOYt_sd5A.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 1.278,
+	"end": 2.180,
+	"label": "beg"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - funny_cat_meowing_acting_crazy_leila_is_a_beast_N_5Vc6A5Kpw.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 10.681,
+	"end": 11.683,
+	"label": "beg"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - happy_cat_meows_and_purrs_V9LmUR6BJn0.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 15.973,
+	"end": 25.635,
+	"label": "comfortable"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - hungry_cat_meowing_cat_very_hungry_JhndWhRSkzM.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 0,
+	"end": 3.450,
+	"label": "hungry"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - maine_coon_cat_meowing_meowingdont_worry_i_just_massage_my_big_cat_D21PHZxc6ro.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 1.838,
+	"end": 2.322,
+	"label": "comfortable"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - meowing_tuxedo_cat_h6nSKlQPYmY.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 1.465,
+	"end": 3.035,
+	"label": "happy"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - missy_cat_meowing_non_stop_with_a_request_-xLH6Xgo1gI.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 16.833,
+	"end": 18.436,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - morning_cat_meows_ks_mXgNsTTM.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 0.496,
+	"end": 1.559,
+	"label": "happy"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - munchkin_cat_meow_compilation_y3Zd1Vc48Xg.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 2.650,
+	"end": 4.472,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - my_cat_is_meowing_like_crazy_W5F2NMAE2cE.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 12.848,
+	"end": 14.535,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - old_cat_meow_loud_and_talking_7Qs4RVs4vHE.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 0.431,
+	"end": 1.509,
+	"label": "attention"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/y2mate.com - hungry_cat_meowing_cat_very_hungry_JhndWhRSkzM.mp3",
+    "website": "http://www.youtube.com",
+    "description": "",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+	"start": 44.339,
+	"end": 60.966,
+	"label": "attention"
+      }
+    ]
+  }
+]
