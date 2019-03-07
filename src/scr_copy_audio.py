@@ -9,6 +9,7 @@ Author: Aaron
 '''
 from __future__ import print_function
 from shutil import copyfile
+from pathlib2 import Path
 import sys
 import json
 import settings
@@ -35,6 +36,12 @@ with open(jf, 'r') as f:
             continue
         if len(e['active_region'])==0 or not e['active_region'][0]['label']:
             continue
+	f = Path(dest + os.path.basename(loc))
+	if f.is_file():
+	    if os.path.getsize(f) == os.path.getsize(loc):
+	        continue
+	    print("ERROR: " + loc + " already exists in " + dest + " but the sizes do not match.")
+	    quit()
         loc = e['location']
         copyfile(loc, os.path.join(dest, os.path.basename(loc)))
 
