@@ -41,6 +41,7 @@ def check_json(dirs):
                     quit()
                 if len(e['active_region']) == 0:
                     print('ERROR: "active_region" is empty in {}'.format(e))
+                valid = False
                 for ar in e['active_region']:
                     if ar['start']==0 and ar['end']==0:
                         continue
@@ -48,18 +49,19 @@ def check_json(dirs):
                         print('ERROR: type of start/end not (int,float) in {} : {} {}'.format(e['location'], 
                               type(ar['start']), type(ar['end'])))
                         quit()
-                    if ar['label'] == '':
+                    if 'label' not in ar or ar['label'] == '':
                         print('Label is missing: {}'.format(e))
                         quit()
                     elif ar['label'] not in settings.all_labels:
                         print('Label is incorrect (label={}): {}'.format(ar['label'], e['location'].split('/')[-1]))
                         quit()
+                    valid = True
                     if ar['start'] > ar['end']:
                         print('Start time > end time (s={}, e={}) in {}'.format(ar['start'], ar['end'], 
                               e['location'].split('/')[-1]))
                     if ar['label']:
                         vs += 1
-                if e['active_region'][0]['label']:
+                if valid:
                     va += 1
     print('Check Finish, everything is good')
     print('There are {} valid and labelled audios and {} valid segments'.format(va, vs))

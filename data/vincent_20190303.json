@@ -54,7 +54,7 @@
         "start": 0.100,
         "end": 1.700,
         "old_label": "angry",
-        "label": "this needs help"
+        "label": "unknown"
       }
     ]
   },
@@ -204,7 +204,7 @@
         "start": 0.000,
         "end": 1.040,
         "old_label": "beg",
-        "label": "attentition"
+        "label": "attention"
       }
     ]
   },
@@ -282,7 +282,7 @@
         "start": 0.000,
         "end": 7.919,
         "old_label": "comfortable",
-        "label": "purr"
+        "label": "purring"
       }
     ]
   },
@@ -300,7 +300,7 @@
         "start": 0.000,
         "end": 31.763,
         "old_label": "comfortable",
-        "label": "purr"
+        "label": "purring"
       }
     ]
   },
@@ -714,7 +714,7 @@
         "start": 0.031,
         "end": 1.272,
         "old_label": "angry",
-        "label": "not a cat"
+        "label": "unknown"
       }
     ]
   }
