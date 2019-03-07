@@ -311,23 +311,6 @@
     ]
   },
   {
-    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/cat1.wav",
-    "website": "http://www.findsounds.com",
-    "description": "",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-	"start": 0.245,
-	"end": 1.392,
-	"old_label": "complain",
-	"label": "attention"
-      }
-    ]
-  },
-  {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/cat-1.au",
     "website": "http://www.findsounds.com",
     "description": "",
@@ -485,23 +468,6 @@
 	"end": 0.896,
 	"old_label": "complain",
 	"label": "scream"
-      }
-    ]
-  },
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/Cat-meow-4.mp3",
-    "website": "http://www.findsounds.com",
-    "description": "",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-	"start": 0.707,
-	"end": 1.542,
-	"old_label": "complain",
-	"label": "attention"
       }
     ]
   },
@@ -2566,64 +2532,6 @@
 	"end": 0.608,
 	"old_label": "happy",
 	"label": "happy"
-      }
-    ]
-  },
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/cat1.wav",
-    "website": "http://www.findsounds.com",
-    "description": "",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-	"start": 0,
-	"end": 0.886,
-	"old_label": "beg",
-	"label": "attention"
-      },
-      {
-	"start": 1.826,
-	"end": 2.704,
-	"old_label": "beg",
-	"label": "attention"
-      },
-      {
-	"start": 3.123,
-	"end": 3.947,
-	"old_label": "beg",
-	"label": "attention"
-      },
-      {
-	"start": 4.374,
-	"end": 5.267,
-	"old_label": "beg",
-	"label": "attention"
-      }
-    ]
-  },
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/Cat-meow-1.mp3",
-    "website": "http://www.findsounds.com",
-    "description": "",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-	"start": 0.610,
-	"end": 1.251,
-	"old_label": "attention",
-	"label": "attention"
-      },
-      {
-	"start": 2.670,
-	"end": 3.360,
-	"old_label": "attention",
-	"label": "attention"
       }
     ]
   },

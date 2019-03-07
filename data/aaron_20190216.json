@@ -412,46 +412,6 @@
     ]
   },
   {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-hissing-sound.mp3",
-    "website": "http://www.orangefreesounds.com/category/sound-effects/animal-sounds/cat-meow-sound/",
-    "description": "",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "format" : "audio",
-    "active_region": [
-      {
-        "start": 0.107,
-	"end": 0.835,
-	"old_label": "angry",
-	"label": "hiss"
-      }
-    ]
-  },
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Angry-cat-hissing-sound.mp3",
-    "website": "http://www.orangefreesounds.com/category/sound-effects/animal-sounds/cat-meow-sound/",
-    "description": "",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "format" : "audio",
-    "active_region": [
-      {
-        "start": 0.153,
-	"end": 1.014,
-	"old_label": "angry",
-	"label": "hiss"
-      },
-      {
-	"start": 1.196,
-	"end": 2.025,
-	"old_label": "angry",
-	"label": "hiss"
-      }
-    ]
-  },
-  {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-meow-and-hiss-sounds.mp3",
     "website": "http://www.orangefreesounds.com/category/sound-effects/animal-sounds/cat-meow-sound/",
     "description": "",

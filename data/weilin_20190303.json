@@ -2770,42 +2770,6 @@
   },
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-meow-2.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "meow",
-    "format": "audio",
-    "age" : "",
-    "active_region": [
-      {
-	"start": 0.283,
-	"end": 0.955,
-	"old_label": "upset",
-	"label": "unknown"
-      },
-      {
-	"start": 1.648,
-	"end": 2.351,
-	"old_label": "upset",
-	"label": "unknown"
-      },
-      {
-	"start": 3.002,
-	"end": 3.747,
-	"old_label": "upset",
-	"label": "unknown"
-      },
-      {
-	"start": 4.230,
-	"end": 5.070,
-	"old_label": "upset",
-	"label": "unknown"
-      }
-    ]
-  },
-
-  {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-meow-3.mp3",
     "species": "cat",
     "race": "",
@@ -2837,24 +2801,6 @@
 	"end": 1.522,
 	"old_label": "happy",
 	"label": "attention"
-      }
-    ]
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-meow-5.mp3",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "meow",
-    "format": "audio",
-    "age" : "",
-    "active_region": [
-      {
-	"start": 2.034,
-	"end": 3.089,
-	"old_label": "upset",
-	"label": "unknown"
       }
     ]
   },

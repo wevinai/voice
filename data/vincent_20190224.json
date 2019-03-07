@@ -999,41 +999,6 @@
   },
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/440735__jbierfeldt__cat-annoyed-meow-wail.wav",
-    "website": "http://freesound.org/people/jbierfeldt/sounds/440735/download/440735__jbierfeldt__cat-annoyed-meow-wail.wav",
-    "description": "Cat Annoyed Meow / Wail / A cat's annoyed meow. (Note: I didn't harm the cat in any way to get her to produce this sound. ... / wailing sad cry wail kitten animal miau cat angry meow annoy",
-    "species: ": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-        "start": 1.363,
-        "end": 2.195,
-        "old_label": "annoy",
-        "label": "complain"
-      },
-      {
-        "start": 2.831,
-        "end": 3.859,
-        "old_label": "annoy",
-        "label": "complain"
-      },
-      {
-        "start": 5.211,
-        "end": 6.008,
-        "old_label": "annoy",
-        "label": "complain"
-      },
-      {
-        "start": 7.290,
-        "end": 8.884,
-        "old_label": "annoy",
-        "label": "complain"
-      }
-    ]
-  },
-  {
     "location": "/hdd/mlrom/Data/animal_voice/downloads/freesound/meow/325767__moniquekruger__cat-meowing.wav",
     "website": "http://freesound.org/people/MoniqueKruger/sounds/325767/download/325767__moniquekruger__cat-meowing.wav",
     "description": "Cat Meowing.wav / I annoyed my cat and got him to mow, moan, so that i would leave him alone. He only meowed ... / moan cat-sounds OWI meow domestic feline whine cat kitty mew cats miaul pets kitten miaow miaou",
@@ -1094,24 +1059,6 @@
         "end": 16.722,
         "old_label": "angry",
         "label": "scream"
-      }
-    ]
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190226/Angry-cat.mp3",
-    "website": "http://soundbible.com/tags-cat.html",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
-    "species: ": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-        "start": 0,
-        "end": 0,
-        "old_label": "angry",
-        "label": ""
       }
     ]
   },
@@ -1231,7 +1178,7 @@
   },
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190226/Angry-cat.mp3",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190226/Angry-cat-vincent.mp3",
     "website": "http://www.findsounds.com/ISAPI/search.dll?keywords=cat",
     "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
     "species: ": "cat",
@@ -1264,7 +1211,7 @@
         "label": "hiss"
       },
       {
-        "start": 1.075,
+        "start": 1.175,
         "end": 2.067,
         "old_label": "angry",
         "label": "hiss"
@@ -1560,24 +1507,6 @@
       {
         "start": 0,
         "end": 30.000,
-        "old_label": "comfortable",
-        "label": "purring"
-      }
-    ]
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190226/69204__luftrum__catspurr.wav",
-    "website": "https://freesound.org/search/?q=purr&page=9#sound",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
-    "species: ": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-        "start": 0,
-        "end": 47.201,
         "old_label": "comfortable",
         "label": "purring"
       }
@@ -3304,9 +3233,9 @@
     "format": "audio",
     "active_region": [
       {
-        "start": 0,
-        "end": 0.888,
-        "old_label": "comfortable",
+        "start": 0.107,
+        "end": 0.835,
+        "old_label": "angry",
         "label": "hiss"
       }
     ]
