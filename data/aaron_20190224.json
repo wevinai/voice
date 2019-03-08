@@ -1709,23 +1709,6 @@
     ]
   },
   {
-    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/Cat-meow-3.mp3",
-    "website": "http://www.findsounds.com",
-    "description": "",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-	"start": 0.512,
-	"end": 1.182,
-	"old_label": "attention",
-	"label": "attention"
-      }
-    ]
-  },
-  {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/cat-meow4.wav",
     "website": "http://www.findsounds.com",
     "description": "",
