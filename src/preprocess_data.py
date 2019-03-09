@@ -12,6 +12,7 @@ import math
 import os
 import json
 import sys
+import random
 import settings
 from datetime import date
 
@@ -45,8 +46,9 @@ def preprocess_data(**kwargs):
         ext = '.npy'
         for audio in dcf:
             assert 'format' in audio, 'Unknown "format" in {}'.format(audio)
-            if audio['format'] != 'audio':
-                continue
+            if audio['format'] != 'audio' and audio['format'] != 'video':
+                print('ERROR: format is undefined {}'.format(audio['format']))
+                quit()
             assert 'location' in audio, 'Missing "location" in {}'.format(audio)
             assert 'active_region' in audio, 'Missing "active_region" in {}'.format(audio)
             if len(audio['active_region']) == 0:
@@ -63,7 +65,7 @@ def preprocess_data(**kwargs):
             y_norm = y/(abs(y).max())
             n_fft = int(round(fft_win/1000 * sr))
             hop_length = int(round(fft_hop/1000 * sr))
-            audio_file_base = os.path.basename(audio_file)
+            audio_file_base = os.path.splitext(os.path.basename(audio_file))[0]
             for ar in audio['active_region']:
                 # check if start/end are either int or float
                 assert isinstance(ar['start'], (int,float)) and isinstance(ar['end'], (int,float)), \
@@ -72,7 +74,7 @@ def preprocess_data(**kwargs):
                 if j - i <= duration * sr:
                     y_seg = cut_window(y=y_norm, frm=i, to=j, sr=sr, dur=duration, discard_short=kwargs['discard_short'])
                     # add 4x'_' to be unique
-                    savename = '____'.join([audio_file_base.split('.')[0], ar['label'], 'k'+str(k)])
+                    savename = '____'.join([audio_file_base, ar['label'], 'k'+str(k)])
                     save_mfcc(save_to=os.path.join(save_dir, savename+ext), y=y_seg, sr=sr, n_mfcc=n_mfcc,
                               n_fft=n_fft, hop_length=hop_length)
                 else:
@@ -83,11 +85,17 @@ def preprocess_data(**kwargs):
                     #                          if i+cut(n)<j else None, range(int(math.ceil(duration*sr)))))
                     slices = filter(None, map(lambda n: (i+cut(n)-cut(0), i+cut(n)+cut(0)) if i+cut(n)<j else None,
                                               range(int(math.ceil(len(y)/sr)))))
-                    for ii, jj in slices:
+                    # there are too many purring due to long segments. We should have a limited number to pick!
+                    # sorting may not be necessary, do it just to align to avoid furture bugs
+                    if len(slices) > 5:
+                        sel_slices = sorted(random.sample(slices, 5), key=lambda tu: tu[0])
+                    else:
+                        sel_slices = slices
+                    for ii, jj in sel_slices:
                         y_seg = cut_window(y=y_norm, frm=ii, to=jj, sr=sr, dur=duration,
                                            discard_short = kwargs['discard_short'])
                         # Use 4x'_' to be unique
-                        savename = '____'.join([os.path.basename(audio_file).split('.')[0], ar['label'], 'k'+str(k), 'm'+str(m)])
+                        savename = '____'.join([audio_file_base, ar['label'], 'k'+str(k), 'm'+str(m)])
                         # print save_dir+savename+ext
                         save_mfcc(save_to=os.path.join(save_dir, savename+ext), y=y_seg, sr=sr, n_mfcc=n_mfcc, 
                                   n_fft = n_fft, hop_length = hop_length)
@@ -140,7 +148,11 @@ def rescale(m):
     #rescale by global max of absolute values
     offset = m.min()
     scale = m.max()-m.min()
-    return (m-offset)/scale
+    # Bug fix: constant vector!
+    if scale == 0:
+        return m-offset
+    else:
+        return (m-offset)/scale
 
 
 

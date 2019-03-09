@@ -11,14 +11,14 @@
       {
         "start": 2.172,
         "end": 2.985,
-        "label": "annoy",
-	"nlabel": "complain"
+        "old_label": "annoy",
+	"label": "complain"
       },
       {
         "start": 3.363,
 	"end": 3.931,
-	"label": "complain",
-	"nlabel": "complain"
+	"old_label": "complain",
+	"label": "complain"
       }
     ]
   },
@@ -34,8 +34,8 @@
       {
         "start": 0.134,
         "end": 0.53,
-        "label": "angry",
-	"nlabel": "complain"
+        "old_label": "angry",
+	"label": "complain"
       }
     ]
   },
@@ -51,26 +51,26 @@
       {
         "start": 1.635,
         "end": 2.579,
-        "label": "complain",
-	"nlabel": "compain"
+        "old_label": "complain",
+	"label": "complain"
       },
       {
 	"start": 2.810,
 	"end": 3.795,
-	"label": "pain",
-	"nlabel": "compain"
+	"old_label": "pain",
+	"label": "complain"
       },
       {
         "start": 10.735,
         "end": 11.742,
-        "label": "pain",
-	"nlabel": "compain"
+        "old_label": "pain",
+	"label": "complain"
       },
       {
         "start": 13.566,
         "end": 14.551,
-        "label": "pain",
-	"nlabel": "compain"
+        "old_label": "pain",
+	"label": "complain"
       }
     ]
   },
@@ -86,8 +86,8 @@
       {
         "start": 0.635,
         "end": 1.679,
-        "label": "annoy",
-	"nlabel": "compain"
+        "old_label": "annoy",
+	"label": "complain"
       }
     ]
   },
@@ -103,8 +103,8 @@
       {
         "start": 0.059,
         "end": 1.679,
-        "label": "beg",
-	"nlabel": "hungry"
+        "old_label": "beg",
+	"label": "attention"
       }
     ]
   },
@@ -120,20 +120,20 @@
       {
         "start": 0.093,
         "end": 0.854,
-        "label": "beg",
-	"nlabel": "hungry"
+        "old_label": "beg",
+	"label": "attention"
       },
       {
         "start": 1.399,
         "end": 2.104,
-        "label": "complain",
-	"nlabel": "compain"
+        "old_label": "complain",
+	"label": "complain"
       },
       {
         "start": 2.469,
         "end": 3.441,
-        "label": "beg",
-	"nlabel": "hungry"
+        "old_label": "beg",
+	"label": "attention"
       }
     ]
   },
@@ -149,26 +149,26 @@
       {
         "start": 0.241,
         "end": 1.985,
-        "label": "complain",
-	"nlabel": "complain"
+        "old_label": "complain",
+	"label": "complain"
       },
       {
         "start": 2.836,
         "end": 4.508,
-        "label": "annoy",
-	"nlabel": "complain"
+        "old_label": "annoy",
+	"label": "complain"
       },
       {
         "start": 6.635,
         "end": 7.599,
-        "label": "angry",
-	"nlabel": "complain"
+        "old_label": "angry",
+	"label": "complain"
       },
       {
         "start": 9.343,
         "end": 10.520,
-        "label": "annoy",
-	"nlabel": "complain"
+        "old_label": "annoy",
+	"label": "complain"
       }
     ]
   },
@@ -184,26 +184,26 @@
       {
         "start": 0.213,
         "end": 1.072,
-        "label": "comfortable",
-	"nlabel": "unknown"
+        "old_label": "comfortable",
+	"label": "unknown"
       },
       {
         "start": 1.812,
         "end": 2.656,
-        "label": "comfortable",
-	"nlabel": "unknown"
+        "old_label": "comfortable",
+	"label": "unknown"
       },
       {
         "start": 2.37,
         "end": 4.043,
-        "label": "comfortable",
-	"nlabel": "unknown"
+        "old_label": "comfortable",
+	"label": "unknown"
       },
       {
         "start": 5.311,
         "end": 6.185,
-        "label": "comfortable",
-	"nlabel": "unknown"
+        "old_label": "comfortable",
+	"label": "unknown"
       }
     ]
   },
@@ -219,8 +219,8 @@
       {
         "start": 1.534,
         "end": 3.111,
-        "label": "comfortable",
-	"nlabel": "purring"
+        "old_label": "comfortable",
+	"label": "purring"
       }
     ]
   },
@@ -236,50 +236,50 @@
       {
         "start": 0.349,
         "end": 1.747,
-        "label": "hungry",
-        "nlabel": "hungry"
+        "old_label": "attention",
+        "label": "attention"
       },
       {
         "start": 3.495,
         "end": 4.718,
-        "label": "hungry",
-        "nlabel": "hungry"
+        "old_label": "attention",
+        "label": "attention"
       },
       {
         "start": 8.562,
         "end": 9.901,
-        "label": "hungry",
-        "nlabel": "hungry"
+        "old_label": "attention",
+        "label": "attention"
       }, 
       {
         "start": 10.193,
         "end": 11.183,
-        "label": "hungry",
-        "nlabel": "hungry"
+        "old_label": "attention",
+        "label": "attention"
       },     
       {
         "start": 20.676,
         "end": 22.133,
-        "label": "hungry",
-        "nlabel": "hungry"
+        "old_label": "attention",
+        "label": "attention"
       },
       {
         "start": 22.366,
         "end": 23.297,
-        "label": "hungry",
-        "nlabel": "hungry"
+        "old_label": "attention",
+        "label": "attention"
       },
       {
         "start": 33.141,
         "end": 34.247,
-        "label": "hungry",
-        "nlabel": "hungry"
+        "old_label": "attention",
+        "label": "attention"
       },
       {
         "start": 43.683,
         "end": 45.372,
-        "label": "hungry",
-        "nlabel": "hungry"
+        "old_label": "attention",
+        "label": "attention"
       }
     ]
   },
@@ -295,8 +295,8 @@
       {
         "start": 0.359,
         "end": 1.56,
-        "label": "comfortable",
-        "nlabel": "purring"
+        "old_label": "comfortable",
+        "label": "purring"
       }
     ]
   },
@@ -312,20 +312,20 @@
       {
         "start": 5.582,
         "end": 7.343,
-        "label": "comfortable",
-        "nlabel": "purring"
+        "old_label": "comfortable",
+        "label": "purring"
       },
       {
         "start": 9.997,
         "end": 11.585,
-        "label": "comfortable",
-        "nlabel": "purring"
+        "old_label": "comfortable",
+        "label": "purring"
       },
       {
         "start": 12.85,
         "end": 14.091,
-        "label": "comfortable",
-        "nlabel": "purring"
+        "old_label": "comfortable",
+        "label": "purring"
       }
     ]
   },
@@ -341,56 +341,56 @@
       {
         "start": 0.479,
         "end": 1.877,
-        "label": "pain",
-        "nlabel": "complain"
+        "old_label": "pain",
+        "label": "complain"
       },
       {
         "start": 3.834,
         "end": 5.073,
-        "label": "comfortable",
-        "nlabel": "purring"
+        "old_label": "comfortable",
+        "label": "purring"
       },
       {
         "start": 6.710,
         "end": 9.985,
-        "label": "comfortable",
-        "nlabel": "purring"
+        "old_label": "comfortable",
+        "label": "purring"
       },
       {
         "start": 12.062,
         "end": 13.78,
-        "label": "pain",
-        "nlabel": "complain"
+        "old_label": "pain",
+        "label": "complain"
       },
       {
         "start": 14.818,
         "end": 16.176,
-        "label": "pain",
-        "nlabel": "complain"
+        "old_label": "pain",
+        "label": "complain"
       },
       {
         "start": 16.296,
         "end": 17.455,
-        "label": "pain",
-        "nlabel": "complain"
+        "old_label": "pain",
+        "label": "complain"
       },
       {
         "start": 17.774,
         "end": 18.932,
-        "label": "pain",
-        "nlabel": "complain"
+        "old_label": "pain",
+        "label": "complain"
       },
       {
         "start": 21.968,
         "end": 23.805,
-        "label": "comfortable",
-        "nlabel": "purring"
+        "old_label": "comfortable",
+        "label": "purring"
       },
       {
         "start": 26.921,
         "end": 31.115,
-        "label": "comfortable",
-        "nlabel": "purring"
+        "old_label": "comfortable",
+        "label": "purring"
       }
     ]
   },
@@ -406,48 +406,8 @@
       {
         "start": 0.231,
 	"end": 0.766,
-	"label": "angry",
-        "nlabel": "hiss"
-      }
-    ]
-  },
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Cat-hissing-sound.mp3",
-    "website": "http://www.orangefreesounds.com/category/sound-effects/animal-sounds/cat-meow-sound/",
-    "description": "",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "format" : "audio",
-    "active_region": [
-      {
-        "start": 0.107,
-	"end": 0.835,
-	"label": "angry",
-	"nlabel": "hiss"
-      }
-    ]
-  },
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/audio/Angry-cat-hissing-sound.mp3",
-    "website": "http://www.orangefreesounds.com/category/sound-effects/animal-sounds/cat-meow-sound/",
-    "description": "",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "format" : "audio",
-    "active_region": [
-      {
-        "start": 0.153,
-	"end": 1.014,
-	"label": "angry",
-	"nlabel": "hiss"
-      },
-      {
-	"start": 1.196,
-	"end": 2.025,
-	"label": "angry",
-	"nlabel": "hiss"
+	"old_label": "angry",
+        "label": "hiss"
       }
     ]
   },
@@ -463,14 +423,14 @@
       {
         "start": 0.101,
 	"end": 1.463,
-	"label": "beg",
-	"nlabel": "hungry"
+	"old_label": "beg",
+	"label": "attention"
       },
       {
 	"start": 1.633,
 	"end": 2.611,
-	"label": "angry",
-	"nlabel": "hiss"
+	"old_label": "angry",
+	"label": "hiss"
       }
     ]
   },
@@ -486,8 +446,8 @@
       {
         "start": 0.139,
 	"end": 26.793,
-	"label": "comfortable",
-	"nlabel": "hungry"
+	"old_label": "comfortable",
+	"label": "attention"
       }
     ]
   },
@@ -503,8 +463,8 @@
       {
         "start": 0.640,
 	"end": 2.286,
-	"label": "angry",
-	"nlabel": "scream"
+	"old_label": "angry",
+	"label": "scream"
       }
     ]
   },
@@ -520,20 +480,20 @@
       {
         "start": 0.214,
 	"end": 1.086,
-	"label": "attention",
-	"nlabel": "attention"
+	"old_label": "attention",
+	"label": "attention"
       },
       {
         "start": 1.550,
 	"end": 2.643,
-	"label": "attention",
-	"nlabel": "attention"
+	"old_label": "attention",
+	"label": "attention"
       },
       {
         "start": 3.460,
 	"end": 4.651,
-	"label": "attention",
-	"nlabel": "attention"
+	"old_label": "attention",
+	"label": "attention"
       }
     ]
   },
@@ -549,8 +509,8 @@
       {
         "start": 0.111,
 	"end": 1.177,
-	"label": "attention",
-	"nlabel": "attention"
+	"old_label": "attention",
+	"label": "attention"
       }
     ]
   },
@@ -566,26 +526,26 @@
       {
         "start": 0.211,
 	"end": 1.322,
-	"label": "beg",
-	"nlabel": "attention"
+	"old_label": "beg",
+	"label": "attention"
       },
       {
         "start": 2.973,
 	"end": 4.026,
-	"label": "beg",
-	"nlabel": "attention"
+	"old_label": "beg",
+	"label": "attention"
       },
       {
         "start": 5.2311,
 	"end": 6.296,
-	"label": "beg",
-	"nlabel": "attention"
+	"old_label": "beg",
+	"label": "attention"
       },
       {
         "start": 7.478,
 	"end": 8.379,
-	"label": "beg",
-	"nlabel": "attention"
+	"old_label": "beg",
+	"label": "attention"
       }
     ]
   },
@@ -601,8 +561,8 @@
       {
         "start": 0.054,
 	"end": 0.973,
-	"label": "angry",
-	"nlabel": "hiss"
+	"old_label": "angry",
+	"label": "hiss"
       }
     ]
   },
@@ -618,44 +578,44 @@
       {
         "start": 0.058,
 	"end": 0.759,
-	"label": "happy",
-	"nlabel": "happy"
+	"old_label": "happy",
+	"label": "happy"
       },
       {
 	"start": 0.747,
 	"end": 1.517,
-	"label": "happy",
-	"nlabel": "happy"
+	"old_label": "happy",
+	"label": "happy"
       },
       {
 	"start": 1.879,
 	"end": 2.754,
-	"label": "happy",
-	"nlabel": "happy"
+	"old_label": "happy",
+	"label": "happy"
       },
       {
 	"start": 3.302,
 	"end": 3.991,
-	"label": "happy",
-	"nlabel": "happy"
+	"old_label": "happy",
+	"label": "happy"
       },
       {
 	"start": 4.364,
 	"end": 5.275,
-	"label": "attention",
-	"nlabel": "attention"
+	"old_label": "attention",
+	"label": "attention"
       },
       {
 	"start": 5.753,
 	"end": 6.757,
-	"label": "happy",
-	"nlabel": "happy"
+	"old_label": "happy",
+	"label": "happy"
       },
       {
 	"start": 7.048,
 	"end": 7.772,
-	"label": "happy",
-	"nlabel": "happy"
+	"old_label": "happy",
+	"label": "happy"
       }
     ]
   },
@@ -671,8 +631,8 @@
       {
         "start": 0.082,
 	"end": 0.884,
-	"label": "upset",
-	"nlabel": "scream"
+	"old_label": "upset",
+	"label": "scream"
       }
     ]
   },
@@ -688,14 +648,14 @@
       {
         "start": 1.251,
 	"end": 2.144,
-	"label": "comfortable",
-	"nlabel": "comfortable"
+	"old_label": "comfortable",
+	"label": "unknown"
       },
       {
         "start": 2.963,
 	"end": 3.802,
-	"label": "comfortable",
-	"label": "comfortable"
+	"old_label": "comfortable",
+	"label": "unknown"
       }
     ]
   }

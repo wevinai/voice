@@ -1,10 +1,56 @@
 #!/bin/bash
 
-echo Check audio integrity
-python ../src/scr_check_audio.py
+# 1st argument is the file name of the combined merge
+# 2nd & 3rd argument decide
 
-echo Check JSON integrity
-python ../src/scr_check_json.py ../data/data.json
+function prompt {
+    echo
+    echo $1
+    read answer
+}
 
-echo Merge human written JSON files
-python ../src/scr_merge_json.py t.json /hdd/mlrom/Data/animal_voice/audio/dataP1.json /hdd/mlrom/Data/animal_voice/audio/dataP2.json
+proj_dir=${VOICE_HOME}
+data_dir_l="/hdd/mlrom/Data/animal_voice/audio /hdd/mlrom/Data/animal_voice/aaron/aaron_audio /hdd/mlrom/Data/animal_voice/vincent/20190226 /hdd/mlrom/Data/animal_voice/vincent/20190303 /hdd/mlrom/Data/animal_voice/weilin/85Catsounds /hdd/mlrom/Data/animal_voice/weilin/First14audios /hdd/mlrom/Data/animal_voice/weilin/41CatSneezes /hdd/mlrom/Data/animal_voice/downloads/freesound/meow"
+echo "$filelist1"
+prompt 'Check audio integrity? (yes/no)'
+if [ $answer == 'yes' -o $answer == 'y' -o $answer == 'Yes' ]
+then
+    for f in $data_dir_l
+    do
+        echo "---- Run scr_check_aduio.py on $f"
+        python $VOICE_HOME/src/scr_check_audio.py $f
+    done
+fi
+
+
+
+prompt 'Check JSON integrity? (yes/no)'
+if [ $answer == 'yes' -o $answer == 'y' -o $answer == 'Yes' ]
+then
+    json_files=()
+    for f in $VOICE_HOME/data/*2019*.json
+    do
+        echo "---- Run scr_check_json on $f"
+        python $VOICE_HOME/src/scr_check_json.py $f
+        json_files[${#json_files[@]}]=$f
+    done
+fi
+
+prompt 'Merge all the Json files'
+echo "---- Merge the following JSON files:"
+echo "     ${json_files[@]}"
+python $VOICE_HOME/src/scr_merge_json.py $VOICE_HOME/data/all.json ${json_files[@]}
+
+prompt 'Preprocess Audio data'
+echo "---- Run preprocess to generate MFCC frequence vectors"
+python $VOICE_HOME/src/preprocess_data.py $VOICE_HOME/data/all.json
+
+#bigfile=/home/weilin/Desktop/AllCombinedAudios
+
+#for file1 in $filelist1
+#    do
+#        python /hdd/projects/yuan/voice/src/scr_merge_json.py merge.json $bigfile /hdd/projects/yuan/voice/data/$file1
+#        $bigfile=merge.json
+#        rm merge.json
+#    done
+        

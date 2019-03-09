@@ -75,6 +75,13 @@ def analyze(data_dir):
         X = np.concatenate((X, x[[0]]))
         Y = np.concatenate((Y, [settings.all_labels[fname_ext[1]]]))
 
+    print('Statistics on labels:')
+    for l in settings.all_labels:
+        if l not in label_count:
+            print('    Label ({}): 0'.format(l))
+        else:
+            print('    Label ({}): {}'.format(l, label_count[l]))
+
     X_ = X.reshape(X.shape[0], X.shape[1]*X.shape[2])
     pca = PCA(n_components=3)
     pca.fit(X_)
@@ -83,23 +90,18 @@ def analyze(data_dir):
 
     #show(X_pca, Y, Y_names, ['happy', 'upset'], dim=2)
     #show(X_pca, Y, Y_names, ['happy', 'angry'], dim=2)
-    show(X_pca, Y, Y_names, [], dim=2)
-    show(X_pca, Y, Y_names, ['happy', 'upset'], dim=2)
-    show(X_pca, Y, Y_names, ['happy', 'scared'], dim=2)
-    show(X_pca, Y, Y_names, ['happy', 'pain'], dim=2)
+    show(X_pca, Y, Y_names, ['happy', 'hiss'], dim=2)
+    show(X_pca, Y, Y_names, ['happy', 'scream'], dim=2)
+    show(X_pca, Y, Y_names, ['happy', 'sneeze'], dim=2)
     show(X_pca, Y, Y_names, ['happy', 'complain'], dim=2)
-    show(X_pca, Y, Y_names, ['happy', 'annoy'], dim=2)
-    show(X_pca, Y, Y_names, ['attention', 'hungry'], dim=2)
-    show(X_pca, Y, Y_names, ['attention', 'beg'], dim=2)
-    show(X_pca, Y, Y_names, ['happy', 'beg'], dim=2)
-
-    #for (label, cnt) in label_count.iteritems():
-    #     print('Label ({}): {}'.format(label, cnt))
-    for l in settings.all_labels:
-        if l not in label_count:
-            print('Label ({}): 0'.format(l))
-        else:
-            print('Label ({}): {}'.format(l, label_count[l]))
+    show(X_pca, Y, Y_names, ['scream', 'hiss'], dim=2)
+    show(X_pca, Y, Y_names, ['attention', 'happy'], dim=2)
+    show(X_pca, Y, Y_names, ['attention', 'hiss'], dim=2)
+    show(X_pca, Y, Y_names, ['attention', 'scream'], dim=2)
+    show(X_pca, Y, Y_names, ['attention', 'sneeze'], dim=2)
+    show(X_pca, Y, Y_names, ['scream', 'sneeze'], dim=2)
+    show(X_pca, Y, Y_names, ['scream', 'complain'], dim=2)
+    show(X_pca, Y, Y_names, [], dim=2)
 
 if __name__ =='__main__':
     if len(sys.argv) != 2:

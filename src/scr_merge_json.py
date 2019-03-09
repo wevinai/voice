@@ -93,7 +93,7 @@ if __name__ == '__main__':
                     print('ERROR: "format" field missing in {}'.format(e))
                     quit()
     
-                if len(e['active_region']) == 1 and not e['active_region'][0]['label']:
+                if len(e['active_region']) == 1 and not ('label' in e['active_region'][0] and e['active_region'][0]['label']):
                     # this entry is not labeled yet, ignore them
                     continue
     
