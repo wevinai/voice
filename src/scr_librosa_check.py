@@ -2,8 +2,8 @@ import os
 import librosa
 import sys
 
-if len(sys.argv)! = 1:
-    print('Usage: python scr.find_missing.py <json_file.json> <directory of audios>')
+if len(sys.argv) != 2:
+    print('Usage: python scr.find_missing.py <audio file>')
     quit()
 
 
