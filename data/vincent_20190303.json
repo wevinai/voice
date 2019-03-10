@@ -42,24 +42,6 @@
   },
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190303/60239__kathakaku__1.wav",
-    "website": "https://freesound.org/search/?q=purr&page=9#sound",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
-    "species: ": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-        "start": 0.100,
-        "end": 1.700,
-        "old_label": "angry",
-        "label": "unknown"
-      }
-    ]
-  },
-
-  {
     "location": "/hdd/mlrom/Data/animal_voice/vincent/20190303/67444__promete__cat-angry-hissing-01.wav",
     "website": "https://freesound.org/search/?q=purr&page=9#sound",
     "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
@@ -355,24 +337,6 @@
         "end": 0.958,
         "old_label": "angry",
         "label": "hiss"
-      }
-    ]
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190303/253109__fuzzycat__cat-purr-3.wav",
-    "website": "https://freesound.org/search/?q=purr&page=9#sound",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
-    "species: ": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-        "start": 0.000,
-        "end": 15.229,
-        "old_label": "comfortable",
-        "label": "unknown"
       }
     ]
   },

@@ -380,22 +380,6 @@
     ]
   },
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190309/415209__inspectorj__cat-screaming-a.wav",
-    "website": "https://youtube.com",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
-    "species: ": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-        "start": 0.272,
-        "end": 1.322,
-        "label": "scream"
-      }
-    ]
-  },
-  {
     "location": "/hdd/mlrom/Data/animal_voice/vincent/20190309/A Complaining Cat! He Wont shut up!!.mp3",
     "website": "https://youtube.com",
     "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
@@ -429,22 +413,6 @@
 	"start": 1.697,
 	"end": 2.115,
         "label": "sneeze"
-      }
-    ]
-  },
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190309/Black cat hiss.mp3",
-    "website": "https://youtube.com",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
-    "species: ": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-        "start": 18.705,
-        "end": 19.648,
-        "label": "hiss"
       }
     ]
   },
