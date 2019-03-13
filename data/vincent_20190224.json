@@ -2372,24 +2372,6 @@
   },
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190226/326452__miekyj__cat-purr-owi.wav",
-    "website": "https://freesound.org/search/?q=purr&page=9#sound",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
-    "species: ": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-        "start": 0,
-        "end": 11.239,
-        "old_label": "purring",
-        "label": "unknown"
-      }
-    ]
-  },
-
-  {
     "location": "/hdd/mlrom/Data/animal_voice/vincent/20190226/330297__maycuddlepie__cat-purr.mp3",
     "website": "https://freesound.org/search/?q=purr&page=9#sound",
     "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
@@ -2582,7 +2564,7 @@
         "start": 0,
         "end": 31.929,
         "old_label": "purring",
-        "label": "unknown"
+        "label": "purring"
       }
     ]
   },
@@ -2597,10 +2579,28 @@
     "format": "audio",
     "active_region": [
       {
-        "start": 0,
-        "end": 39.905,
+        "start": 0.238,
+        "end": 2.259,
         "old_label": "purring",
-        "label": "unknown"
+        "label": "purring"
+      },
+      {
+        "start": 3.329,
+        "end": 7.513,
+        "old_label": "purring",
+        "label": "purring"
+      },
+      {
+        "start": 10.699,
+        "end": 14.099,
+        "old_label": "purring",
+        "label": "purring"
+      },
+      {
+        "start": 15.891,
+        "end": 20.000,
+        "old_label": "purring",
+        "label": "purring"
       }
     ]
   },
