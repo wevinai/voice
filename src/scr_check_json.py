@@ -59,8 +59,9 @@ def check_json(dirs):
                     if ar['start'] > ar['end']:
                         print('Start time > end time (s={}, e={}) in {}'.format(ar['start'], ar['end'], 
                               e['location'].split('/')[-1]))
-                    if ar['end'] - ar['start'] > 5:
-                        print('WARN: Too large region will affect classification. Please shrink them into small pieces')
+                    if ar['end'] - ar['start'] > 5 and ar['label']!='purring' and ar['label']!='growl':
+                        # We allow long segments for purring sound!
+                        print('WARN: Too large region in {}. Please shrink them into small pieces'.format(e['location']))
                     if ar['label']:
                         vs += 1
                 if valid:

@@ -9,8 +9,20 @@
     "format": "audio",
     "active_region": [
       {
-	"start": 0.3,
-	"end": 8.046,
+	"start": 0.232,
+	"end": 1.417,
+	"old_label": "angry",
+	"label": "growl"
+      },
+      {
+	"start": 1.454,
+	"end": 5.090,
+	"old_label": "angry",
+	"label": "growl"
+      },
+      {
+	"start": 5.091,
+	"end": 6.592,
 	"old_label": "angry",
 	"label": "scream"
       }
@@ -1514,9 +1526,15 @@
     "active_region": [
       {
 	"start": 0,
-	"end": 5.449,
+	"end": 1.820,
 	"old_label": "upset",
-	"label": "scream"
+	"label": "growl"
+      },
+      {
+	"start": 1.821,
+	"end": 4.858,
+	"old_label": "upset",
+	"label": "growl"
       }
     ]
   },
@@ -2380,7 +2398,43 @@
     "format": "audio",
     "active_region": [
       {
-	"start": 0.053,
+	"start": 0.237,
+	"end": 0.834,
+	"old_label": "angry",
+	"label": "growl"
+      },
+      {
+	"start": 0.835,
+	"end": 1.915,
+	"old_label": "angry",
+	"label": "growl"
+      },
+      {
+	"start": 1.915,
+	"end": 3.048,
+	"old_label": "angry",
+	"label": "scream"
+      },
+      {
+	"start": 3.049,
+	"end": 4.008,
+	"old_label": "angry",
+	"label": "hiss"
+      },
+      {
+	"start": 4.009,
+	"end": 4.468,
+	"old_label": "angry",
+	"label": "scream"
+      },
+      {
+	"start": 4.049,
+	"end": 8.803,
+	"old_label": "angry",
+	"label": "scream"
+      },
+      {
+	"start": 8.804,
 	"end": 10.368,
 	"old_label": "angry",
 	"label": "scream"
@@ -2415,6 +2469,12 @@
     "active_region": [
       {
 	"start": 0,
+	"end": 4.115,
+	"old_label": "happy",
+	"label": "happy"
+      },
+      {
+	"start": 4.116,
 	"end": 5.160,
 	"old_label": "happy",
 	"label": "happy"
@@ -2461,6 +2521,30 @@
     "active_region": [
       {
 	"start": 0.129,
+	"end": 1.613,
+	"old_label": "angry",
+	"label": "scream"
+      },
+      {
+	"start": 1.614,
+	"end": 2.509,
+	"old_label": "angry",
+	"label": "growl"
+      },
+      {
+	"start": 2.739,
+	"end": 3.274,
+	"old_label": "angry",
+	"label": "scream"
+      },
+      {
+	"start": 3.275,
+	"end": 4.416,
+	"old_label": "angry",
+	"label": "hiss"
+      },
+      {
+	"start": 4.417,
 	"end": 7.625,
 	"old_label": "angry",
 	"label": "scream"

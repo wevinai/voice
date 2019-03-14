@@ -1092,13 +1092,25 @@
     "active_region": [
       {
         "start": 0.204,
-        "end": 6.614,
+        "end": 1.495,
         "old_label": "angry",
-        "label": "scream"
+        "label": "growl"
       },
       {
-        "start": 7.492,
-        "end": 8.064,
+        "start": 1.496,
+        "end": 3.739,
+        "old_label": "angry",
+        "label": "growl"
+      },
+      {
+        "start": 3.740,
+        "end": 5.122,
+        "old_label": "angry",
+        "label": "growl"
+      },
+      {
+        "start": 5.149,
+        "end": 6.599,
         "old_label": "angry",
         "label": "scream"
       }
