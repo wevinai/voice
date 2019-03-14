@@ -136,7 +136,11 @@ if __name__ =='__main__':
     args = parser.parse_args()
     if args.dir:
         my_dir = os.path.join(settings.data_dir, args.dir)
+    else:
+        print('ERROR: Data directory is not specified')
+        quit()
     if not os.path.isdir(my_dir):
         print('ERROR: Data directory is incorect: {}'.format(my_dir))
+        quit()
     analyze(my_dir, view_dim=int(args.dim), method=args.method, output=args.output)
 
