@@ -113,4 +113,12 @@ HowTo:
    - Use scr_list_miss_audio.py:
          python scr_list_miss_audio.py data.json audio_dir
      It will list all the audio files in audio_dir directory but not listed/described in data.json!
+6. How to play a video in Ubuntu environment?
+   - Either use Applications->Multimedia->Videos OR run command line:
+         totem <video_file>
 
+7. When you start audacity, it says "Another copy is running, ..." and refuse to start.
+   - This happens possibly because the previous run of audacity is killed abnormally. We need to clean lock:
+         cd /var/tmp/audacity-<your_name>
+         rm -rf *
+     Then restart audacity. It should work then!
