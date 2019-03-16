@@ -622,7 +622,7 @@
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/Sad-cat.mp3",
     "website": "http://www.orangefreesounds.com/category/sound-effects/animal-sounds/cat-meow-sound/",
-    "description": "",
+    "description": "Yuan: I don't think this is a scream sound. It is more like complain!",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -631,8 +631,8 @@
       {
         "start": 0.082,
 	"end": 0.884,
-	"old_label": "upset",
-	"label": "scream"
+	"old_label": "upset/scream",
+	"label": "complain"
       }
     ]
   },
