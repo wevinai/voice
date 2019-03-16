@@ -120,9 +120,139 @@
         "label": "growl"
       },
       {
-        "start": 13.826,
-        "end": 21.389,
+        "start": 11.267,
+        "end": 13.533,
         "label": "complain"
+      },
+      {
+        "start": 14.218,
+        "end": 15.649,
+        "label": "complain"
+      },
+      {
+        "start": 16.096,
+        "end": 17.437,
+        "label": "complain"
+      },
+      {
+        "start": 17.795,
+        "end": 18.778,
+        "label": "complain"
+      },
+      {
+        "start": 19.404,
+        "end": 20.656,
+        "label": "complain"
+      },
+      {
+        "start": 22.087,
+        "end": 23.786,
+        "label": "complain"
+      },
+      {
+        "start": 25.127,
+        "end": 28.914,
+        "label": "growl"
+      },
+      {
+        "start": 30.314,
+        "end": 31.891,
+        "label": "hiss"
+      },
+      {
+        "start": 33.354,
+        "end": 36.884,
+        "label": "growl"
+      },
+      {
+        "start": 38.272,
+        "end": 41.623,
+        "label": "growl"
+      },
+      {
+        "start": 43.190,
+        "end": 44.740,
+        "label": "growl"
+      },
+      {
+        "start": 45.694,
+        "end": 47.075,
+        "label": "complain"
+      },
+      {
+        "start": 47.572,
+        "end": 48.607,
+        "label": "complain"
+      },
+      {
+        "start": 49.360,
+        "end": 50.442,
+        "label": "complain"
+      },
+      {
+        "start": 51.059,
+        "end": 52.019,
+        "label": "complain"
+      },
+      {
+        "start": 53.563,
+        "end": 54.877,
+        "label": "complain"
+      },
+      {
+        "start": 56.872,
+        "end": 60.119,
+        "label": "growl"
+      },
+      {
+        "start": 61.701,
+        "end": 62.978,
+        "label": "hiss"
+      },
+      {
+        "start": 63.578,
+        "end": 64.667,
+        "label": "hiss"
+      },
+      {
+        "start": 67.066,
+        "end": 68.397,
+        "label": "complain"
+      },
+      {
+        "start": 69.748,
+        "end": 71.051,
+        "label": "complain"
+      },
+      {
+        "start": 71.358,
+        "end": 72.593,
+        "label": "complain"
+      },
+      {
+        "start": 73.325,
+        "end": 74.385,
+        "label": "complain"
+      },
+      {
+        "start": 14.845,
+        "end": 15.998,
+        "label": "complain"
+      },
+      {
+        "start": 17.528,
+        "end": 18.884,
+        "label": "complain"
+      },
+      {
+        "start": 20.479,
+        "end": 23.845,
+        "label": "growl"
+      },
+      {
+        "start": 25.397,
+        "end": 26.675,
+        "label": "hiss"
       }
     ]
   },
@@ -155,12 +285,77 @@
     "active_region": [
       {
         "start": 4.928,
+        "end": 8.507,
+        "label": "complain"
+      },
+      {
+        "start": 8.508,
         "end": 10.507,
         "label": "complain"
       },
       {
         "start": 11.901,
-        "end": 17.201,
+        "end": 16.201,
+        "label": "complain"
+      },
+      {
+        "start": 17.238,
+        "end": 20.538,
+        "label": "complain"
+      },
+      {
+        "start": 22.092,
+        "end": 24.917,
+        "label": "scream"
+      },
+      {
+        "start": 29.761,
+        "end": 31.311,
+        "label": "complain"
+      },
+      {
+        "start": 31.380,
+        "end": 33.136,
+        "label": "complain"
+      },
+      {
+        "start": 34.124,
+        "end": 38.324,
+        "label": "complain"
+      },
+      {
+        "start": 39.049,
+        "end": 40.524,
+        "label": "scream"
+      },
+      {
+        "start": 40.525,
+        "end": 42.590,
+        "label": "complain"
+      },
+      {
+        "start": 44.677,
+        "end": 47.952,
+        "label": "complain"
+      },
+      {
+        "start": 50.306,
+        "end": 53.506,
+        "label": "complain"
+      },
+      {
+        "start": 55.653,
+        "end": 59.153,
+        "label": "complain"
+      },
+      {
+        "start": 59.804,
+        "end": 62.954,
+        "label": "complain"
+      },
+      {
+        "start": 64.307,
+        "end": 65.582,
         "label": "complain"
       }
     ]
@@ -487,9 +682,39 @@
     "age" : "",
     "active_region": [
       {
-        "start": 23.974,
-        "end": 30.060,
+        "start": 20.863,
+        "end": 22.455,
         "label": "complain"
+      },
+      {
+        "start": 41.586,
+        "end": 44.777,
+        "label": "complain"
+      },
+      {
+        "start": 44.900,
+        "end": 49.251,
+        "label": "growl"
+      },
+      {
+        "start": 49.610,
+        "end": 50.706,
+        "label": "hiss"
+      },
+      {
+        "start": 56.029,
+        "end": 60.651,
+        "label": "growl"
+      },
+      {
+        "start": 63.007,
+        "end": 65.502,
+        "label": "growl"
+      },
+      {
+        "start": 65.728,
+        "end": 66.984,
+        "label": "hiss"
       }
     ]
   },
