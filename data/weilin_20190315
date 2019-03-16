@@ -1,0 +1,717 @@
+[
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Angryblackcathissingandgrowling-BoXJR6_zAwQ.mp4",
+    "website": "https://www.youtube.com/watch?v=BoXJR6_zAwQ",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 7.768,
+        "label": "growl"
+      },
+      {
+        "start": 10.755,
+        "end": 16.581,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/AngryCatgrowlingwhileeating-_4-rnFMHE6g.webm",
+    "website": "https://www.youtube.com/watch?v=_4-rnFMHE6g",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 8.855,
+        "end": 14.858,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Angrycathissingandgrowling-2ASyuuVhr6M.mp4",
+    "website": "https://www.youtube.com/watch?v=2ASyuuVhr6M",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 19.217,
+        "end": 24.315,
+        "label": "growl"
+      },
+      {
+        "start": 27.191,
+        "end": 32.028,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/AngryKittenGrowl-z_WasI8m3iM.mp4",
+    "website": "https://www.youtube.com/watch?v=z_WasI8m3iM",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 25.837,
+        "end": 29.581,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/AtHome-BengalLeopardCatGrowlingAtMyDaughter-xsNrfXkPygw.mkv",
+    "website": "https://www.youtube.com/watch?v=xsNrfXkPygw",
+    "species": "cat",
+    "race": "bengal cat",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 6.028,
+        "end": 8.451,
+        "label": "growl"
+      },
+      {
+        "start": 8.451,
+        "end": 10.422,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/CatAngryGrowlHissSoundEffectfreesound-LYQMIKfaH_k.mkv",
+    "website": "https://www.youtube.com/watch?v=LYQMIKfaH_k",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 1.300,
+        "end": 5.909,
+        "label": "growl"
+      },
+      {
+        "start": 6.263,
+        "end": 10.754,
+        "label": "growl"
+      },
+      {
+        "start": 13.826,
+        "end": 21.389,
+        "label": "complain"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/catgrowlingatdog-aErFnVitDgE.mkv",
+    "website": "https://www.youtube.com/watch?v=aErFnVitDgE",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0.964,
+        "end": 10.444,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Catgrowling---EVIL-EF6qu3mXlvo.mkv",
+    "website": "https://www.youtube.com/watch?v=EF6qu3mXlvo",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat complaining",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 4.928,
+        "end": 10.507,
+        "label": "complain"
+      },
+      {
+        "start": 11.901,
+        "end": 17.201,
+        "label": "complain"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Catgrowlinglikeadog-k9d9atW0FYU.mkv",
+    "website": "https://www.youtube.com/watch?v=k9d9atW0FYU",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 2.790,
+        "end": 8.856,
+        "label": "growl"
+      },
+      {
+        "start": 14.923,
+        "end": 18.148,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/CatGrowlingLikeLionwhileEating-MdcoHmh8uGM.mkv",
+    "website": "https://www.youtube.com/watch?v=MdcoHmh8uGM",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat complaining",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 34.141,
+        "end": 36.686,
+        "label": "complain"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/CatGrowlingWhileEating-gpaX15tTUoc.mp4",
+    "website": "https://www.youtube.com/watch?v=gpaX15tTUoc",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 26.991,
+        "end": 34.531,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/catgrowlingwhileeating-wfNXc9M3Tqs.mkv",
+    "website": "https://www.youtube.com/watch?v=wfNXc9M3Tqs",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 12.018,
+        "end": 15.762,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Catgrowlslikeadog-NTV4_zJ7bt4.mp4",
+    "website": "https://www.youtube.com/watch?v=NTV4_zJ7bt4",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 1.703,
+        "end": 8.150,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/CatsGrowlingLikeDogs-XcxJSsic1l8.webm",
+    "website": "https://www.youtube.com/watch?v=XcxJSsic1l8",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 13.458,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Crankycatgrowling-QrB9_hApfIM.mp4",
+    "website": "https://www.youtube.com/watch?v=QrB9_hApfIM",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 16.138,
+        "end": 20.876,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Crazycatgrowling-AbFcBmo5JQA.mkv",
+    "website": "https://www.youtube.com/watch?v=AbFcBmo5JQA",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 5.793,
+        "end": 8.506,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/CrazyCatGrowlingandHissing-_u9zUuBdo1k.mp4",
+    "website": "https://www.youtube.com/watch?v=_u9zUuBdo1k",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 6.336,
+        "end": 9.978,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Cutekittengrowlingwhileeatingbanana-cagvWd8KCao.webm",
+    "website": "https://www.youtube.com/watch?v=cagvWd8KCao",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 105.674,
+        "end": 108.912,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/FUNNYCATGROWLINGATCATNIPTOY-wL-w-GrYm34.mp4",
+    "website": "https://www.youtube.com/watch?v=wL-w-GrYm34",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat complaining",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 20.172,
+        "end": 22.871,
+        "label": "complain"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/FunnyKittenGrowlingandHissingLikeaDog-N3jZM6PxNC8.mp4",
+    "website": "https://www.youtube.com/watch?v=N3jZM6PxNC8",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 45.326,
+        "end": 46.228,
+        "label": "unknown"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Greedycatgrowlsandwontletgoofblockofcheese-5YSVnrwEoTA.webm",
+    "website": "https://www.youtube.com/watch?v=5YSVnrwEoTA",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 11.575,
+        "end": 14.313,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Gremlinsphynxcatgrowling-SkPCUzuQE0U.mkv",
+    "website": "https://www.youtube.com/watch?v=SkPCUzuQE0U",
+    "species": "cat",
+    "race": "sphynx cat",
+    "gender": "",
+    "purpose": "cat complaining",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 4.047,
+        "end": 8.197,
+        "label": "complain"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/growlingbengal-L5IEIox5dEU.mkv",
+    "website": "https://www.youtube.com/watch?v=L5IEIox5dEU",
+    "species": "cat",
+    "race": "bengal cat",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 17.535,
+        "end": 44.403,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/GrowlingCatEating-ELjjdydt7Gw.mp4",
+    "website": "https://www.youtube.com/watch?v=ELjjdydt7Gw",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 21.751,
+        "end": 31.901,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/GrowlingcatINSANEFUNNYCATVIDEO-JMPxRCguRrY.mp4",
+    "website": "https://www.youtube.com/watch?v=JMPxRCguRrY",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 14.494,
+        "end": 19.232,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Grumpycatgrowlingatscarydog--hze7ei5xxc.mp4",
+    "website": "https://www.youtube.com/watch?v=-hze7ei5xxc",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 7.870,
+        "end": 11.566,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/HarryHissingandGrowling-xX_x4lBDBVU.mp4",
+    "website": "https://www.youtube.com/watch?v=xX_x4lBDBVU",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat complaining",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 23.974,
+        "end": 30.060,
+        "label": "complain"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Harveytuxedocatgrowling-QH5c7uEC4gI.mp4",
+    "website": "https://www.youtube.com/watch?v=QH5c7uEC4gI",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 27.300,
+        "end": 35.118,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Housecatgrowlslikeatiger-tN5_ZQvCb8E.mkv",
+    "website": "https://www.youtube.com/watch?v=tN5_ZQvCb8E",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat complaining",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0.994,
+        "end": 4.429,
+        "label": "complain"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Kittenshissingandgrowling-xcyIJkg-HDo.mkv",
+    "website": "https://www.youtube.com/watch?v=xcyIJkg-HDo",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 5.559,
+        "end": 8.966,
+        "label": "unknown"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Loudestcatgrowlever-mh1GhBPR17g.mkv",
+    "website": "https://www.youtube.com/watch?v=mh1GhBPR17g",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 6.130,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Misskittydontlikemegrowlingcat-SaFeJpJuJxI.mp4",
+    "website": "https://www.youtube.com/watch?v=SaFeJpJuJxI",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 21.306,
+        "end": 25.684,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/My19yearoldCatgrowlingatanothercat-zvUmPahyxTU.webm",
+    "website": "https://www.youtube.com/watch?v=zvUmPahyxTU",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat complaining",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 32.852,
+        "end": 35.000,
+        "label": "complain"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/MyGrowlingKitten-14r6ekQ-oJE.mp4",
+    "website": "https://www.youtube.com/watch?v=14r6ekQ-oJE",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 46.125,
+        "end": 51.364,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/SavannahsBrawlingandgrowling-h8NBHoUcY24.mp4",
+    "website": "https://www.youtube.com/watch?v=h8NBHoUcY24",
+    "species": "cat",
+    "race": "savannah cat",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 25.979,
+        "end": 29.173,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Siamesecatgrowlingandprotectinghistoy-J_oJgRllwB0.mp4",
+    "website": "https://www.youtube.com/watch?v=J_oJgRllwB0",
+    "species": "cat",
+    "race": "siamese cat",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 10.751,
+        "end": 14.849,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/SiameseCatGrowling-dsRWhQbB82w.mkv",
+    "website": "https://www.youtube.com/watch?v=dsRWhQbB82w",
+    "species": "cat",
+    "race": "siamese cat",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 12.638,
+        "end": 17.912,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Tabbycatgrowling-rhdToA3Verw.mp4",
+    "website": "https://www.youtube.com/watch?v=rhdToA3Verw",
+    "species": "cat",
+    "race": "tabby cat",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0.403,
+        "end": 7.252,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/TinyGrowlingKitteneatspizza-iiNMKCDHSsE.mkv",
+    "website": "https://www.youtube.com/watch?v=iiNMKCDHSsE",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "young",
+    "active_region": [
+      {
+        "start": 100.768,
+        "end": 104.345,
+        "label": "growl"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/veryprotectiveindoorcatgrowlingandhissing-c1xGsDb2dLk.mkv",
+    "website": "https://www.youtube.com/watch?v=c1xGsDb2dLk",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat growling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 29.969,
+        "end": 39.853,
+        "label": "growl"
+      }
+    ]
+  }
+]
