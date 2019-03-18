@@ -72,11 +72,11 @@ def check_json(dirs):
     print('There are {} valid and labelled audios and {} valid segments and a total of {} seconds'.format(va, vs, vt))
     
 if __name__ == '__main__':
-	if len(sys.argv)==1:
-		print('Usage: python check_json.py <json_file.json> ...')
-		quit()
-	else:
-		dirs = sys.argv[1:]
-		check_json(dirs)
+    if len(sys.argv)==1:
+	print('Usage: python check_json.py <json_file.json> ...')
+	quit()
+    else:
+	dirs = sys.argv[1:]
+	check_json(dirs)
 
 
