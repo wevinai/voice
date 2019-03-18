@@ -1,27 +1,5 @@
 [
   {
-    "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/Angryblackcathissingandgrowling-BoXJR6_zAwQ.mp4",
-    "website": "https://www.youtube.com/watch?v=BoXJR6_zAwQ",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "purpose": "cat growling",
-    "format" : "video",
-    "age" : "",
-    "active_region": [
-      {
-        "start": 0,
-        "end": 7.768,
-        "label": "growl"
-      },
-      {
-        "start": 10.755,
-        "end": 16.581,
-        "label": "growl"
-      }
-    ]
-  },
-  {
     "location": "/hdd/mlrom/Data/animal_voice/weilin/40CatGrowls/AngryCatgrowlingwhileeating-_4-rnFMHE6g.webm",
     "website": "https://www.youtube.com/watch?v=_4-rnFMHE6g",
     "species": "cat",
