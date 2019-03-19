@@ -672,7 +672,13 @@
         "start": 0.839,
         "end": 4.951,
         "old_label": "angry",
-        "label": "scream"
+        "label": "complain"
+      },
+      {
+        "start": 2.452,
+        "end": 4.75,
+        "old_label": "angry",
+        "label": "growl"
       }
     ]
   },
@@ -852,7 +858,7 @@
         "start": 1.130,
         "end": 2.930,
         "old_label": "angry",
-        "label": "scream"
+        "label": "hiss"
       }
     ]
   },
