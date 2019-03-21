@@ -36,7 +36,4 @@ print("Total audios : {}".format(total_audio))
 print("Total segments : {}".format(total_seg))
 print("Total length : {}".format(total_time))
 for i, j in found_dict.items():
-    print("Label '{}':".format(i))
-    print("Number of audios: {}".format(aud[i]))
-    print("Number of segments: {}".format(seg[i]))
-    print("Total length: {}".format(length[i]))
+    print("Label '{}': #audios={} #segments={} tot_length={}".format(i, aud[i], seg[i], length[i]))
