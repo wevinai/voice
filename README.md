@@ -122,3 +122,21 @@ HowTo:
          cd /var/tmp/audacity-<your_name>
          rm -rf *
      Then restart audacity. It should work then!
+
+8. How to create a Git branch?
+   - Do git clone to get a copy or git pull on your local project:
+         git clone git@github.com:wevinai/voice.git
+       OR
+         git pull
+   - Create a local branch by:
+         git checkout -b <your_branch_name>
+   - Check in your branch to Github:
+         git push origin <your_branch_name>
+   - Switch your work from main branch to your local branch:
+         git checkout <your_branch_name>
+   - Check which branch is your local project on:
+         git branch
+   - Switch from branch to main branch:
+         git checkout master
+
+
