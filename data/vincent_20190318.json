@@ -1,0 +1,777 @@
+[
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat Chirping at Birds.mp3",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 0.579,
+        "end": 1.052,
+        "label": "chatter"
+      },
+      {
+        "start": 1.947,
+        "end": 3.420,
+        "label": "chatter"
+      },
+      {
+        "start": 4.472,
+        "end": 7.050,
+        "label": "chatter"
+      },
+      {
+        "start": 7.050,
+        "end": 11.207,
+        "label": "chatter"
+      },
+      {
+        "start": 16.468,
+        "end": 19.730,
+        "label": "chatter"
+      },
+      {
+        "start": 26.517,
+        "end": 27.464,
+        "label": "chatter"
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat Howling Meowing loudly for attention.mp3",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 1.653,
+        "end": 3.600,
+        "label": "attention"
+      },
+      {
+        "start": 3.600,
+        "end": 5.784,
+        "label": "attention"
+      },
+      {
+        "start": 5.784,
+        "end": 8.263,
+        "label": "attention"
+      },
+      {
+        "start": 8.263,
+        "end": 10.358,
+        "label": "attention"
+      },
+      {
+        "start": 10.358,
+        "end": 13.279,
+        "label": "attention"
+      },
+      {
+        "start": 13.279,
+        "end": 15.315,
+        "label": "attention"
+      },
+      {
+        "start": 15.965,
+        "end": 17.529,
+        "label": "attention"
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 1.117,
+        "end": 2.233,
+        "label": "attention"
+      },
+      {
+        "start": 4.318,
+        "end": 5.360,
+        "label": "attention"
+      },
+      {
+        "start": 5.881,
+        "end": 6.923,
+        "label": "attention"
+      },
+      {
+        "start": 7.296,
+        "end": 8.487,
+        "label": "attention"
+      },
+      {
+        "start": 9.082,
+        "end": 10.199,
+        "label": "attention"
+      },
+      {
+        "start": 19.058,
+        "end": 20.472,
+        "label": "attention"
+      },
+      {
+        "start": 21.142,
+        "end": 22.259,
+        "label": "attention"
+      },
+      {
+        "start": 22.780,
+        "end": 24.120,
+        "label": "attention"
+      },
+      {
+        "start": 24.567,
+        "end": 25.683,
+        "label": "attention"
+      },
+      {
+        "start": 26.428,
+        "end": 27.619,
+        "label": "attention"
+      },
+      {
+        "start": 28.438,
+        "end": 29.629,
+        "label": "attention"
+      },
+      {
+        "start": 31.415,
+        "end": 32.458,
+        "label": "attention"
+      },
+      {
+        "start": 33.425,
+        "end": 34.691,
+        "label": "attention"
+      },
+      {
+        "start": 36.403,
+        "end": 37.892,
+        "label": "attention"
+      },
+      {
+        "start": 38.413,
+        "end": 39.679,
+        "label": "attention"
+      },
+      {
+        "start": 46.304,
+        "end": 47.495,
+        "label": "attention"
+      },
+      {
+        "start": 48.240,
+        "end": 49.356,
+        "label": "attention"
+      },
+      {
+        "start": 49.356,
+        "end": 50.547,
+        "label": "attention"
+      },
+      {
+        "start": 50.547,
+        "end": 51.962,
+        "label": "attention"
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "website": "https://www.youtube.com/",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  }
+  
+  
+]
