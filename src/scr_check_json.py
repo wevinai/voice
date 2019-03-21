@@ -15,7 +15,7 @@ import json
 import settings
 
 def check_json(dirs):
-    va, vs = 0, 0
+    va, vs, vt = 0, 0, 0
     for jf in dirs:
         with open(jf, 'r') as f:
     	    try:
@@ -59,19 +59,24 @@ def check_json(dirs):
                     if ar['start'] > ar['end']:
                         print('Start time > end time (s={}, e={}) in {}'.format(ar['start'], ar['end'], 
                               e['location'].split('/')[-1]))
+                    elif ar['end'] - ar['start'] > 5 and ar['label']!='purring' and ar['label']!='growl':
+                        # We allow long segments for purring sound!
+                        print('WARN: Too large region in {}. Please shrink them into small pieces'.format(e['location']))
+                    else:
+                        vt += ar['end']-ar['start']
                     if ar['label']:
                         vs += 1
                 if valid:
                     va += 1
     print('Check Finish, everything is good')
-    print('There are {} valid and labelled audios and {} valid segments'.format(va, vs))
-
+    print('There are {} valid and labelled audios and {} valid segments and a total of {} seconds'.format(va, vs, vt))
+    
 if __name__ == '__main__':
-	if len(sys.argv)==1:
-		print('Usage: python check_json.py <json_file.json> ...')
-		quit()
-	else:
-		dirs = sys.argv[1:]
-		check_json(dirs)
+    if len(sys.argv)==1:
+	print('Usage: python check_json.py <json_file.json> ...')
+	quit()
+    else:
+	dirs = sys.argv[1:]
+	check_json(dirs)
 
 

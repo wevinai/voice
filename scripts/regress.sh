@@ -53,4 +53,15 @@ python $VOICE_HOME/src/preprocess_data.py $VOICE_HOME/data/all.json
 #        $bigfile=merge.json
 #        rm merge.json
 #    done
-        
+
+declare -a all_labels=('purring' 'attention' 'sneeze' 'hiss' 'scream' 'happy' 'complain' 'growl' 'unknown')
+echo "${#all_labels[@]}"
+DATE=`date +%y%m%d`
+mkdir /hdd/mlrom/Data/animal_voice/data/3D.20$DATE
+
+for i in "${#all_labels[@]}"-1; do
+    for j in "${#all_labels[@]}"-i-1; do
+        python /hdd/projects/yuan/voice/src/gen3Dvideo.py ./feature.pkl all_labels[i] all_labels[j]
+    done
+done
+

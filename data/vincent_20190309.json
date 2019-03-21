@@ -380,22 +380,6 @@
     ]
   },
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190309/415209__inspectorj__cat-screaming-a.wav",
-    "website": "https://youtube.com",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
-    "species: ": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-        "start": 0.272,
-        "end": 1.322,
-        "label": "scream"
-      }
-    ]
-  },
-  {
     "location": "/hdd/mlrom/Data/animal_voice/vincent/20190309/A Complaining Cat! He Wont shut up!!.mp3",
     "website": "https://youtube.com",
     "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
@@ -429,22 +413,6 @@
 	"start": 1.697,
 	"end": 2.115,
         "label": "sneeze"
-      }
-    ]
-  },
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190309/Black cat hiss.mp3",
-    "website": "https://youtube.com",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
-    "species: ": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-        "start": 18.705,
-        "end": 19.648,
-        "label": "hiss"
       }
     ]
   },
@@ -554,8 +522,73 @@
     "format": "audio",
     "active_region": [
       {
-        "start": 0,
-        "end": 6.016,
+        "start": 1.092,
+        "end": 3.922,
+        "label": "complain"
+      },
+      {
+        "start": 3.923,
+        "end": 5.922,
+        "label": "complain"
+      },
+      {
+        "start": 6.280,
+        "end": 8.328,
+        "label": "complain"
+      },
+      {
+        "start": 10.047,
+        "end": 14.030,
+        "label": "complain"
+      },
+      {
+        "start": 14.853,
+        "end": 19.072,
+        "label": "complain"
+      },
+      {
+        "start": 19.921,
+        "end": 24.885,
+        "label": "scream"
+      },
+      {
+        "start": 26.647,
+        "end": 29.185,
+        "label": "growl"
+      },
+      {
+        "start": 30.142,
+        "end": 31.352,
+        "label": "complain"
+      },
+      {
+        "start": 31.344,
+        "end": 35.573,
+        "label": "complain"
+      },
+      {
+        "start": 35.876,
+        "end": 37.703,
+        "label": "complain"
+      },
+      {
+        "start": 37.678,
+        "end": 42.478,
+        "label": "complain"
+      },
+      {
+        "start": 42.975,
+        "end": 46.347,
+        "label": "complain"
+      },
+      {
+        "start": 47.998,
+        "end": 51.364,
+        "label": "complain"
+      },
+      {
+        "start": 51.766,
+        "end": 54.803,
         "label": "complain"
       }
     ]

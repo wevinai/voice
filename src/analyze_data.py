@@ -1,16 +1,19 @@
 '''
-Description: Analyze generated MFCC data from preprocess_data.py. Assuming all data is stored in subdirectories 
-    of settings.data_dir, and the file name should include the label information
+Description: Analyze uses generated features from preprocess_data.py (MFCC coefficients), 
+    assuming all data is stored in subdirectories of settings.data_dir, and the file name 
+    should include the label information
 Usage:
-    python analyze_data.py <which_run_directory>
+    python analyze_data.py -d <which_run_directory> <-v #> <-m pca/tsne> <-a video_filename>
 '''
 import settings
 import sys
 import os
 import numpy as np
 from sklearn.decomposition import PCA
+from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import mglearn
+import cPickle as pickle
 from mpl_toolkits.mplot3d import Axes3D, axes3d
 
 def show(X, Y, Y_names, labels, dim=2):
@@ -51,8 +54,7 @@ def show(X, Y, Y_names, labels, dim=2):
         ax.set_zlabel('3rd PC')
         plt.show()
 
-
-def analyze(data_dir):
+def analyze(data_dir, view_dim=2, method='pca', output=''):
     files = os.listdir(data_dir)
     label_count = {}
     X, Y = np.empty((0, 12, 41)), np.empty((0))
@@ -75,6 +77,7 @@ def analyze(data_dir):
         X = np.concatenate((X, x[[0]]))
         Y = np.concatenate((Y, [settings.all_labels[fname_ext[1]]]))
 
+    # Basic statistics
     print('Statistics on labels:')
     for l in settings.all_labels:
         if l not in label_count:
@@ -82,31 +85,62 @@ def analyze(data_dir):
         else:
             print('    Label ({}): {}'.format(l, label_count[l]))
 
-    X_ = X.reshape(X.shape[0], X.shape[1]*X.shape[2])
-    pca = PCA(n_components=3)
-    pca.fit(X_)
-    X_pca = pca.transform(X_)
-    assert X_pca.shape == (X.shape[0], 3)
+    if method == 'pca':
+        # Use PCA dimension reduction to see data difference
+        X_ = X.reshape(X.shape[0], X.shape[1]*X.shape[2])
+        pca = PCA(n_components=view_dim)
+        pca.fit(X_)
+        X_twst = pca.transform(X_)
+    elif method == 'tsne':
+        X_ = X.reshape(X.shape[0], X.shape[1]*X.shape[2])
+        tsne = TSNE(n_components=view_dim, verbose=1, perplexity=40, n_iter=300)
+        X_twst = tsne.fit_transform(X_)
+    else:
+        print('ERROR: Analysis method is not supported')
+        quit()
+    assert X_twst.shape == (X.shape[0], view_dim)
 
-    #show(X_pca, Y, Y_names, ['happy', 'upset'], dim=2)
-    #show(X_pca, Y, Y_names, ['happy', 'angry'], dim=2)
-    show(X_pca, Y, Y_names, ['happy', 'hiss'], dim=2)
-    show(X_pca, Y, Y_names, ['happy', 'scream'], dim=2)
-    show(X_pca, Y, Y_names, ['happy', 'sneeze'], dim=2)
-    show(X_pca, Y, Y_names, ['happy', 'complain'], dim=2)
-    show(X_pca, Y, Y_names, ['scream', 'hiss'], dim=2)
-    show(X_pca, Y, Y_names, ['attention', 'happy'], dim=2)
-    show(X_pca, Y, Y_names, ['attention', 'hiss'], dim=2)
-    show(X_pca, Y, Y_names, ['attention', 'scream'], dim=2)
-    show(X_pca, Y, Y_names, ['attention', 'sneeze'], dim=2)
-    show(X_pca, Y, Y_names, ['scream', 'sneeze'], dim=2)
-    show(X_pca, Y, Y_names, ['scream', 'complain'], dim=2)
-    show(X_pca, Y, Y_names, [], dim=2)
+    # Dump data for other investigation
+    if output:
+        result = {
+            'X': X_twst,
+            'Y': Y,
+        }
+        with open(output, 'wb') as f:
+            pickle.dump(result, f)
+    else:
+        show(X_twst, Y, Y_names, [], dim=view_dim)
+        #show(X_twst, Y, Y_names, ['happy', 'hiss'], dim=view_dim)
+        #show(X_twst, Y, Y_names, ['happy', 'scream'], dim=view_dim)
+        #show(X_twst, Y, Y_names, ['happy', 'sneeze'], dim=view_dim)
+        #show(X_twst, Y, Y_names, ['happy', 'complain'], dim=view_dim)
+        #show(X_twst, Y, Y_names, ['scream', 'hiss'], dim=view_dim)
+        #show(X_twst, Y, Y_names, ['attention', 'happy'], dim=view_dim)
+        #show(X_twst, Y, Y_names, ['attention', 'hiss'], dim=view_dim)
+        #show(X_twst, Y, Y_names, ['attention', 'scream'], dim=view_dim)
+        #show(X_twst, Y, Y_names, ['attention', 'sneeze'], dim=view_dim)
+        #show(X_twst, Y, Y_names, ['scream', 'sneeze'], dim=view_dim)
+        #show(X_twst, Y, Y_names, ['scream', 'complain'], dim=view_dim)
 
 if __name__ =='__main__':
-    if len(sys.argv) != 2:
-        print('Usage: python analyze_data.py <run_dir_under_settings.data_dir>')
-    my_dir = os.path.join(settings.data_dir, sys.argv[1])
+    from argparse import ArgumentParser, ArgumentDefaultsHelpFormatter
+    parser = ArgumentParser(formatter_class=ArgumentDefaultsHelpFormatter)
+    parser.add_argument('-d', '--data_dir', help='Directory which holds *.npy under {}'.format(settings.data_dir),
+                        default='', dest='dir')
+    parser.add_argument('-v', '--view_dim', help='Reduce-to dimension',
+                        default=2, dest='dim')
+    parser.add_argument('-m', '--method', help='Reduction method (only supports pca/tsne)',
+                        default='pca', dest='method')
+    parser.add_argument('-o', '--output', help='Instead to showing, we output data for future use',
+                        default='', dest='output')
+    args = parser.parse_args()
+    if args.dir:
+        my_dir = os.path.join(settings.data_dir, args.dir)
+    else:
+        print('ERROR: Data directory is not specified')
+        quit()
     if not os.path.isdir(my_dir):
         print('ERROR: Data directory is incorect: {}'.format(my_dir))
-    analyze(my_dir)
+        quit()
+    analyze(my_dir, view_dim=int(args.dim), method=args.method, output=args.output)
+

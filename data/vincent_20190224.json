@@ -144,6 +144,84 @@
         "end": 4.090,
         "old_label": "beg",
         "label": "attention"
+      },
+      {
+        "start": 4.373,
+        "end": 5.244,
+        "old_label": "beg",
+        "label": "attention"
+      },
+      {
+        "start": 5.287,
+        "end": 6.782,
+        "old_label": "beg",
+        "label": "attention"
+      },
+      {
+        "start": 6.984,
+        "end": 8.454,
+        "old_label": "beg",
+        "label": "attention"
+      },
+      {
+        "start": 9.196,
+        "end": 10.706,
+        "old_label": "beg",
+        "label": "attention"
+      },
+      {
+        "start": 11.137,
+        "end": 12.782,
+        "old_label": "beg",
+        "label": "attention"
+      },
+      {
+        "start": 13.204,
+        "end": 14.960,
+        "old_label": "beg",
+        "label": "attention"
+      },
+      {
+        "start": 15.608,
+        "end": 17.089,
+        "old_label": "beg",
+        "label": "attention"
+      },
+      {
+        "start": 17.929,
+        "end": 19.435,
+        "old_label": "beg",
+        "label": "attention"
+      },
+      {
+        "start": 20.038,
+        "end": 21.626,
+        "old_label": "beg",
+        "label": "attention"
+      },
+      {
+        "start": 22.4,
+        "end": 23.867,
+        "old_label": "beg",
+        "label": "attention"
+      },
+      {
+        "start": 24.889,
+        "end": 26.663,
+        "old_label": "beg",
+        "label": "attention"
+      },
+      {
+        "start": 27.420,
+        "end": 29.044,
+        "old_label": "beg",
+        "label": "attention"
+      },
+      {
+        "start": 30.289,
+        "end": 31.435,
+        "old_label": "beg",
+        "label": "attention"
       }
     ]
   },
@@ -1049,16 +1127,46 @@
     "format": "audio",
     "active_region": [
       {
-        "start": 12.250,
+        "start": 0.118,
+        "end": 1.203,
+        "old_label": "angry",
+        "label": "scream"
+      },
+      {
+        "start": 5.915,
+        "end": 6.832,
+        "old_label": "angry",
+        "label": "hiss"
+      },
+      {
+        "start": 6.955,
+        "end": 12.137,
+        "old_label": "angry",
+        "label": "complain"
+      },
+      {
+        "start": 12.208,
         "end": 13.105,
         "old_label": "angry",
         "label": "hiss"
       },
       {
-        "start": 13.340,
-        "end": 16.722,
+        "start": 13.438,
+        "end": 16.803,
         "old_label": "angry",
-        "label": "scream"
+        "label": "complain"
+      },
+      {
+        "start": 16.986,
+        "end": 17.921,
+        "old_label": "angry",
+        "label": "hiss"
+      },
+      {
+        "start": 18.027,
+        "end": 21.107,
+        "old_label": "angry",
+        "label": "complain"
       }
     ]
   },
@@ -1092,13 +1200,25 @@
     "active_region": [
       {
         "start": 0.204,
-        "end": 6.614,
+        "end": 1.495,
         "old_label": "angry",
-        "label": "scream"
+        "label": "growl"
       },
       {
-        "start": 7.492,
-        "end": 8.064,
+        "start": 1.496,
+        "end": 3.739,
+        "old_label": "angry",
+        "label": "growl"
+      },
+      {
+        "start": 3.740,
+        "end": 5.122,
+        "old_label": "angry",
+        "label": "growl"
+      },
+      {
+        "start": 5.149,
+        "end": 6.599,
         "old_label": "angry",
         "label": "scream"
       }
@@ -2372,24 +2492,6 @@
   },
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190226/326452__miekyj__cat-purr-owi.wav",
-    "website": "https://freesound.org/search/?q=purr&page=9#sound",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
-    "species: ": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-        "start": 0,
-        "end": 11.239,
-        "old_label": "purring",
-        "label": "unknown"
-      }
-    ]
-  },
-
-  {
     "location": "/hdd/mlrom/Data/animal_voice/vincent/20190226/330297__maycuddlepie__cat-purr.mp3",
     "website": "https://freesound.org/search/?q=purr&page=9#sound",
     "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
@@ -2582,7 +2684,7 @@
         "start": 0,
         "end": 31.929,
         "old_label": "purring",
-        "label": "unknown"
+        "label": "purring"
       }
     ]
   },
@@ -2597,10 +2699,28 @@
     "format": "audio",
     "active_region": [
       {
-        "start": 0,
-        "end": 39.905,
+        "start": 0.238,
+        "end": 2.259,
         "old_label": "purring",
-        "label": "unknown"
+        "label": "purring"
+      },
+      {
+        "start": 3.329,
+        "end": 7.513,
+        "old_label": "purring",
+        "label": "purring"
+      },
+      {
+        "start": 10.699,
+        "end": 14.099,
+        "old_label": "purring",
+        "label": "purring"
+      },
+      {
+        "start": 15.891,
+        "end": 20.000,
+        "old_label": "purring",
+        "label": "purring"
       }
     ]
   },

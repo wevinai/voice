@@ -33,28 +33,40 @@
         "label": "scream"
       },
       {
-        "start": 6.715,
-        "end": 12.078,
+        "start": 6.867,
+        "end": 11.823,
         "old_label": "angry",
-        "label": "scream"
-      }
-    ]
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190303/60239__kathakaku__1.wav",
-    "website": "https://freesound.org/search/?q=purr&page=9#sound",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
-    "species: ": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
+        "label": "complain"
+      },
       {
-        "start": 0.100,
-        "end": 1.700,
+        "start": 12.210,
+        "end": 13.003,
         "old_label": "angry",
-        "label": "unknown"
+        "label": "hiss"
+      },
+      {
+        "start": 13.404,
+        "end": 16.814,
+        "old_label": "angry",
+        "label": "complain"
+      },
+      {
+        "start": 16.873,
+        "end": 17.833,
+        "old_label": "angry",
+        "label": "hiss"
+      },
+      {
+        "start": 17.935,
+        "end": 21.172,
+        "old_label": "angry",
+        "label": "complain"
+      },
+      {
+        "start": 22.750,
+        "end": 23.623,
+        "old_label": "angry",
+        "label": "complain"
       }
     ]
   },
@@ -130,9 +142,87 @@
       },
       {
 	"start": 1.400,
-	"end": 8.132,
+	"end": 4.108,
 	"old_label": "angry",
         "label": "scream"
+      },
+      {
+	"start": 4.109,
+	"end": 8.108,
+	"old_label": "angry",
+        "label": "scream"
+      },
+      {
+	"start": 8.109,
+	"end": 9.116,
+	"old_label": "angry",
+        "label": "hiss"
+      },
+      {
+	"start": 9.117,
+	"end": 10.950,
+	"old_label": "angry",
+        "label": "scream"
+      },
+      {
+	"start": 11.109,
+	"end": 12.219,
+	"old_label": "angry",
+        "label": "hiss"
+      },
+      {
+	"start": 12.216,
+	"end": 16.046,
+	"old_label": "angry",
+        "label": "growl"
+      },
+      {
+	"start": 16.276,
+	"end": 17.643,
+	"old_label": "angry",
+        "label": "hiss"
+      },
+      {
+	"start": 18.121,
+	"end": 21.019,
+	"old_label": "angry",
+        "label": "growl"
+      },
+      {
+	"start": 21.020,
+	"end": 22.120,
+	"old_label": "angry",
+        "label": "hiss"
+      },
+      {
+	"start": 25.355,
+	"end": 26.565,
+	"old_label": "angry",
+        "label": "hiss"
+      },
+      {
+	"start": 26.462,
+	"end": 29.253,
+	"old_label": "angry",
+        "label": "scream"
+      },
+      {
+	"start": 29.894,
+	"end": 31.329,
+	"old_label": "angry",
+        "label": "hiss"
+      },
+      {
+	"start": 31.408,
+	"end": 34.402,
+	"old_label": "angry",
+        "label": "scream"
+      },
+      {
+	"start": 35.320,
+	"end": 36.797,
+	"old_label": "angry",
+        "label": "hiss"
       }
     ]
   },
@@ -315,10 +405,202 @@
     "format": "audio",
     "active_region": [
       {
-        "start": 0.000,
-        "end": 11.321,
+        "start": 1.265,
+        "end": 3.399,
+        "old_label": "annoy",
+        "label": "complain"
+      },
+      {
+        "start": 3.400,
+        "end": 8.780,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 8.781,
+        "end": 12.088,
         "old_label": "annoy",
         "label": "scream"
+      },
+      {
+        "start": 12.089,
+        "end": 13.839,
+        "old_label": "annoy",
+        "label": "hiss"
+      },
+      {
+        "start": 14.165,
+        "end": 17.324,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 17.325,
+        "end": 31.752,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 34.654,
+        "end": 39.549,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 39.713,
+        "end": 51.084,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 53.119,
+        "end": 58.412,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 59.696,
+        "end": 62.516,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 62.517,
+        "end": 64.571,
+        "old_label": "annoy",
+        "label": "hiss"
+      },
+      {
+        "start": 65.261,
+        "end": 74.622,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 76.644,
+        "end": 85.356,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 85.497,
+        "end": 91.722,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 93.591,
+        "end": 102.174,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 103.456,
+        "end": 109.452,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 110.539,
+        "end": 120.232,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 120.657,
+        "end": 124.033,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 124.704,
+        "end": 125.832,
+        "old_label": "annoy",
+        "label": "hiss"
+      },
+      {
+        "start": 125.833,
+        "end": 130.202,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 130.203,
+        "end": 137.145,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 139.628,
+        "end": 148.646,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 150.505,
+        "end": 151.743,
+        "old_label": "annoy",
+        "label": "hiss"
+      },
+      {
+        "start": 152.023,
+        "end": 158.814,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 160.370,
+        "end": 170.299,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 170.488,
+        "end": 180.41,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 180.859,
+        "end": 190.354,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 190.471,
+        "end": 197.644,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 198.565,
+        "end": 208.816,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 208.936,
+        "end": 221.562,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 223.607,
+        "end": 232.251,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 232.713,
+        "end": 245.109,
+        "old_label": "annoy",
+        "label": "growl"
+      },
+      {
+        "start": 246.879,
+        "end": 249.084,
+        "old_label": "annoy",
+        "label": "growl"
       }
     ]
   },
@@ -360,24 +642,6 @@
   },
 
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190303/253109__fuzzycat__cat-purr-3.wav",
-    "website": "https://freesound.org/search/?q=purr&page=9#sound",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
-    "species: ": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-        "start": 0.000,
-        "end": 15.229,
-        "old_label": "comfortable",
-        "label": "unknown"
-      }
-    ]
-  },
-
-  {
     "location": "/hdd/mlrom/Data/animal_voice/vincent/20190303/273160__indigocat__hissing.wav",
     "website": "https://freesound.org/search/?q=purr&page=9#sound",
     "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
@@ -408,7 +672,13 @@
         "start": 0.839,
         "end": 4.951,
         "old_label": "angry",
-        "label": "scream"
+        "label": "complain"
+      },
+      {
+        "start": 2.452,
+        "end": 4.75,
+        "old_label": "angry",
+        "label": "growl"
       }
     ]
   },
@@ -588,7 +858,7 @@
         "start": 1.130,
         "end": 2.930,
         "old_label": "angry",
-        "label": "scream"
+        "label": "hiss"
       }
     ]
   },
@@ -709,24 +979,6 @@
         "end": 8.240,
         "old_label": "annoy",
         "label": "complain"
-      }
-    ]
-  },
-
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190303/447636__crownieyt__his-hissing-cat-snake.wav",
-    "website": "https://freesound.org/search/?q=purr&page=9#sound",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
-    "species: ": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-        "start": 0.031,
-        "end": 1.272,
-        "old_label": "angry",
-        "label": "unknown"
       }
     ]
   }

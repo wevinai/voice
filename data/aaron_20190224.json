@@ -9,10 +9,34 @@
     "format": "audio",
     "active_region": [
       {
-	"start": 0.3,
-	"end": 8.046,
+	"start": 0.232,
+	"end": 1.417,
+	"old_label": "angry",
+	"label": "growl"
+      },
+      {
+	"start": 1.454,
+	"end": 5.090,
+	"old_label": "angry",
+	"label": "growl"
+      },
+      {
+	"start": 5.091,
+	"end": 6.592,
 	"old_label": "angry",
 	"label": "scream"
+      },
+      {
+	"start": 6.624,
+	"end": 7.415,
+	"old_label": "angry",
+	"label": "hiss"
+      },
+      {
+	"start": 7.416,
+	"end": 8.014,
+	"old_label": "angry",
+	"label": "hiss"
       }
     ]
   },
@@ -399,7 +423,7 @@
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/cat-meow1.wav",
     "website": "http://www.findsounds.com",
-    "description": "",
+    "description": "Yuan: I don't think this is scream, complain may be!",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -408,21 +432,21 @@
       {
 	"start": 0.700,
 	"end": 1.584,
-	"old_label": "complain",
-	"label": "scream"
+	"old_label": "complain/scream",
+	"label": "complain"
       },
       {
 	"start": 2.400,
 	"end": 3.108,
-	"old_label": "complain",
-	"label": "scream"
+	"old_label": "complain/scream",
+	"label": "complain"
       }
     ]
   },
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/Cat-meow-2.mp3",
     "website": "http://www.findsounds.com",
-    "description": "",
+    "description": "Yuan: I cannot see why 2nd is a scream! I change to happy!",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -437,8 +461,8 @@
       {
 	"start": 1.645,
 	"end": 2.423,
-	"old_label": "complain",
-	"label": "scream"
+	"old_label": "complain/scream",
+	"label": "happy"
       },
       {
 	"start": 3.011,
@@ -457,7 +481,7 @@
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/cat-meow3.wav",
     "website": "http://www.findsounds.com",
-    "description": "",
+    "description": "Yuan: I disagree that this is a scream. I change back to complain",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -467,7 +491,7 @@
 	"start": 0.081,
 	"end": 0.896,
 	"old_label": "complain",
-	"label": "scream"
+	"label": "complain"
       }
     ]
   },
@@ -593,7 +617,7 @@
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/Cat Meow.wav-10071-Free-Loops.com.mp3",
     "website": "http://www.findsounds.com",
-    "description": "",
+    "description": "Yuan: this is definitely not scream. Should be complain?",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -603,7 +627,7 @@
 	"start": 0.208,
 	"end": 1.045,
 	"old_label": "annoy",
-	"label": "scream"
+	"label": "complain"
       }
     ]
   },
@@ -1372,15 +1396,21 @@
     "active_region": [
       {
 	"start": 0.105,
-	"end": 4.380,
+	"end": 2.220,
 	"old_label": "angry",
 	"label": "scream"
+      },
+      {
+	"start": 2.221,
+	"end": 4.380,
+	"old_label": "angry",
+	"label": "growl"
       },
       {
 	"start": 4.814,
 	"end": 5.548,
 	"old_label": "angry",
-	"label": "scream"
+	"label": "hiss"
       }
     ]
   },
@@ -1514,9 +1544,15 @@
     "active_region": [
       {
 	"start": 0,
-	"end": 5.449,
+	"end": 1.820,
 	"old_label": "upset",
-	"label": "scream"
+	"label": "growl"
+      },
+      {
+	"start": 1.821,
+	"end": 4.858,
+	"old_label": "upset",
+	"label": "growl"
       }
     ]
   },
@@ -1592,7 +1628,7 @@
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/cat9.wav",
     "website": "http://www.findsounds.com",
-    "description": "",
+    "description": "Yuan: I don't think this is a scream. I should be complain",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -1602,7 +1638,7 @@
 	"start": 0.093,
 	"end": 1.301,
 	"old_label": "annoy",
-	"label": "scream"
+	"label": "complain"
       }
     ]
   },
@@ -1685,6 +1721,12 @@
     "active_region": [
       {
 	"start": 0.085,
+	"end": 1.055,
+	"old_label": "attention",
+	"label": "complain"
+      },
+      {
+	"start": 1.056,
 	"end": 1.541,
 	"old_label": "attention",
 	"label": "scream"
@@ -1702,9 +1744,15 @@
     "active_region": [
       {
 	"start": 0.049,
-	"end": 2.416,
+	"end": 1.053,
 	"old_label": "annoy",
 	"label": "scream"
+      },
+      {
+	"start": 1.054,
+	"end": 2.416,
+	"old_label": "annoy",
+	"label": "growl"
       }
     ]
   },
@@ -2017,9 +2065,21 @@
     "active_region": [
       {
 	"start": 0.031,
-	"end": 2.011,
+	"end": 0.955,
 	"old_label": "pain",
 	"label": "scream"
+      },
+      {
+	"start": 0.956,
+	"end": 1.484,
+	"old_label": "pain",
+	"label": "growl"
+      },
+      {
+	"start": 1.546,
+	"end": 1.963,
+	"old_label": "pain",
+	"label": "hiss"
       }
     ]
   },
@@ -2034,9 +2094,21 @@
     "active_region": [
       {
 	"start": 0,
-	"end": 3.840,
+	"end": 1.777,
 	"old_label": "complain",
-	"label": "scream"
+	"label": "complain"
+      },
+      {
+	"start": 1.878,
+	"end": 2.928,
+	"old_label": "complain",
+	"label": "growl"
+      },
+      {
+	"start": 2.929,
+	"end": 3.577,
+	"old_label": "complain",
+	"label": "hiss"
       }
     ]
   },
@@ -2070,7 +2142,7 @@
 	"start": 0.668,
 	"end": 1.959,
 	"old_label": "angry",
-	"label": "scream"
+	"label": "hiss"
       }
     ]
   },
@@ -2218,7 +2290,7 @@
 	"start": 0.026,
 	"end": 0.745,
 	"old_label": "angry",
-	"label": "scream"
+	"label": "hiss"
       }
     ]
   },
@@ -2349,7 +2421,7 @@
 	"start": 0.497,
 	"end": 1.920,
 	"old_label": "complain",
-	"label": "scream"
+	"label": "complain"
       }
     ]
   },
@@ -2380,7 +2452,43 @@
     "format": "audio",
     "active_region": [
       {
-	"start": 0.053,
+	"start": 0.237,
+	"end": 0.834,
+	"old_label": "angry",
+	"label": "growl"
+      },
+      {
+	"start": 0.835,
+	"end": 1.915,
+	"old_label": "angry",
+	"label": "growl"
+      },
+      {
+	"start": 1.915,
+	"end": 3.048,
+	"old_label": "angry",
+	"label": "scream"
+      },
+      {
+	"start": 3.049,
+	"end": 4.008,
+	"old_label": "angry",
+	"label": "hiss"
+      },
+      {
+	"start": 4.009,
+	"end": 4.468,
+	"old_label": "angry",
+	"label": "scream"
+      },
+      {
+	"start": 4.049,
+	"end": 8.803,
+	"old_label": "angry",
+	"label": "scream"
+      },
+      {
+	"start": 8.804,
 	"end": 10.368,
 	"old_label": "angry",
 	"label": "scream"
@@ -2415,6 +2523,12 @@
     "active_region": [
       {
 	"start": 0,
+	"end": 4.115,
+	"old_label": "happy",
+	"label": "happy"
+      },
+      {
+	"start": 4.116,
 	"end": 5.160,
 	"old_label": "happy",
 	"label": "happy"
@@ -2461,6 +2575,30 @@
     "active_region": [
       {
 	"start": 0.129,
+	"end": 1.613,
+	"old_label": "angry",
+	"label": "scream"
+      },
+      {
+	"start": 1.614,
+	"end": 2.509,
+	"old_label": "angry",
+	"label": "growl"
+      },
+      {
+	"start": 2.739,
+	"end": 3.274,
+	"old_label": "angry",
+	"label": "scream"
+      },
+      {
+	"start": 3.275,
+	"end": 4.416,
+	"old_label": "angry",
+	"label": "hiss"
+      },
+      {
+	"start": 4.417,
 	"end": 7.625,
 	"old_label": "angry",
 	"label": "scream"
@@ -2682,7 +2820,7 @@
     "format": "audio",
     "active_region": [
       {
-	"start": 0.021,
+	"start": 0.037,
 	"end": 1.194,
 	"old_label": "pain",
 	"label": "scream"
