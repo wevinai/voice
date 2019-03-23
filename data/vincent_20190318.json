@@ -1,8 +1,8 @@
 [
   {
     "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat Chirping at Birds.mp3",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "website": "https://www.youtube.com/watch?v=aKikDDNtTDM",
+    "description": "This adorable noise my cat makes when he sees birds or squirrels outside the window.",
     "species: ": "cat",
     "race": "",
     "gender": "",
@@ -43,8 +43,8 @@
   
   {
     "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat Howling Meowing loudly for attention.mp3",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "website": "https://www.youtube.com/watch?v=pkOCSrmBVJM",
+    "description": "",
     "species: ": "cat",
     "race": "",
     "gender": "",
@@ -53,43 +53,437 @@
       {
         "start": 1.653,
         "end": 3.600,
-        "label": "attention"
+        "label": "howl"
       },
       {
         "start": 3.600,
         "end": 5.784,
-        "label": "attention"
+        "label": "howl"
       },
       {
         "start": 5.784,
         "end": 8.263,
-        "label": "attention"
+        "label": "howl"
       },
       {
         "start": 8.263,
         "end": 10.358,
-        "label": "attention"
+        "label": "howl"
       },
       {
         "start": 10.358,
         "end": 13.279,
-        "label": "attention"
+        "label": "howl"
       },
       {
         "start": 13.279,
         "end": 15.315,
-        "label": "attention"
+        "label": "howl"
       },
       {
         "start": 15.965,
         "end": 17.529,
-        "label": "attention"
+        "label": "howl"
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/7 Sounds Cats Make and What They Mean.mp3",
+    "website": "https://www.youtube.com/watch?v=wMTQqQmJkGA",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 1.255,
+        "end": 15.273,
+        "label": "purring"
+      },
+      {
+        "start": 19.457,
+        "end": 29.938,
+        "label": "purring"
+      },
+      {
+        "start": 32.219,
+        "end": 35.171,
+        "comment": "yowl",
+        "label": "howl"
+      },
+      {
+        "start": 35.172,
+        "end": 37.031,
+        "comment": "yowl",
+        "label": "howl"
+      },
+      {
+        "start": 37.032,
+        "end": 39.622,
+        "comment": "yowl",
+        "label": "howl"
+      },
+      {
+        "start": 40.169,
+        "end": 41.634,
+        "label": "howl"
+      },
+      {
+        "start": 41.900,
+        "end": 43.582,
+        "label": "howl"
+      },
+      {
+        "start": 43.935,
+        "end": 48.271,
+        "label": "howl"
+      },
+      {
+        "start": 52.304,
+        "end": 58.706,
+        "label": "growl"
+      },
+      {
+        "start": 59.208,
+        "end": 66.035,
+        "label": "growl"
+      },
+      {
+        "start": 68.622,
+        "end": 74.133,
+        "label": "growl"
+      },
+      {
+        "start": 76.782,
+        "end": 78.116,
+        "label": "chatter"
+      },
+      {
+        "start": 79.920,
+        "end": 82.161,
+        "label": "chatter"
+      },
+      {
+        "start": 83.058,
+        "end": 84.818,
+        "label": "chatter"
+      },
+      {
+        "start": 85.569,
+        "end": 87.146,
+        "label": "chatter"
+      },
+      {
+        "start": 87.661,
+        "end": 89.295,
+        "label": "chatter"
+      },
+      {
+        "start": 91.427,
+        "end": 93.158,
+        "label": "chatter"
+      },
+      {
+        "start": 103.143,
+        "end": 105.198,
+        "label": "trill"
+      },
+      {
+        "start": 105.653,
+        "end": 107.263,
+        "label": "trill"
+      },
+      {
+        "start": 107.745,
+        "end": 109.426,
+        "label": "trill"
+      },
+      {
+        "start": 110.256,
+        "end": 113.771,
+        "label": "trill"
+      },
+      {
+        "start": 113.813,
+        "end": 116.004,
+        "label": "trill"
+      },
+      {
+        "start": 116.114,
+        "end": 117.945,
+        "label": "trill"
+      },
+      {
+        "start": 117.950,
+        "end": 122.545,
+        "label": "trill"
+      },
+      {
+        "start": 122.550,
+        "end": 124.211,
+        "label": "trill"
+      },
+      {
+        "start": 125.319,
+        "end": 126.836,
+        "comment": "original video label as hiss! Error",
+        "label": "growl"
+      },
+      {
+        "start": 126.784,
+        "end": 133.698,
+        "label": "growl"
+      },
+      {
+        "start": 133.700,
+        "end": 137.124,
+        "label": "growl"
+      },
+      {
+        "start": 138.081,
+        "end": 139.270,
+        "label": "hiss"
+      },
+      {
+        "start": 141.010,
+        "end": 142.328,
+        "label": "meow"
+      },
+      {
+        "start": 142.330,
+        "end": 143.939,
+        "label": "meow"
+      },
+      {
+        "start": 144.358,
+        "end": 146.506,
+        "label": "meow"
+      },
+      {
+        "start": 148.124,
+        "end": 151.140,
+        "label": "meow"
+      },
+      {
+        "start": 151.141,
+        "end": 153.394,
+        "label": "meow"
+      },
+      {
+        "start": 153.563,
+        "end": 157.535,
+        "label": "meow"
+      },
+      {
+        "start": 157.748,
+        "end": 162.655,
+        "label": "meow"
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Adorable Siamese Cat Chirping.mp3",
+    "website": "https://www.youtube.com/watch?v=8LvpAFN17Nw",
+    "description": "Tiny Siamese snowshoe chirping at a crow that she could never succeed at taking down anyway.",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 1.797,
+        "end": 4.477,
+        "label": "chatter"
+      },
+      {
+        "start": 4.518,
+        "end": 5.710,
+        "label": "chatter"
+      },
+      {
+        "start": 7.598,
+        "end": 8.733,
+        "label": "chatter"
+      },
+      {
+        "start": 14.991,
+        "end": 17.186,
+        "label": "chatter"
+      },
+      {
+        "start": 17.969,
+        "end": 18.730,
+        "label": "chatter"
+      },
+      {
+        "start": 24.746,
+        "end": 26.701,
+        "label": "chatter"
+      },
+      {
+        "start": 29.726,
+        "end": 31.135,
+        "label": "chatter"
+      },
+      {
+        "start": 35.270,
+        "end": 37.165,
+        "label": "chatter"
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/An Angry Cat.mp3",
+    "website": "https://www.youtube.com/watch?v=YM5jIuQGb10",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 3.362,
+        "end": 5.088,
+        "label": "scream"
+      },
+      {
+        "start": 5.207,
+        "end": 8.309,
+        "label": "scream"
+      },
+      {
+        "start": 8.954,
+        "end": 12.0,
+        "label": "scream"
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/angry cat British Shorthair.mp3",
+    "website": "https://www.youtube.com/watch?v=XxCW83qSyJc",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 1.134,
+        "end": 7.674,
+        "label": "growl"
+      },
+      {
+        "start": 7.675,
+        "end": 8.977,
+        "label": "hiss"
+      },
+      {
+        "start": 9.075,
+        "end": 15.489,
+        "label": "growl"
+      },
+      {
+        "start": 15.815,
+        "end": 16.733,
+        "label": "hiss"
+      },
+      {
+        "start": 16.950,
+        "end": 24.137,
+        "label": "growl"
+      },
+      {
+        "start": 24.691,
+        "end": 32.674,
+        "label": "growl"
+      },
+      {
+        "start": 34.033,
+        "end": 39.454,
+        "label": "growl"
+      },
+      {
+        "start": 39.572,
+        "end": 40.917,
+        "label": "hiss"
+      },
+      {
+        "start": 41.507,
+        "end": 48.944,
+        "label": "growl"
+      },
+      {
+        "start": 49.715,
+        "end": 51.696,
+        "label": "growl"
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Angry Cat Hissing.mp3",
+    "website": "https://www.youtube.com/watch?v=n3Pfv9Fo3zk",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 0.462,
+        "end": 2.143,
+        "label": "growl"
+      },
+      {
+        "start": 3.060,
+        "end": 5.659,
+        "label": "growl"
+      },
+      {
+        "start": 7.218,
+        "end": 10.445,
+        "label": "growl"
+      },
+      {
+        "start": 10.914,
+        "end": 12.000,
+        "label": "hiss"
+      },
+      {
+        "start": 15.071,
+        "end": 18.530,
+        "label": "growl"
+      },
+      {
+        "start": 21.943,
+        "end": 25.255,
+        "label": "growl"
+      },
+      {
+        "start": 27.313,
+        "end": 30.804,
+        "label": "growl"
+      },
+      {
+        "start": 34.069,
+        "end": 36.400,
+        "label": "growl"
+      },
+      {
+        "start": 37.072,
+        "end": 41.212,
+        "label": "growl"
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Angry cat is not amused.mp3",
     "website": "https://www.youtube.com/",
     "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
     "species: ": "cat",
@@ -98,680 +492,4259 @@
     "format": "audio",
     "active_region": [
       {
-        "start": 1.117,
-        "end": 2.233,
-        "label": "attention"
+        "start": 2.584,
+        "end": 4.386,
+        "label": "growl"
       },
       {
-        "start": 4.318,
-        "end": 5.360,
-        "label": "attention"
+        "start": 8.471,
+        "end": 10.248,
+        "label": "growl"
       },
       {
+        "start": 14.230,
+        "end": 15.990,
+        "label": "growl"
+      },
+      {
+        "start": 18.296,
+        "end": 19.927,
+        "label": "growl"
+      },
+      {
+        "start": 21.176,
+        "end": 22.804,
+        "label": "growl"
+      },
+      {
+        "start": 27.233,
+        "end": 28.468,
+        "label": "growl"
+      },
+      {
+        "start": 30.960,
+        "end": 32.869,
+        "label": "growl"
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Angry CAT Meow and hiss Sound Effects [High Quality].mp3",
+    "website": "https://www.youtube.com/watch?v=K0Ua7YeHJV8",
+    "description": "Cats meowing and hissing, being annoyed and angry in general.  All sounds are provided by awesome Freesound community members! All are CC0/Public Domain or CC Attribution. See license info and download links below:",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 0.375,
+        "end": 2.052,
+        "label": "meow"
+      },
+      {
+        "start": 2.063,
+        "end": 3.087,
+        "label": "meow"
+      },
+      {
+        "start": 3.235,
+        "end": 4.737,
+        "label": "meow"
+      },
+      {
+        "start": 4.875,
+        "end": 9.704,
+        "label": "scream"
+      },
+      {
+        "start": 9.705,
+        "end": 10.989,
+        "label": "scream"
+      },
+      {
+        "start": 11.110,
+        "end": 12.278,
+        "label": "howl"
+      },
+      {
+        "start": 12.470,
+        "end": 13.741,
+        "label": "howl"
+      },
+      {
+        "start": 14.064,
+        "end": 15.410,
+        "label": "scream"
+      },
+      {
+        "start": 15.986,
+        "end": 18.309,
+        "label": "meow"
+      },
+      {
+        "start": 18.705,
+        "end": 20.475,
+        "label": "meow"
+      },
+      {
+        "start": 21.471,
+        "end": 22.484,
+        "label": "howl"
+      },
+      {
+        "start": 22.690,
+        "end": 24.124,
+        "label": "howl"
+      },
+      {
+        "start": 24.190,
+        "end": 24.982,
+        "label": "howl"
+      },
+      {
+        "start": 24.983,
+        "end": 25.565,
+        "label": "hiss"
+      },
+      {
+        "start": 25.690,
+        "end": 27.100,
+        "label": "hiss"
+      },
+      {
+        "start": 27.378,
+        "end": 29.062,
+        "label": "hiss"
+      },
+      {
+        "start": 29.206,
+        "end": 30.320,
+        "label": "meow"
+      },
+      {
+        "start": 30.425,
+        "end": 31.460,
+        "label": "meow"
+      },
+      {
+        "start": 31.409,
+        "end": 32.748,
+        "label": "howl"
+      },
+      {
+        "start": 32.749,
+        "end": 33.746,
+        "label": "howl"
+      },
+      {
+        "start": 33.800,
+        "end": 36.049,
+        "label": "howl"
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Bengal Cat Growl.mp3",
+    "website": "https://www.youtube.com/watch?v=qPErY9R1QOA",
+    "description": "",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 4.312,
+        "end": 9.373,
+        "label": "growl"
+      },
+      {
+        "start": 16.879,
+        "end": 19.498,
+        "label": "howl"
+      },
+      {
+        "start": 19.466,
+        "end": 21.996,
+        "label": "growl"
+      },
+      {
+        "start": 25.934,
+        "end": 29.492,
+        "label": "growl"
+      },
+      {
+        "start": 36.714,
+        "end": 38.192,
+        "label": "howl"
+      },
+      {
+        "start": 38.193,
+        "end": 39.231,
+        "label": "growl"
+      },
+      {
+        "start": 44.784,
+        "end": 47.436,
+        "label": "growl"
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Calico cat wont stop meowing in the bathroom!.mp3",
+    "website": "https://www.youtube.com/watch?v=lSdRU9T2iq4",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 0.210,
+        "end": 1.149,
+        "label": "meow"
+      },
+      {
+        "start": 1.210,
+        "end": 2.157,
+        "label": "meow"
+      },
+      {
+        "start": 2.525,
+        "end": 3.209,
+        "label": "meow"
+      },
+      {
+        "start": 3.525,
+        "end": 4.314,
+        "label": "meow"
+      },
+      {
+        "start": 4.998,
+        "end": 5.524,
+        "label": "meow"
+      },
+      {
+        "start": 6.051,
+        "end": 7.471,
+        "label": "meow"
+      },
+      {
+        "start": 7.839,
+        "end": 9.523,
+        "label": "meow"
+      },
+      {
+        "start": 10.102,
+        "end": 10.944,
+        "label": "meow"
+      },
+      {
+        "start": 11.680,
+        "end": 12.469,
+        "label": "meow"
+      },
+      {
+        "start": 12.838,
+        "end": 13.574,
+        "label": "meow"
+      },
+      {
+        "start": 14.153,
+        "end": 14.837,
+        "label": "meow"
+      },
+      {
+        "start": 15.205,
+        "end": 15.995,
+        "label": "meow"
+      },
+      {
+        "start": 16.363,
+        "end": 18.019,
+        "label": "meow"
+      },
+      {
+        "start": 19.099,
+        "end": 20.041,
+        "label": "meow"
+      },
+      {
+        "start": 20.414,
+        "end": 22.591,
+        "label": "meow"
+      },
+      {
+        "start": 22.834,
+        "end": 24.983,
+        "label": "meow"
+      },
+      {
+        "start": 25.255,
+        "end": 27.274,
+        "label": "meow"
+      },
+      {
+        "start": 27.474,
+        "end": 29.620,
+        "label": "meow"
+      },
+      {
+        "start": 29.937,
+        "end": 32.411,
+        "label": "meow"
+      },
+      {
+        "start": 32.831,
+        "end": 36.043,
+        "label": "meow"
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat Chatter  Chirping Cat.mp3",
+    "website": "",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 10.370,
+        "end": 12.608,
+        "label": "chatter"
+      },
+      {
+        "start": 12.541,
+        "end": 14.101,
+        "label": "hiss"
+      },
+      {
+        "start": 34.488,
+        "end": 36.111,
+        "label": "chatter"
+      },
+      {
+        "start": 19.294,
+        "end": 20.311,
+        "label": "chatter"
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat Howling Meowing loudly for attention.mp3",
+    "website": "https://www.youtube.com/watch?v=pkOCSrmBVJM",
+    "description": "Yuan: I think this should be the real attention!",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 1.599,
+        "end": 3.144,
+        "label": "howl"
+      },
+      {
+        "start": 3.701,
+        "end": 5.461,
+        "label": "howl"
+      },
+      {
+        "start": 6.040,
+        "end": 7.518,
+        "label": "howl"
+      },
+      {
+        "start": 8.291,
+        "end": 9.889,
+        "label": "howl"
+      },
+      {
+        "start": 10.600,
+        "end": 12.178,
+        "label": "howl"
+      },
+      {
+        "start": 13.502,
+        "end": 15.101,
+        "label": "howl"
+      },
+      {
+        "start": 16.285,
+        "end": 17.574,
+        "label": "howl"
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cats Howling-iEd2FOGkHyU.mp4",
+    "website": "https://www.youtube.com/watch?v=iEd2FOGkHyU",
+    "description": "Huhu has lost his territory to Mengmeng after being away for over a month. Now they meet again and somebody is losing sleep to all the howling.",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 0.412,
+        "end": 3.449,
+        "label": "howl"
+      },
+      {
+        "start": 15.040,
+        "end": 19.723,
+        "label": "howl"
+      },
+      {
+        "start": 21.839,
+        "end": 24.344,
+        "label": "howl"
+      },
+      {
+        "start": 24.723,
+        "end": 26.155,
+        "label": "howl"
+      },
+      {
+        "start": 27.608,
+        "end": 30.948,
+        "label": "howl"
+      },
+      {
+        "start": 32.243,
+        "end": 33.111,
+        "label": "howl"
+      },
+      {
+        "start": 34.304,
+        "end": 35.667,
+        "label": "howl"
+      },
+      {
+        "start": 38.218,
+        "end": 39.607,
+        "label": "howl"
+      },
+      {
+        "start": 39.867,
+        "end": 41.459,
+        "label": "howl"
+      },
+      {
+        "start": 41.460,
+        "end": 42.233,
+        "label": "howl"
+      },
+      {
+        "start": 42.236,
+        "end": 45.670,
+        "label": "howl"
+      },
+      {
+        "start": 46.562,
+        "end": 58.248,
+        "label": "howl"
+      },
+      {
+        "start": 58.409,
+        "end": 60.575,
+        "label": "howl"
+      },
+      {
+        "start": 67.577,
+        "end": 70.693,
+        "label": "howl"
+      },
+      {
+        "start": 71.492,
+        "end": 77.750,
+        "label": "howl"
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/ANGRY CATS HISS AND GROWL! Compilation (2017)-Q5AncCWcnnA.mkv",
+    "website": "https://www.youtube.com/watch?v=Q5AncCWcnnA",
+    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "start": 3.349,
+        "end": 6.724,
+        "label": "growl"
+      },
+      {
+        "start": 7.703,
+        "end": 9.103,
+        "label": "hiss"
+      },
+      {
+        "start": 9.713,
+        "end": 11.938,
+        "label": "growl"
+      },
+      {
+        "start": 11.939,
+        "end": 13.847,
+        "label": "growl"
+      },
+      {
+        "start": 15.574,
+        "end": 18.024,
+        "label": "growl"
+      },
+      {
+        "start": 20.263,
+        "end": 30.113,
+        "label": "growl"
+      },
+      {
+        "start": 31.148,
+        "end": 32.873,
+        "label": "growl"
+      },
+      {
+        "start": 32.990,
+        "end": 48.865,
+        "label": "growl"
+      },
+      {
+        "start": 56.769,
+        "end": 59.094,
+        "label": "hiss"
+      },
+      {
+        "start": 59.281,
+        "end": 62.081,
+        "label": "growl"
+      },
+      {
+        "start": 62.282,
+        "end": 64.503,
+        "label": "growl"
+      },
+      {
+        "start": 64.807,
+        "end": 66.632,
+        "label": "hiss"
+      },
+      {
+        "start": 66.984,
+        "end": 75.434,
+        "label": "growl"
+      },
+      {
+        "start": 76.227,
+        "end": 77.927,
+        "label": "hiss"
+      },
+      {
+        "start": 78.036,
+        "end": 84.386,
+        "label": "growl"
+      },
+      {
+        "start": 85.070,
+        "end": 86.320,
+        "label": "hiss"
+      },
+      {
+        "start": 86.912,
+        "end": 89.793,
+        "label": "growl"
+      },
+      {
+        "start": 90.093,
+        "end": 91.668,
+        "label": "hiss"
+      },
+      {
+        "start": 92.103,
+        "end": 98.278,
+        "label": "growl"
+      },
+      {
+        "start": 98.634,
+        "end": 100,
+        "label": "hiss"
+      },
+      {
+        "start": 100.309,
+        "end": 105.884,
+        "label": "growl"
+      },
+      {
+        "start": 106.337,
+        "end": 107.362,
+        "label": "hiss"
+      },
+      {
+        "start": 107.509,
+        "end": 110.609,
+        "label": "growl"
+      },
+      {
+        "start": 110.691,
+        "end": 111.741,
+        "label": "howl"
+      },
+      {
+        "start": 111.863,
+        "end": 112.813,
+        "label": "hiss"
+      },
+      {
+        "label": "hiss",
+        "start": 112.910,
+        "end": 114.267
+      },
+      {
+        "label": "howl",
+        "start": 115.506,
+        "end": 116.556
+      },
+      {
+        "label": "howl",
+        "start": 117.641,
+        "end": 118.937
+      },
+      {
+        "label": "hiss",
+        "start": 125.093,
+        "end": 126.493
+      },
+      {
+        "label": "howl",
+        "start": 127.605,
+        "end": 130.755
+      },
+      {
+        "label": "hiss",
+        "start": 131.54,
+        "end": 132.743
+      },
+      {
+        "label": "hiss",
+        "start": 134.052,
+        "end": 134.927
+      },
+      {
+        "label": "howl",
+        "start": 136.145,
+        "end": 137.37
+      },
+      {
+        "label": "howl",
+        "start": 140.08,
+        "end": 141.705
+      },
+      {
+        "label": "hiss",
+        "start": 142.257,
+        "end": 143.435
+      },
+      {
+        "label": "hiss",
+        "start": 144.099,
+        "end": 145.174
+      },
+      {
+        "label": "hiss",
+        "start": 146.444,
+        "end": 147.444
+      },
+      {
+        "label": "hiss",
+        "start": 149.542,
+        "end": 150.717
+      },
+      {
+        "label": "howl",
+        "start": 152.305,
+        "end": 154.755
+      },
+      {
+        "label": "hiss",
+        "start": 155.152,
+        "end": 156.152
+      },
+      {
+        "label": "hiss",
+        "start": 156.2,
+        "end": 157.072
+      },
+      {
+        "label": "growl",
+        "start": 157.077,
+        "end": 163.452
+      },
+      {
+        "label": "hiss",
+        "start": 163.608,
+        "end": 165.083
+      },
+      {
+        "label": "growl",
+        "start": 165.199,
+        "end": 171.474
+      },
+      {
+        "label": "growl",
+        "start": 165.199,
+        "end": 171.474
+      },
+      {
+        "label": "hiss",
+        "start": 171.647,
+        "end": 172.697
+      },
+      {
+        "label": "growl",
+        "start": 172.819,
+        "end": 179.755
+      },
+      {
+        "label": "growl",
+        "start": 180.522,
+        "end": 188.622
+      },
+      {
+        "label": "growl",
+        "start": 189.9,
+        "end": 195.750
+      },
+      {
+        "label": "hiss",
+        "start": 195.8,
+        "end": 196.802
+      },
+      {
+        "label": "growl",
+        "start": 197.1,
+        "end": 200.55
+      },
+      {
+        "label": "hiss",
+        "start": 200.785,
+        "end": 201.835
+      },
+      {
+        "label": "growl",
+        "start": 204.301,
+        "end": 212.262
+      },
+      {
+        "label": "hiss",
+        "start": 212.507,
+        "end": 214.382
+      },
+      {
+        "label": "growl",
+        "start": 215.772,
+        "end": 224.022
+      },
+      {
+        "label": "hiss",
+        "start": 225.987,
+        "end": 227.412
+      },
+      {
+        "label": "growl",
+        "start": 227.746,
+        "end": 235.596
+      },
+      {
+        "label": "hiss",
+        "start": 235.951,
+        "end": 237.351
+      },
+      {
+        "label": "hiss",
+        "start": 237.542,
+        "end": 239.742
+      },
+      {
+        "label": "growl",
+        "start": 239.719,
+        "end": 248.419
+      },
+      {
+        "label": "hiss",
+        "start": 248.678,
+        "end": 250.303
+      },
+      {
+        "label": "growl",
+        "start": 250.604,
+        "end": 258.729
+      },
+      {
+        "label": "hiss",
+        "start": 258.809,
+        "end": 259.67
+      },
+      {
+        "label": "growl",
+        "start": 260.986,
+        "end": 266.711
+      },
+      {
+        "label": "meow",
+        "start": 267.182,
+        "end":  269.924
+      },
+      {
+        "label": "growl",
+        "start": 269.946,
+        "end": 271.446
+      },
+      {
+        "label": "hiss",
+        "start": 271.45,
+        "end": 272.544
+      },
+      {
+        "label": "meow",
+        "start": 272.96,
+        "end": 274.285
+      },
+      {
+        "label": "meow",
+        "start": 274.551,
+        "end": 275.976
+      },
+      {
+        "label": "hiss",
+        "start": 276.142,
+        "end": 277.642
+      },
+      {
+        "label": "howl",
+        "start": 278.151,
+        "end": 284.526
+      },
+      {
+        "label": "growl",
+        "start": 285.519,
+        "end": 290.503
+      },
+      {
+        "label": "growl",
+        "start": 292.971,
+        "end": 296.496
+      },
+      {
+        "label": "howl",
+        "start": 298.163,
+        "end": 301.088
+      },
+      {
+        "label": "hiss",
+        "start": 301.1,
+        "end": 302.301
+      },
+      {
+        "label": "howl",
+        "start": 303.772,
+        "end": 306.647
+      },
+      {
+        "label": "growl",
+        "start": 305.126,
+        "end": 310.276
+      },
+      {
+        "label": "hiss",
+        "start": 310.3,
+        "end": 311.37
+      },
+      {
+        "label": "howl",
+        "start": 311.476,
+        "end": 318.751
+      },
+      {
+        "label": "growl",
+        "start": 319.43,
+        "end": 325.355
+      },
+      {
+        "label": "growl",
+        "start": 325.877,
+        "end": 329.002
+      },
+      {
+        "label": "growl",
+        "start": 330.147,
+        "end": 333.997
+      },
+      {
+        "label": "hiss",
+        "start": 334.25,
+        "end": 335.207
+      },
+      {
+        "label": "howl",
+        "start": 335.506,
+        "end": 338.791
+      },
+      {
+        "label": "meow",
+        "slabel": "mew",
+        "start": 339.776,
+        "end": 340.901
+      },
+      {
+        "label": "hiss",
+        "start": 340.781,
+        "end": 342.106
+      },
+      {
+        "label": "howl",
+        "start": 342.372,
+        "end": 346.972
+      },
+      {
+        "label": "howl",
+        "start": 349.154,
+        "end": 355.004
+      },
+      {
+        "label": "howl",
+        "start": 356.271,
+        "end": 360.146
+      },
+      {
+        "label": "howl",
+        "start": 362.216,
+        "end": 368.216
+      },
+      {
+        "label": "howl",
+        "start": 370.589,
+        "end": 376.289
+      },
+      {
+        "label": "howl",
+        "start": 378.208,
+        "end": 384.558
+      },
+      {
+        "label": "howl",
+        "start": 385.158,
+        "end": 388.758
+      },
+      {
+        "label": "hiss",
+        "start": 389.093,
+        "end": 392.668
+      },
+      {
+        "label": "hiss",
+        "start": 392.67,
+        "end": 395.668
+      },
+      {
+        "label": "hiss",
+        "start": 395.875,
+        "end": 397.2
+      },
+      {
+        "label": "hiss",
+        "start": 399.308,
+        "end": 400.783
+      },
+      {
+        "label": "hiss",
+        "start": 401.15,
+        "end": 404.35
+      },
+      {
+        "label": "meow",
+        "slabel": "moan",
+        "start": 402.658,
+        "end": 404.333
+      },
+      {
+        "label": "hiss",
+        "start": 405.253,
+        "end": 407.053
+      },
+      {
+        "label": "hiss",
+        "start": 415.05,
+        "end": 416.57
+      },
+      {
+        "label": "hiss",
+        "start": 416.975,
+        "end": 418
+      },
+      {
+        "label": "hiss",
+        "start": 419.15,
+        "end": 420.05
+      },
+      {
+        "label": "growl",
+        "start": 420.5,
+        "end": 421.967
+      },
+      {
+        "label": "growl",
+        "start": 412.968,
+        "end": 414.318
+      },
+      {
+        "label": "growl",
+        "start": 442.011,
+        "end": 443.76
+      }
+    ]
+  },
+  
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat Meowing Relentlessly.mp3",
+    "website": "https://www.youtube.com/watch?v=xASVCgdiQKk",
+    "description": "Yuan: Cat is meowing to human, very obvious miaow to want attention",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 1.34,
+        "end": 2.564
+      },
+      {
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 4.094,
+        "end": 5.362
+      },
+      {
+        "label": "meow",
+        "slabel": "miaow",
         "start": 5.881,
-        "end": 6.923,
-        "label": "attention"
+        "end": 6.891
       },
       {
-        "start": 7.296,
-        "end": 8.487,
-        "label": "attention"
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 7.444,
+        "end": 8.558
       },
       {
-        "start": 9.082,
-        "end": 10.199,
-        "label": "attention"
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 9.008,
+        "end": 10.068
       },
       {
-        "start": 19.058,
-        "end": 20.472,
-        "label": "attention"
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 19.132,
+        "end": 20.524
       },
       {
-        "start": 21.142,
-        "end": 22.259,
-        "label": "attention"
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 21.068,
+        "end": 22.299
       },
       {
-        "start": 22.780,
-        "end": 24.120,
-        "label": "attention"
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 22.85,
+        "end": 24.2
       },
       {
-        "start": 24.567,
-        "end": 25.683,
-        "label": "attention"
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 24.64,
+        "end": 25.76
       },
       {
+        "label": "meow",
+        "slabel": "miaow",
         "start": 26.428,
-        "end": 27.619,
-        "label": "attention"
+        "end": 27.566
       },
       {
-        "start": 28.438,
-        "end": 29.629,
-        "label": "attention"
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 28.44,
+        "end": 29.63
       },
       {
+        "label": "meow",
+        "slabel": "miaow",
         "start": 31.415,
-        "end": 32.458,
-        "label": "attention"
+        "end": 32.62
       },
       {
+        "label": "meow",
+        "slabel": "miaow",
         "start": 33.425,
-        "end": 34.691,
-        "label": "attention"
+        "end": 34.66
       },
       {
-        "start": 36.403,
-        "end": 37.892,
-        "label": "attention"
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 35.21,
+        "end": 36.35
       },
       {
-        "start": 38.413,
-        "end": 39.679,
-        "label": "attention"
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 36.85,
+        "end": 37.89
       },
       {
-        "start": 46.304,
-        "end": 47.495,
-        "label": "attention"
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 38.48,
+        "end": 39.69
       },
       {
-        "start": 48.240,
-        "end": 49.356,
-        "label": "attention"
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 46.23,
+        "end": 47.66
       },
       {
-        "start": 49.356,
-        "end": 50.547,
-        "label": "attention"
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 48.31,
+        "end": 50.5
       },
       {
-        "start": 50.547,
-        "end": 51.962,
-        "label": "attention"
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 50.77,
+        "end": 51.79
+      },
+      {
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 55.01,
+        "end": 55.96
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat Meowing - Sound Effect - Download.mp3",
+    "website": "https://www.youtube.com/watch?v=rdYE3Wm6jX8",
+    "description": "Yuan: Mainly meowing",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 0.4,
+        "end": 1.59
+      },
+      {
+        "label": "meow",
+        "start": 2.49,
+        "end": 3.68
+      },
+      {
+        "label": "meow",
+        "start": 3.99,
+        "end": 5.26
+      },
+      {
+        "label": "meow",
+        "start": 7.85,
+        "end": 8.9
+      },
+      {
+        "label": "meow",
+        "start": 9.9,
+        "end": 11.24
+      },
+      {
+        "label": "meow",
+        "start": 11.68,
+        "end": 12.89
+      },
+      {
+        "label": "meow",
+        "start": 13.907,
+        "end": 15.05
+      },
+      {
+        "label": "meow",
+        "start": 16.09,
+        "end": 17.23
+      },
+      {
+        "label": "meow",
+        "start": 17.84,
+        "end": 18.94
+      },
+      {
+        "label": "meow",
+        "start": 20.12,
+        "end": 21.25
+      },
+      {
+        "label": "meow",
+        "start": 22.65,
+        "end": 24
+      },
+      {
+        "label": "meow",
+        "start": 25.12,
+        "end": 26.2
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat vs camera.mp3",
+    "website": "https://www.youtube.com/watch?v=b8AzwUMbgb4",
+    "description": "",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "hiss",
+        "start": 0.36,
+        "end": 1.66
+      },
+      {
+        "label": "howl",
+        "start": 7.1,
+        "end": 8.68
+      },
+      {
+        "label": "howl",
+        "start": 12.43,
+        "end": 14.8
+      },
+      {
+        "label": "hiss",
+        "start": 16.21,
+        "end": 17.6
+      },
+      {
+        "label": "howl",
+        "start": 19.45,
+        "end": 21
+      },
+      {
+        "label": "hiss",
+        "start": 21.59,
+        "end": 22.96
+      },
+      {
+        "label": "hiss",
+        "start": 24.87,
+        "end": 26.25
+      },
+      {
+        "label": "scream",
+        "start": 27.66,
+        "end": 28.78
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat Meows Bites And Slaps Me In The Morning.mp3",
+    "website": "https://www.youtube.com/watch?v=BnVtmo0y9BE",
+    "description": "Butters wanted me up, and he meant business! After I got up, he went to sleep.",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 4.781,
+        "end": 9.719
+      },
+      {
+        "label": "meow",
+        "start": 19.507,
+        "end": 22.491
+      },
+      {
+        "label": "meow",
+        "start": 23.14,
+        "end": 26.26
+      },
+      {
+        "label": "meow",
+        "start": 27.347,
+        "end": 29.17
+      },
+      {
+        "label": "meow",
+        "start": 30.59,
+        "end": 32.36
+      },
+      {
+        "label": "meow",
+        "start": 35.18,
+        "end": 38.89
+      },
+      {
+        "label": "meow",
+        "start": 61.388,
+        "end": 63.77
+      },
+      {
+        "label": "meow",
+        "start": 66.17,
+        "end": 68.05
+      },
+      {
+        "label": "meow",
+        "start": 82.42,
+        "end": 84.93
+      },
+      {
+        "label": "meow",
+        "start": 110.34,
+        "end": 112.86
+      },
+      {
+        "label": "meow",
+        "start": 121.62,
+        "end": 125.12
+      },
+      {
+        "label": "meow",
+        "start": 139.6,
+        "end": 141.54
+      },
+      {
+        "label": "meow",
+        "start": 143.23,
+        "end": 145.43
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat Misses His Owner and Hes Happy When Owner is Back - Funny Ending!.mp3",
+    "website": "https://www.youtube.com/watch?v=oIvouMITPDI",
+    "description": "Cat Misses His Owner and Hes Happy When Owner is Back",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 3.97,
+        "end": 5.65
+      },
+      {
+        "label": "meow",
+        "start": 8.17,
+        "end": 9.25
+      },
+      {
+        "label": "meow",
+        "start": 10.39,
+        "end": 11.5
+      },
+      {
+        "label": "meow",
+        "start": 11.91,
+        "end": 13.12
+      },
+      {
+        "label": "meow",
+        "start": 13.66,
+        "end": 15.34
+      },
+      {
+        "label": "meow",
+        "start": 16,
+        "end": 17.46
+      },
+      {
+        "label": "meow",
+        "start": 18.45,
+        "end": 20.04
+      },
+      {
+        "label": "meow",
+        "start": 26.64,
+        "end": 28.21
+      },
+      {
+        "label": "meow",
+        "start": 33.17,
+        "end": 35.92
+      },
+      {
+        "label": "meow",
+        "start": 37.02,
+        "end": 39.12
+      },
+      {
+        "label": "meow",
+        "start": 41.81,
+        "end": 43.57
+      },
+      {
+        "label": "meow",
+        "start": 44.96,
+        "end": 46.34
+      },
+      {
+        "label": "meow",
+        "start": 46.6,
+        "end": 47.98
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat Meows Uncontrollably 2.mp3",
+    "website": "https://www.youtube.com/watch?v=Xsdv74CjjbQ",
+    "description": "Cat begs for attention.",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 3.11,
+        "end": 3.97
+      },
+      {
+        "label": "meow",
+        "start": 4.64,
+        "end": 5.9
+      },
+      {
+        "label": "meow",
+        "start": 9.07,
+        "end": 9.91
+      },
+      {
+        "label": "meow",
+        "start": 12.11,
+        "end": 12.74
+      },
+      {
+        "label": "meow",
+        "start": 14,
+        "end": 15.02
+      },
+      {
+        "label": "meow",
+        "start": 23.4,
+        "end": 24
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cats Chattering at Bird!.mp3",
+    "website": "https://www.youtube.com/watch?v=ILFCDPjwSBw",
+    "description": "",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "chatter",
+        "start": 1.66,
+        "end": 3.05
+      },
+      {
+        "label": "chatter",
+        "start": 3.74,
+        "end": 5.48
+      },
+      {
+        "label": "chatter",
+        "start": 5.71,
+        "end": 8.119
+      },
+      {
+        "label": "chatter",
+        "start": 9.14,
+        "end": 12.77
+      },
+      {
+        "label": "chatter",
+        "start": 14.13,
+        "end": 15.97
+      },
+      {
+        "label": "chatter",
+        "start": 17.15,
+        "end": 18.77
+      },
+      {
+        "label": "chatter",
+        "start": 25.05,
+        "end": 26.49
+      },
+      {
+        "label": "chatter",
+        "start": 26.82,
+        "end": 29.14
+      },
+      {
+        "label": "chatter",
+        "start": 30.35,
+        "end": 34.44
+      },
+      {
+        "label": "chatter",
+        "start": 34.51,
+        "end": 38.94
+      },
+      {
+        "label": "chatter",
+        "start": 40.022,
+        "end": 44.569
+      },
+      {
+        "label": "chatter",
+        "start": 45.11,
+        "end": 49.64
+      },
+      {
+        "label": "chatter",
+        "start": 49.79,
+        "end": 54.14
+      },
+      {
+        "label": "chatter",
+        "start": 54.99,
+        "end": 58.44
+      },
+      {
+        "label": "chatter",
+        "start": 58.52,
+        "end": 60.68
+      },
+      {
+        "label": "chatter",
+        "start": 63.41,
+        "end": 67.45
+      },
+      {
+        "label": "chatter",
+        "start": 67.98,
+        "end": 71.48
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cats meowing at birds.mp3",
+    "website": "https://www.youtube.com/watch?v=J1wC67In7Fg",
+    "description": "Yuan: I think it is between meow and chatter",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 0.12,
+        "end": 1.3
+      },
+      {
+        "label": "chatter",
+        "start": 5.04,
+        "end": 5.74
+      },
+      {
+        "label": "chatter",
+        "start": 7.17,
+        "end": 12.99
+      },
+      {
+        "label": "chatter",
+        "start": 13.57,
+        "end": 15.14
+      },
+      {
+        "label": "chatter",
+        "start": 16.06,
+        "end": 17.94
+      },
+      {
+        "label": "chatter",
+        "start": 18.07,
+        "end": 19.88
+      },
+      {
+        "label": "chatter",
+        "start": 20.04,
+        "end": 21.64
+      },
+      {
+        "label": "chatter",
+        "start": 21.91,
+        "end": 22.94
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat Scream  Sound Effect.mp3",
+    "website": "https://www.youtube.com/watch?v=2ZMv9eUk5Uw",
+    "description": "",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "start": 4.19,
+        "end": 5.796,
+        "label": "scream"
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat with hoarse meow.mp3",
+    "website": "https://www.youtube.com/watch?v=wynW--HBuwI",
+    "description": "Coming home from work one day and I saw a cat with sore throat.",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 1.55,
+        "end": 2.69
+      },
+      {
+        "label": "meow",
+        "start": 3.817,
+        "end": 4.309
+      },
+      {
+        "label": "meow",
+        "start": 7.45,
+        "end": 10.519
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat wont stop meowing for attention.mp3",
+    "website": "https://www.youtube.com/watch?v=mMQSdruGJBU",
+    "description": "My cat Kumi is well fed and still wants some attention",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "slabel": "mew",
+        "start": 2.14,
+        "end": 5.0
+      },
+      {
+        "label": "meow",
+        "slabel": "mew",
+        "start": 6.04,
+        "end": 7.49
+      },
+      {
+        "label": "meow",
+        "slabel": "mew",
+        "start": 18.18,
+        "end": 19.75
+      },
+      {
+        "label": "meow",
+        "slabel": "mew",
+        "start": 20.72,
+        "end": 22.4
+      },
+      {
+        "label": "meow",
+        "slabel": "mew",
+        "start": 24.22,
+        "end": 25.83
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/ウキャキャキャット - Chirping Cat -.mp3",
+    "website": "",
+    "description": "虫を見つけてクラッキング。最後は見失ってふて寝。",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "chatter",
+        "start": 0.834,
+        "end": 4.38
+      },
+      {
+        "label": "chatter",
+        "start": 4.64,
+        "end": 5.5
+      },
+      {
+        "label": "chatter",
+        "start": 6.8,
+        "end": 8.33
+      },
+      {
+        "label": "chatter",
+        "start": 8.65,
+        "end": 10
+      },
+      {
+        "label": "chatter",
+        "start": 10.12,
+        "end": 11.35
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Chirping Cat - Close Up.mp3",
+    "website": "https://www.youtube.com/watch?v=gRvDBK6TzgU",
+    "description": "Bobo noticed that there's an flying insect on the ceiling :)",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 0.78,
+        "end": 5.35
+      },
+      {
+        "label": "chatter",
+        "start": 17.94,
+        "end": 25.79
+      },
+      {
+        "label": "chatter",
+        "start": 33.16,
+        "end": 39.02
+      },
+      {
+        "label": "chatter",
+        "start": 41.36,
+        "end": 43.42
+      },
+      {
+        "label": "chatter",
+        "start": 45.458,
+        "end": 48.427
+      },
+      {
+        "label": "chatter",
+        "start": 51.89,
+        "end": 55.26
+      },
+      {
+        "label": "chatter",
+        "start": 62.04,
+        "end": 66.20
+      },
+      {
+        "label": "meow",
+        "start": 67.25,
+        "end": 70.06
+      },
+      {
+        "label": "meow",
+        "start": 70.1,
+        "end": 73.06
+      },
+      {
+        "label": "chatter",
+        "start": 85.64,
+        "end": 96.09
+      },
+      {
+        "label": "chatter",
+        "start": 98.52,
+        "end": 107.87
+      },
+      {
+        "label": "meow",
+        "start": 113.15,
+        "end": 115.6
+      },
+      {
+        "label": "meow",
+        "start": 115.88,
+        "end": 120.46
+      },
+      {
+        "label": "meow",
+        "start": 132.86,
+        "end": 137.75
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cranky cat growling.mp3",
+    "website": "https://www.youtube.com/watch?v=QrB9_hApfIM",
+    "description": "Gray growls, sounding like he is possessed by a demon.  We were cat sitting Gray (a friend's cat).  After 1 day of this growling, they became  best friends.",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "growl",
+        "start": 6.72,
+        "end": 15.19
+      },
+      {
+        "label": "growl",
+        "start": 15.68,
+        "end": 20.13
+      },
+      {
+        "label": "growl",
+        "start": 29.01,
+        "end": 34.11
+      },
+      {
+        "label": "hiss",
+        "start": 34.12,
+        "end": 36.31
+      },
+      {
+        "label": "growl",
+        "start": 47.68,
+        "end": 51.91
+      },
+      {
+        "label": "growl",
+        "start": 54.78,
+        "end": 59.83
+      },
+      {
+        "label": "growl",
+        "start": 61.01,
+        "end": 65.98
+      },
+      {
+        "label": "hiss",
+        "start": 67.98,
+        "end": 70.17
+      },
+      {
+        "label": "growl",
+        "start": 70.22,
+        "end": 74.14
+      },
+      {
+        "label": "hiss",
+        "start": 75.32,
+        "end": 77.44
+      },
+      {
+        "label": "growl",
+        "start": 77.45,
+        "end": 80.8
+      },
+      {
+        "label": "growl",
+        "start": 85.04,
+        "end": 88.38
+      },
+      {
+        "label": "howl",
+        "start": 91.88,
+        "end": 94.46
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cute kitten meowing loud for attention.  Too much cuteness.mp3",
+    "website": "https://www.youtube.com/watch?v=VbnbuMXlPrs",
+    "description": "10 week old Savannah kitten meowing will melt your heart!  Too cute!",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 2.34,
+        "end": 4.41
+      },
+      {
+        "label": "meow",
+        "start": 10.46,
+        "end": 11.28
+      },
+      {
+        "label": "meow",
+        "start": 12.10,
+        "end": 12.97
+      },
+      {
+        "label": "purring",
+        "start": 21.22,
+        "end": 25.53
+      },
+      {
+        "label": "meow",
+        "start": 25.69,
+        "end": 26.53
+      },
+      {
+        "label": "meow",
+        "start": 26.76,
+        "end": 27.97
+      },
+      {
+        "label": "purring",
+        "start": 28.11,
+        "end": 29.97
+      },
+      {
+        "label": "meow",
+        "start": 30.33,
+        "end": 31.37
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cute kitten meows because it wants attention.mp3",
+    "website": "https://www.youtube.com/watch?v=PkRAN7n_y5o",
+    "description": "My cat Tangy wanted attention.",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 0.21,
+        "end": 1.12
+      },
+      {
+        "label": "meow",
+        "start": 2.2,
+        "end": 3.1
+      },
+      {
+        "label": "meow",
+        "start": 3.8,
+        "end": 4.8
+      },
+      {
+        "label": "meow",
+        "start": 5.26,
+        "end": 6.07
+      },
+      {
+        "label": "meow",
+        "start": 7.82,
+        "end": 8.71
+      },
+      {
+        "label": "meow",
+        "start": 9.89,
+        "end": 10.66
+      },
+      {
+        "label": "meow",
+        "start": 13.09,
+        "end": 14.1
+      },
+      {
+        "label": "meow",
+        "start": 15.06,
+        "end": 15.8
+      },
+      {
+        "label": "meow",
+        "start": 16.67,
+        "end": 17.63
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cute Miya the Cat Chirping.mp3",
+    "website": "https://www.youtube.com/watch?v=FwQFkdWe2Ss",
+    "description": "She was playing with laser and after a while she began chirping for it, lol.",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "chatter",
+        "start": 2.05,
+        "end": 3.9
+      },
+      {
+        "label": "chatter",
+        "start": 5.71,
+        "end": 10.658
+      },
+      {
+        "label": "chatter",
+        "start": 13.21,
+        "end": 14.9
+      },
+      {
+        "label": "chatter",
+        "start": 17.05,
+        "end": 19.1
+      },
+      {
+        "label": "chatter",
+        "start": 22.2,
+        "end": 23.4
+      },
+      {
+        "label": "chatter",
+        "start": 27.83,
+        "end": 30.88
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cutest cat noise ever! Cat chirping!.mp3",
+    "website": "https://www.youtube.com/watch?v=PmdxHVgaDLM",
+    "description": "My Maine Coon waking me up with his chirping noise. They're known for making this chirping noise when they're excited. Yuan: I don't think this should be classified as chatter. From video, it should be purring",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "purring",
+        "start": 1.5,
+        "end": 18.02
+      },
+      {
+        "label": "purring",
+        "start": 26.1,
+        "end": 32.13
       }
     ]
   },
   
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cutest meowing ever! Cat demands attention.mp3",
+    "website": "https://www.youtube.com/watch?v=DT_UJlrCToY",
+    "description": "Fitri the cat demands her owner attention. The cutest meowing ever!",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 1.26,
+        "end": 2.62
+      },
+      {
+        "label": "meow",
+        "start": 3.64,
+        "end": 4.97
+      },
+      {
+        "label": "meow",
+        "start": 5.21,
+        "end": 7.89
+      },
+      {
+        "label": "meow",
+        "start": 8.78,
+        "end": 12.06 
+      },
+      {
+        "label": "meow",
+        "start": 12.9,
+        "end": 14.2
+      },
+      {
+        "label": "meow",
+        "start": 17.49,
+        "end": 19.98
+      },
+      {
+        "label": "meow",
+        "start": 28.06,
+        "end": 29.4
+      },
+      {
+        "label": "meow",
+        "start": 30.74,
+        "end": 32.26
+      },
+      {
+        "label": "meow",
+        "start": 32.6,
+        "end": 33.75
+      },
+      {
+        "label": "meow",
+        "start": 47.19,
+        "end": 48.91
       }
     ]
   },
   
+  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Deaf cat wake up funny scream so loud cute white kitten.mp3",
+    "website": "https://www.youtube.com/watch?v=05I20Yqx0_8",
+    "description": "",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "scream",
+        "start": 2.53,
+        "end": 3.41
       }
     ]
   },
-  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Dont Pet This Kitty!! Pt. 1.mp3",
+    "website": "https://www.youtube.com/watch?v=7UBNBfJjbBE",
+    "description": "",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "growl",
+        "start": 0.1,
+        "end": 2.98
+      },
+      {
+        "label": "hiss",
+        "start": 4.41,
+        "end": 5.23
+      },
+      {
+        "label": "growl",
+        "start": 5.23,
+        "end": 7.99
+      },
+      {
+        "label": "hiss",
+        "start": 8.16,
+        "end": 9.3
+      },
+      {
+        "label": "growl",
+        "start": 9.34,
+        "end": 13.09
+      },
+      {
+        "label": "hiss",
+        "start": 13.34,
+        "end": 14.94
+      },
+      {
+        "label": "growl",
+        "start": 14.99,
+        "end": 17.63
+      },
+      {
+        "label": "hiss",
+        "start": 17.71,
+        "end": 19.07
+      },
+      {
+        "label": "growl",
+        "start": 19.1,
+        "end": 21.87
+      },
+      {
+        "label": "hiss",
+        "start": 21.9,
+        "end": 22.74
+      },
+      {
+        "label": "growl",
+        "start": 23.46,
+        "end": 26.44
+      },
+      {
+        "label": "hiss",
+        "start": 26.69,
+        "end": 27.98
+      },
+      {
+        "label": "growl",
+        "start": 28.18,
+        "end": 31.08
+      },
+      {
+        "label": "growl",
+        "start": 31.98,
+        "end": 34.2
+      },
+      {
+        "label": "hiss",
+        "start": 34.29,
+        "end": 34.96
+      },
+      {
+        "label": "scream",
+        "start": 34.97,
+        "end": 36.6
+      },
+      {
+        "label": "hiss",
+        "start": 36.65,
+        "end": 38.3
+      },
+      {
+        "label": "growl",
+        "start": 38.35,
+        "end": 39.96
       }
     ]
   },
-  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Dont pet this Kitty!! Pt. 2.mp3",
+    "website": "https://www.youtube.com/watch?v=u0Ys0J4rvFQ",
+    "description": "",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "howl",
+        "start": 0.1,
+        "end": 1.23
+      },
+      {
+        "label": "hiss",
+        "start": 1.75,
+        "end": 2.42
+      },
+      {
+        "label": "howl",
+        "start": 2.944,
+        "end": 9.039
+      },
+      {
+        "label": "hiss",
+        "start": 9.44,
+        "end": 10.3
+      },
+      {
+        "label": "howl",
+        "start": 10.31,
+        "end": 12.42
+      },
+      {
+        "label": "hiss",
+        "start": 12.44,
+        "end": 13.4
+      },
+      {
+        "label": "growl",
+        "start": 13.45,
+        "end": 16.87
+      },
+      {
+        "label": "hiss",
+        "start": 17.61,
+        "end": 19
+      },
+      {
+        "label": "growl",
+        "start": 19.46,
+        "end": 21.72
+      },
+      {
+        "label": "hiss",
+        "start": 22.27,
+        "end": 23.46
+      },
+      {
+        "label": "growl",
+        "start": 24.07,
+        "end": 25.47
+      },
+      {
+        "label": "hiss",
+        "start": 26.6,
+        "end": 27.7
+      },
+      {
+        "label": "howl",
+        "start": 27.77,
+        "end": 30.82
+      },
+      {
+        "label": "hiss",
+        "start": 31.15,
+        "end": 32.26
+      },
+      {
+        "label": "howl",
+        "start": 32.66,
+        "end": 35.42
       }
     ]
   },
-  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Dont Pet this Kitty!! Pt. 3.mp3",
+    "website": "https://www.youtube.com/watch?v=MF88IYF2MHY",
+    "description": "",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "howl",
+        "start": 1.59,
+        "end": 6.27
+      },
+      {
+        "label": "scream",
+        "start": 6.51,
+        "end": 8.1
+      },
+      {
+        "label": "hiss",
+        "start": 8.17,
+        "end": 9.53
+      },
+      {
+        "label": "howl",
+        "start": 9.61,
+        "end": 12.31
+      },
+      {
+        "label": "hiss",
+        "start": 12.32,
+        "end": 13.29
+      },
+      {
+        "label": "howl",
+        "start": 14,
+        "end": 17.5
+      },
+      {
+        "label": "hiss",
+        "start": 17.64,
+        "end": 18.48
+      },
+      {
+        "label": "scream",
+        "start": 18.62,
+        "end": 22.07
+      },
+      {
+        "label": "hiss",
+        "start": 22.034,
+        "end": 22.74
+      },
+      {
+        "label": "scream",
+        "start": 22.75,
+        "end": 24.8
+      },
+      {
+        "label": "hiss",
+        "start": 24.83,
+        "end": 25.62
+      },
+      {
+        "label": "scream",
+        "start": 25.51,
+        "end": 27.68
+      },
+      {
+        "label": "hiss",
+        "start": 27.71,
+        "end": 28.687
+      },
+      {
+        "label": "howl",
+        "start": 28.77,
+        "end": 31.86
+      },
+      {
+        "label": "hiss",
+        "start": 31.95,
+        "end": 32.79
+      },
+      {
+        "label": "scream",
+        "start": 32.78,
+        "end": 35.28
+      },
+      {
+        "label": "hiss",
+        "start": 35.66,
+        "end": 36.85
+      },
+      {
+        "label": "growl",
+        "start": 39.07,
+        "end": 41.93
+      },
+      {
+        "label": "scream",
+        "start": 44.9,
+        "end": 47.46
+      },
+      {
+        "label": "hiss",
+        "start": 47.55,
+        "end": 48.39
+      },
+      {
+        "label": "scream",
+        "start": 48.46,
+        "end": 50.1
+      },
+      {
+        "label": "howl",
+        "start": 50.11,
+        "end": 52.69
+      },
+      {
+        "label": "hiss",
+        "start": 53,
+        "end": 54.05
+      },
+      {
+        "label": "howl",
+        "start": 54.06,
+        "end": 57.59
+      },
+      {
+        "label": "hiss",
+        "start": 58.07,
+        "end": 58.62
       }
     ]
   },
-  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Dont Pet this Kitty!! Pt. 4.mp3",
+    "website": "https://www.youtube.com/watch?v=HWwA3wv04OM",
+    "description": "",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "growl",
+        "start": 0.1,
+        "end": 1.3
+      },
+      {
+        "label": "howl",
+        "start": 1.305,
+        "end": 4.888
+      },
+      {
+        "label": "hiss",
+        "start": 5.05,
+        "end": 6.17
+      },
+      {
+        "label": "growl",
+        "start": 6.997,
+        "end": 8.75
+      },
+      {
+        "label": "scream",
+        "start": 8.8,
+        "end": 10.92
+      },
+      {
+        "label": "hiss",
+        "start": 10.95,
+        "end": 11.7
+      },
+      {
+        "label": "howl",
+        "start": 11.98,
+        "end": 16.36
+      },
+      {
+        "label": "hiss",
+        "start": 16.62,
+        "end": 17.71
+      },
+      {
+        "label": "growl",
+        "start": 18.42,
+        "end": 20.577
+      },
+      {
+        "label": "hiss",
+        "start": 21.2,
+        "end": 22.06
+      },
+      {
+        "label": "growl",
+        "start": 22.93,
+        "end": 25.57
+      },
+      {
+        "label": "hiss",
+        "start": 26.46,
+        "end": 27.47
+      },
+      {
+        "label": "howl",
+        "start": 27.64,
+        "end": 32.522
+      },
+      {
+        "label": "growl",
+        "start": 35.54,
+        "end": 37.62
+      },
+      {
+        "label": "hiss",
+        "start": 38.65,
+        "end": 39.67
+      },
+      {
+        "label": "howl",
+        "start": 40.11,
+        "end": 42.347
+      },
+      {
+        "label": "hiss",
+        "start": 42.47,
+        "end": 43.357
+      },
+      {
+        "label": "scream",
+        "start": 43.43,
+        "end": 46.01
+      },
+      {
+        "label": "howl",
+        "start": 46.14,
+        "end": 47.79
+      },
+      {
+        "label": "hiss",
+        "start": 47.8,
+        "end": 48.83
+      },
+      {
+        "label": "scream",
+        "start": 49.397,
+        "end": 53.129
       }
     ]
   },
-  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Ella meows for attention - PoathCats  PoathTV  Floppy Ragdoll Cats.mp3",
+    "website": "https://www.youtube.com/watch?v=f1Ta8MEZM78",
+    "description": "Ella yawns then meows in an attempt to get my attention. ",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 1.8,
+        "end": 2.85
+      },
+      {
+        "label": "meow",
+        "start": 8.7,
+        "end": 9.68
+      },
+      {
+        "label": "meow",
+        "start": 15.34,
+        "end": 16.59
+      },
+      {
+        "label": "meow",
+        "start": 20.06,
+        "end": 21.28
       }
     ]
   },
-  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Evil Cat Growling.mp3",
+    "website": "https://www.youtube.com/watch?v=ltZm48wZVyY",
+    "description": "This video was uploaded from an Android phone.",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "growl",
+        "start": 0.78,
+        "end": 4.25
+      },
+      {
+        "label": "hiss",
+        "start": 5.05,
+        "end": 7.18
+      },
+      {
+        "label": "growl",
+        "start": 7.89,
+        "end": 10.91
+      },
+      {
+        "label": "growl",
+        "start": 15.78,
+        "end": 19.365
+      },
+      {
+        "label": "growl",
+        "start": 21.15,
+        "end": 24.31
+      },
+      {
+        "label": "growl",
+        "start": 26.36,
+        "end": 29.19
+      },
+      {
+        "label": "growl",
+        "start": 31.89,
+        "end": 37.49
+      },
+      {
+        "label": "growl",
+        "start": 42.31,
+        "end": 46.56
+      },
+      {
+        "label": "growl",
+        "start": 48.31,
+        "end": 54.11
+      },
+      {
+        "label": "growl",
+        "start": 57.31,
+        "end": 61.47
+      },
+      {
+        "label": "growl",
+        "start": 66.3,
+        "end": 68.61
+      },
+      {
+        "label": "growl",
+        "start": 72,
+        "end": 77.1
+      },
+      {
+        "label": "growl",
+        "start": 79.09,
+        "end": 83.4
+      },
+      {
+        "label": "growl",
+        "start": 84.93,
+        "end": 89.35
+      },
+      {
+        "label": "growl",
+        "start": 94.88,
+        "end": 97.65
+      },
+      {
+        "label": "howl",
+        "start": 100.72,
+        "end": 106.47
+      },
+      {
+        "label": "growl",
+        "start": 110.67,
+        "end": 113.87
+      },
+      {
+        "label": "growl",
+        "start": 116.35,
+        "end": 121.94
       }
     ]
   },
-  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Fluffy Cat Meowing.mp3",
+    "website": "https://www.youtube.com/watch?v=OGPOYt_sd5A",
+    "description": "My cat Rogue craving some attention",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 1.3,
+        "end": 2.1
+      },
+      {
+        "label": "meow",
+        "start": 8.29,
+        "end": 9.36
+      },
+      {
+        "label": "meow",
+        "start": 10.71,
+        "end": 11.62
+      },
+      {
+        "label": "meow",
+        "start": 16.17,
+        "end": 16.96
+      },
+      {
+        "label": "meow",
+        "start": 18.18,
+        "end": 19.51
       }
     ]
   },
-  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Growling Kitties.mp3",
+    "website": "https://www.youtube.com/watch?v=Nqu13rhS3i8",
+    "description": "Mrs Kitties is quite upset",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "growl",
+        "start": 0.01,
+        "end": 3.16
+      },
+      {
+        "label": "growl",
+        "start": 7.31,
+        "end": 10.82
+      },
+      {
+        "label": "scream",
+        "start": 11.3,
+        "end": 12.8
+      },
+      {
+        "label": "hiss",
+        "start": 12.91,
+        "end": 14.3
+      },
+      {
+        "label": "growl",
+        "start": 14.91,
+        "end": 23.5
+      },
+      {
+        "label": "hiss",
+        "start": 24.02,
+        "end": 26.3
+      },
+      {
+        "label": "growl",
+        "start": 26.78,
+        "end": 30.41
+      },
+      {
+        "label": "growl",
+        "start": 31.15,
+        "end": 36.1
+      },
+      {
+        "label": "hiss",
+        "start": 36.56,
+        "end": 38.1
+      },
+      {
+        "label": "growl",
+        "start": 39.22,
+        "end": 44.6
+      },
+      {
+        "label": "growl",
+        "start": 48.81,
+        "end": 53.9
+      },
+      {
+        "label": "hiss",
+        "start": 54.32,
+        "end": 55.9
+      },
+      {
+        "label": "growl",
+        "start": 56.22,
+        "end": 61.64
+      },
+      {
+        "label": "hiss",
+        "start": 66.666,
+        "end": 67.994
+      },
+      {
+        "label": "growl",
+        "start": 70.08,
+        "end": 73.86
       }
     ]
   },
-  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Homeless sweet cat meowing.mp3",
+    "website": "https://www.youtube.com/watch?v=whFXY93jioA",
+    "description": "I found this cat outside a friend's flat meowing. I believe the owners are still on holidays.",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 16.65,
+        "end": 19.98
+      },
+      {
+        "label": "meow",
+        "start": 19.99,
+        "end": 23.04
+      },
+      {
+        "label": "meow",
+        "start": 25.47,
+        "end": 26.91
+      },
+      {
+        "label": "meow",
+        "start": 32.47,
+        "end": 35.15
+      },
+      {
+        "label": "meow",
+        "start": 44.21,
+        "end": 45.92
       }
     ]
   },
-  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/INSANE CAT CHATTERING AND CHIRPING.mp3",
+    "website": "https://www.youtube.com/watch?v=-G2Ju7J23C8",
+    "description": "Bullet loves chilling in the kitchen for this very reason . Mosquitos . He loves chattering at them and birds outside the window as well . It has become his thing , join him and his chattering.  This video includes footage of slow motion chattering ; I always wonder how that would look slow motion",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "chatter",
+        "start": 1.21,
+        "end": 7.10
+      },
+      {
+        "label": "meow",
+        "start": 14.01,
+        "end": 15.69
+      },
+      {
+        "label": "chatter",
+        "start": 45.01,
+        "end": 55.91
       }
     ]
   },
-  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Kit cat short meow.mp3",
+    "website": "https://www.youtube.com/watch?v=0fDu6EDKpU4",
+    "description": "The third video reference for a 2D Animation final project. Kit meowed in this video. The only problem is the dark lighting and inexperienced camera skills. I was only using the audio from the video really.",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 2.08,
+        "end": 3.17
       }
     ]
   },
-  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Kitten meowing for attention.mp3",
+    "website": "https://www.youtube.com/watch?v=sQyei_kfX0Q",
+    "description": "Tessa wanted petting or someone to play with her.",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 3.81,
+        "end": 7.22
+      },
+      {
+        "label": "meow",
+        "start": 9.17,
+        "end": 11.03
+      },
+      {
+        "label": "meow",
+        "start": 18.3,
+        "end": 21.2
       }
     ]
   },
-  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Kneading Meowing Cat Wants Attention.mp3",
+    "website": "https://www.youtube.com/watch?v=9pA2PvDYwWM",
+    "description": "Butters wanted attention, and he usually meows when he kneads. Yuan: I have some doubt on this FIXME",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 0.01,
+        "end": 1.09
+      },
+      {
+        "label": "meow",
+        "start": 1.24,
+        "end": 2.23
+      },
+      {
+        "label": "meow",
+        "start": 2.48,
+        "end": 3.52
+      },
+      {
+        "label": "meow",
+        "start": 4.25,
+        "end": 5.19
+      },
+      {
+        "label": "meow",
+        "start": 5.95,
+        "end": 7.06
+      },
+      {
+        "label": "meow",
+        "start": 7.26,
+        "end": 8.52
+      },
+      {
+        "label": "meow",
+        "start": 9.55,
+        "end": 10.66
+      },
+      {
+        "label": "meow",
+        "start": 16.69,
+        "end": 17.69
+      },
+      {
+        "label": "meow",
+        "start": 19.89,
+        "end": 20.87
+      },
+      {
+        "label": "meow",
+        "start": 19.89,
+        "end": 20.87
       }
     ]
   },
-  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Kneading Morning Meows.mp3",
+    "website": "https://www.youtube.com/watch?v=H0e5eiiHzmc",
+    "description": "Butters meowing, kneading and kneading while meowing.",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "meow",
+        "start": 16.05,
+        "end": 19.07
+      },
+      {
+        "label": "meow",
+        "start": 32.64,
+        "end": 36.1
+      },
+      {
+        "label": "meow",
+        "start": 39.42,
+        "end": 43.35
+      },
+      {
+        "label": "meow",
+        "start": 43.4,
+        "end": 45.6
+      },
+      {
+        "label": "meow",
+        "start": 45.67,
+        "end": 49.36
+      },
+      {
+        "label": "meow",
+        "start": 49.77,
+        "end": 53.4
+      },
+      {
+        "label": "meow",
+        "start": 55.48,
+        "end": 58.39
+      },
+      {
+        "label": "meow",
+        "start": 58.40,
+        "end": 61.39
+      },
+      {
+        "label": "meow",
+        "start": 61.54,
+        "end": 65.8
+      },
+      {
+        "label": "meow",
+        "start": 65.9,
+        "end": 68.6
+      },
+      {
+        "label": "meow",
+        "start": 68.8,
+        "end": 70.5
+      },
+      {
+        "label": "meow",
+        "start": 71.35,
+        "end": 76.3
+      },
+      {
+        "label": "meow",
+        "start": 80.99,
+        "end": 85.6
       }
     ]
   },
-  
   {
-    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/",
-    "website": "https://www.youtube.com/",
-    "description": "cat pleads.wav / Kitty cat meowing pleadingly. / animal feline meow",
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Maine Coon Cat INSANE Chattering  Chirping!!.mp3",
+    "website": "https://www.youtube.com/watch?v=lws_S_d31Pg",
+    "description": "Our Maine Coon mix Mojo is constantly chattering at birds that he sees outside.  He chatters at the laser pointer too, while Scout is quiet and just attacks! Meet Mojo & Scout!  He's an adorable and goofy ginger Maine Coon mix rescue kitten we adopted",
     "species: ": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
-        "start": ,
-        "end": ,
-        "label": ""
+        "label": "chatter",
+        "start": 0.51,
+        "end": 5.06
+      },
+      {
+        "label": "chatter",
+        "start": 6.03,
+        "end": 11.44
+      },
+      {
+        "label": "chatter",
+        "start": 12.57,
+        "end": 19.12
+      },
+      {
+        "label": "chatter",
+        "start": 22.84,
+        "end": 26.56
+      },
+      {
+        "label": "chatter",
+        "start": 27.84,
+        "end": 34.02
+      },
+      {
+        "label": "chatter",
+        "start": 37.6,
+        "end": 45.82
+      },
+      {
+        "label": "chatter",
+        "start": 46.32,
+        "end": 51.1
+      },
+      {
+        "label": "chatter",
+        "start": 58.77,
+        "end": 60.3
+      },
+      {
+        "label": "chatter",
+        "start": 61.85,
+        "end": 64.05
+      },
+      {
+        "label": "chatter",
+        "start": 68.52,
+        "end": 70.6
+      },
+      {
+        "label": "chatter",
+        "start": 71.86,
+        "end": 75.31
+      },
+      {
+        "label": "chatter",
+        "start": 77.76,
+        "end": 81.18
+      },
+      {
+        "label": "chatter",
+        "start": 85.59,
+        "end": 88.78
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Maine Coon Cat Meowing to get Attention! Raspy Cat wants to be petted.mp3",
+    "website": "https://www.youtube.com/watch?v=Jp8R6zAj7AA",
+    "description": "Maine Coon Cat Meowing a lot to get Attention! My Maine Coon Cat named Fluffy wants some Attention. He keeps on Meowing until I pet him.",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 0.94,
+        "end": 1.61
+      },
+      {
+        "label": "meow",
+        "slabel": "moan",
+        "start": 2.68,
+        "end": 4.06
+      },
+      {
+        "label": "meow",
+        "start": 4.31,
+        "end": 5.45
+      },
+      {
+        "label": "meow",
+        "start": 10.52,
+        "end": 11.75
+      },
+      {
+        "label": "meow",
+        "slabel": "moan",
+        "start": 11.78,
+        "end": 12.96
+      },
+      {
+        "label": "meow",
+        "start": 15.83,
+        "end": 17.57
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Maine Coon cat wont stop meowing in bathroom!.mp3",
+    "website": "https://www.youtube.com/watch?v=aW2LxCYWQXo",
+    "description": "Our first video of 2015! How does your pet react to this video? If you enjoyed, please share with family and friends!",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 0.3,
+        "end": 1.44
+      },
+      {
+        "label": "meow",
+        "start": 1.68,
+        "end": 2.79
+      },
+      {
+        "label": "meow",
+        "start": 2.95,
+        "end": 4.13
+      },
+      {
+        "label": "meow",
+        "start": 4.52,
+        "end": 5.7
+      },
+      {
+        "label": "meow",
+        "start": 5.9,
+        "end": 7.01
+      },
+      {
+        "label": "meow",
+        "start": 7.47,
+        "end": 8.71
+      },
+      {
+        "label": "meow",
+        "start": 8.92,
+        "end": 9.76
+      },
+      {
+        "label": "meow",
+        "start": 10.19,
+        "end": 11.37
+      },
+      {
+        "label": "meow",
+        "start": 11.87,
+        "end": 13.15
+      },
+      {
+        "label": "meow",
+        "start": 13.32,
+        "end": 14.16
+      },
+      {
+        "label": "meow",
+        "start": 14.71,
+        "end": 15.78
+      },
+      {
+        "label": "meow",
+        "start": 16.09,
+        "end": 17.24
+      },
+      {
+        "label": "meow",
+        "start": 17.48,
+        "end": 18.32
+      },
+      {
+        "label": "meow",
+        "start": 18.93,
+        "end": 20.21
+      },
+      {
+        "label": "meow",
+        "start": 20.25,
+        "end": 21.13
+      },
+      {
+        "label": "meow",
+        "start": 21.64,
+        "end": 23.71
+      },
+      {
+        "label": "meow",
+        "start": 24.29,
+        "end": 25.19
+      },
+      {
+        "label": "meow",
+        "start": 25.62,
+        "end": 26.68
+      },
+      {
+        "label": "meow",
+        "start": 27.01,
+        "end": 28.25
+      },
+      {
+        "label": "meow",
+        "start": 28.69,
+        "end": 29.73
+      },
+      {
+        "label": "meow",
+        "start": 29.91,
+        "end": 31
+      },
+      {
+        "label": "meow",
+        "start": 31.47,
+        "end": 32.68
+      },
+      {
+        "label": "meow",
+        "start": 33.1,
+        "end": 34.28
+      },
+      {
+        "label": "purring",
+        "start": 35.03,
+        "end": 39.338
+      },
+      {
+        "label": "purring",
+        "start": 40.15,
+        "end": 41.21
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Maine Coon Chirp.mp3",
+    "website": "://www.youtube.com/watch?v=oCrgku899ck",
+    "description": "",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "chatter",
+        "start": 21.74,
+        "end": 22.93
+      },
+      {
+        "label": "chatter",
+        "start": 28.95,
+        "end": 30.62
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Maxwell - The Cute Angry Cat (funny).mp3",
+    "website": "https://www.youtube.com/watch?v=pD_tY1RE8CU",
+    "description": "Cute black cat Maxwell annoys and attacks owner.",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 0.46,
+        "end": 1.77
+      },
+      {
+        "label": "meow",
+        "start": 1.96,
+        "end": 2.68
+      },
+      {
+        "label": "meow",
+        "start": 3.92,
+        "end": 4.71
+      },
+      {
+        "label": "meow",
+        "start": 8.58,
+        "end": 9.3
+      },
+      {
+        "label": "meow",
+        "slabel": "moan",
+        "start": 10.04,
+        "end": 10.47
+      },
+      {
+        "label": "meow",
+        "start": 12.97,
+        "end": 14.05
+      },
+      {
+        "label": "meow",
+        "start": 18.09,
+        "end": 18.79
+      },
+      {
+        "label": "meow",
+        "start": 20.01,
+        "end": 21.65
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Meowing tabby cat hungry for attention.mp3",
+    "website": "https://www.youtube.com/watch?v=qtuieioQIVg",
+    "description": "Meowing tabby cat",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 0.71,
+        "end": 4.2
+      },
+      {
+        "label": "meow",
+        "start": 4.31,
+        "end": 6.01
+      },
+      {
+        "label": "meow",
+        "start": 6.18,
+        "end": 7.42
+      },
+      {
+        "label": "meow",
+        "start": 7.83,
+        "end": 8.84
+      },
+      {
+        "label": "meow",
+        "start": 11.78,
+        "end": 14.76
+      },
+      {
+        "label": "meow",
+        "start": 15.01,
+        "end": 18.41
+      },
+      {
+        "label": "meow",
+        "start": 18.97,
+        "end": 22.65
+      },
+      {
+        "label": "meow",
+        "start": 22.85,
+        "end": 24.31
+      },
+      {
+        "label": "meow",
+        "start": 24.43,
+        "end": 28.15
+      },
+      {
+        "label": "meow",
+        "start": 28.17,
+        "end": 31.985
+      },
+      {
+        "label": "meow",
+        "start": 37.94,
+        "end": 40.2
+      },
+      {
+        "label": "meow",
+        "start": 40.21,
+        "end": 43.2
+      },
+      {
+        "label": "meow",
+        "start": 43.76,
+        "end": 45.3
+      },
+      {
+        "label": "meow",
+        "start": 46.06,
+        "end": 48.59
+      },
+      {
+        "label": "purring",
+        "start": 49.15,
+        "end": 52.04
+      },
+      {
+        "label": "purring",
+        "start": 52.6,
+        "end": 54.28
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Misuas Short Meow.mp3",
+    "website": "https://www.youtube.com/watch?v=rvWf62D1jw0",
+    "description": "",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 0.1,
+        "end": 1.6
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Mr Floofy meows and purrs for attention.mp3",
+    "website": "https://www.youtube.com/watch?v=u7Vdi6kgFEc",
+    "description": "",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 1.35,
+        "end": 2.51
+      },
+      {
+        "label": "meow",
+        "start": 4.49,
+        "end": 5.9
+      },
+      {
+        "label": "meow",
+        "start": 6.16,
+        "end": 7.32
+      },
+      {
+        "label": "meow",
+        "start": 7.63,
+        "end": 9.02
+      },
+      {
+        "label": "meow",
+        "start": 9.82,
+        "end": 10.98
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/My cat meowing for attention ).mp3",
+    "website": "https://www.youtube.com/watch?v=Vnkr_Cxd7a0",
+    "description": "He's just being a big baby, meowing for attention. If you don't pet him, he might follow you wherever you go til you pet him.",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 0.2,
+        "end": 3.57
+      },
+      {
+        "label": "meow",
+        "start": 5.2,
+        "end": 6.51
+      },
+      {
+        "label": "meow",
+        "start": 9.5,
+        "end": 10.47
+      },
+      {
+        "label": "meow",
+        "start": 13.7,
+        "end": 15.11
+      },
+      {
+        "label": "meow",
+        "start": 22.51,
+        "end": 23.73
+      },
+      {
+        "label": "meow",
+        "start": 26.06,
+        "end": 27.49
+      },
+      {
+        "label": "meow",
+        "start": 28.46,
+        "end": 29.13
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/My cute catto meowing for attention.mp3",
+    "website": "https://www.youtube.com/watch?v=6qsJazazvN8",
+    "description": "Thought it was to cute not to share it with yall hehe",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 0.92,
+        "end": 1.98
+      },
+      {
+        "label": "meow",
+        "start": 7.72,
+        "end": 8.88
+      },
+      {
+        "label": "meow",
+        "start": 11.04,
+        "end": 11.93
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/My Growling Kitten.mp3",
+    "website": "https://www.youtube.com/watch?v=14r6ekQ-oJE",
+    "description": "My kitty won't share.  Watch your fingers...Oscar is a little weird about his new toy.",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "growl",
+        "start": 27.76,
+        "end": 29.91
+      },
+      {
+        "label": "growl",
+        "start": 32.12,
+        "end": 35.05
+      },
+      {
+        "label": "growl",
+        "start": 39.59,
+        "end": 41.69
+      },
+      {
+        "label": "growl",
+        "start": 43.45,
+        "end": 45
+      },
+      {
+        "label": "growl",
+        "start": 46.44,
+        "end": 50.09
+      },
+      {
+        "label": "growl",
+        "start": 56.15,
+        "end": 58.89
+      },
+      {
+        "label": "growl",
+        "start": 13.21,
+        "end": 20.53
+      },
+      {
+        "label": "growl",
+        "start": 26.28,
+        "end": 28.06
+      },
+      {
+        "label": "growl",
+        "start": 30.52,
+        "end": 36.58
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/My Siberian cat talks to her kittens by chirping.mp3",
+    "website": "https://www.youtube.com/watch?v=aQlGybHZpAY",
+    "description": "This is my siberian cat-Sasha with her kittens.",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "chatter",
+        "start": 12.76,
+        "end": 16.4
+      },
+      {
+        "label": "chatter",
+        "start": 16.88,
+        "end": 18.18
+      },
+      {
+        "label": "chatter",
+        "start": 25.58,
+        "end": 27.18
+      },
+      {
+        "label": "chatter",
+        "start": 30.66,
+        "end": 32.45
+      },
+      {
+        "label": "chatter",
+        "start": 38.17,
+        "end": 39.71
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/One loud screaming cat.mp3",
+    "website": "https://www.youtube.com/watch?v=Vnw4Ot-_KQo",
+    "description": "",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "scream",
+        "start": 1.348,
+        "end": 4.238
+      },
+      {
+        "label": "hiss",
+        "start": 4.71,
+        "end": 6
+      },
+      {
+        "label": "howl",
+        "start": 6.37,
+        "end": 10.07
+      },
+      {
+        "label": "growl",
+        "start": 10.06,
+        "end": 13
+      },
+      {
+        "label": "scream",
+        "start": 13.38,
+        "end": 15.88
+      },
+      {
+        "label": "scream",
+        "start": 16.53,
+        "end": 20.62
+      },
+      {
+        "label": "growl",
+        "start": 20.752,
+        "end": 23.575
+      },
+      {
+        "label": "scream",
+        "start": 23.98,
+        "end": 25.98
+      },
+      {
+        "label": "scream",
+        "start": 29.017,
+        "end": 33.678
+      },
+      {
+        "label": "growl",
+        "start": 34.946,
+        "end": 39.275
+      },
+      {
+        "label": "growl",
+        "start": 40.6,
+        "end": 41.66
+      },
+      {
+        "label": "scream",
+        "start": 41.68,
+        "end": 42.78
+      },
+      {
+        "label": "hiss",
+        "start": 49.76,
+        "end": 50.97
+      },
+      {
+        "label": "scream",
+        "start": 51.65,
+        "end": 53.3
+      },
+      {
+        "label": "growl",
+        "start": 53.45,
+        "end": 59.23
+      },
+      {
+        "label": "hiss",
+        "start": 60.99,
+        "end": 62.6
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Shy cat from MIT meowing for attention ❤.mp3",
+    "website": "https://www.youtube.com/watch?v=i0mBupU4dzM",
+    "description": "",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 1.32,
+        "end": 2.48
+      },
+      {
+        "label": "meow",
+        "start": 3.15,
+        "end": 4.3
+      },
+      {
+        "label": "meow",
+        "start": 5.18,
+        "end": 7.1
+      },
+      {
+        "label": "meow",
+        "start": 7.55,
+        "end": 8.72
+      },
+      {
+        "label": "meow",
+        "start": 9.365,
+        "end": 11.03
+      },
+      {
+        "label": "meow",
+        "start": 11.58,
+        "end":13.4
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Sparkle Meowing for Attention.mp3",
+    "website": "https://www.youtube.com/watch?v=rN-fuXQxn9I",
+    "description": "Here's my baby girl Sparkle. When she wants attention she tends to meow a bunch. It gets annoying at times but the others it's so cute!!",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 2.78,
+        "end": 3.35
+      },
+      {
+        "label": "meow",
+        "start": 4.53,
+        "end": 5.4
+      },
+      {
+        "label": "meow",
+        "start": 9.81,
+        "end": 10.46
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Tabby Cat Meowing.mp3",
+    "website": "",
+    "description": "",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 7.37,
+        "end": 9.57
+      },
+      {
+        "label": "meow",
+        "start": 12.08,
+        "end": 14.25
+      },
+      {
+        "label": "meow",
+        "start": 16.7,
+        "end": 18.69
+      },
+      {
+        "label": "meow",
+        "start": 21.79,
+        "end": 23.23
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/The most annoying cat meow.mp3",
+    "website": "https://www.youtube.com/watch?v=en_xnFKxwS4",
+    "description": "We have this deaf barn cat from up the road that frequents our yard as it's hunting ground.  It legitimately has the most annoying meow I've ever heard.",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 7.67,
+        "end": 10.14
+      },
+      {
+        "label": "meow",
+        "start": 10.55,
+        "end": 12.54
+      },
+      {
+        "label": "howl",
+        "start": 16.81,
+        "end": 19.33
+      },
+      {
+        "label": "meow",
+        "start": 19.95,
+        "end": 21.8
+      },
+      {
+        "label": "meow",
+        "start": 22.44,
+        "end": 24.43
+      },
+      {
+        "label": "meow",
+        "start": 25.38,
+        "end": 27.66
+      },
+      {
+        "label": "meow",
+        "start": 30.88,
+        "end": 32.31
+      },
+      {
+        "label": "meow",
+        "start": 32.997,
+        "end": 34.89
+      },
+      {
+        "label": "meow",
+        "start": 36.96,
+        "end": 38.77
+      },
+      {
+        "label": "meow",
+        "start": 43.1,
+        "end": 45.01
+      },
+      {
+        "label": "meow",
+        "start": 47.57,
+        "end": 49.38
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Tiny Kitten is seeking for attention with quiet meows.mp3",
+    "website": "https://www.youtube.com/watch?v=W4iyIy0F8pw",
+    "description": "This tiny cat is meowing for attention at its owner. Really cute and worth a watch!",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 4.22,
+        "end": 5.01
+      },
+      {
+        "label": "meow",
+        "start": 6.83,
+        "end": 8.22
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Tiny Kitten Meowing for Attention.mp3",
+    "website": "https://www.youtube.com/watch?v=1I2kFMVAeg4",
+    "description": "This is Gizmo. We found her in November 2016, crying under our front steps after her mother hadn't returned in several days so we took her in and she joined our cat crew. This video was taken not long after we brought her in and she still wasn't quite sure how she felt about human touch.",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 6.06,
+        "end": 7.88
+      },
+      {
+        "label": "meow",
+        "start": 15.276,
+        "end": 16.6
+      },
+      {
+        "label": "meow",
+        "start": 21.16,
+        "end": 22.1
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Trill-meows by the domestic cat Donna-Aj9rN0q4gGc.mp4",
+    "website": "https://www.youtube.com/watch?v=Aj9rN0q4gGc",
+    "description": "The domestic cat Donna often combines trills with meows in  complex vocalisations with rising melody when she wants my attention and doesn't get it right away.",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 1.16,
+        "end": 2.17
+      },
+      {
+        "label": "meow",
+        "start": 3.45,
+        "end": 4.19
+      },
+      {
+        "label": "meow",
+        "start": 5.25,
+        "end": 6.29
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Tuxedo cat calling birds - chirping sound.mp3",
+    "website": "ihttps://www.youtube.com/watch?v=UrZ9b82Pf2U",
+    "description": "Torresminha is calling the birds.",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 0.72,
+        "end": 2.8
+      },
+      {
+        "label": "meow",
+        "start": 3.99,
+        "end": 7.09
+      },
+      {
+        "label": "chatter",
+        "start": 8.24,
+        "end": 12.23
+      },
+      {
+        "label": "chatter",
+        "start": 12.76,
+        "end": 16.99
+      },
+      {
+        "label": "chatter",
+        "start": 17.67,
+        "end": 23.05
+      },
+      {
+        "label": "chatter",
+        "start": 23.63,
+        "end": 31.71
+      },
+      {
+        "label": "chatter",
+        "start": 31.81,
+        "end": 38.23
+      },
+      {
+        "label": "chatter",
+        "start": 38.42,
+        "end": 44.56
+      },
+      {
+        "label": "chatter",
+        "start": 44.83,
+        "end": 48.55
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Tuxedo cat meows LOUDLY.mp3",
+    "website": "https://www.youtube.com/watch?v=kinBJavdXaY",
+    "description": "Nicks at it again and wants attention",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "meow",
+        "start": 0.3,
+        "end": 1.77
+      },
+      {
+        "label": "meow",
+        "start": 2.5,
+        "end": 3.68
+      },
+      {
+        "label": "meow",
+        "start": 5.54,
+        "end": 6.86
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Very unhappy cat.mp3",
+    "website": "https://www.youtube.com/watch?v=SNq1wIipUFQ",
+    "description": "My cat Mia was hating life when my sister came over with her two cats. comments are welcomed!!! =)",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "hiss",
+        "start": 1.1,
+        "end": 3.02
+      },
+      {
+        "label": "growl",
+        "start": 2.68,
+        "end": 5.75
+      },
+      {
+        "label": "hiss",
+        "start": 8.36,
+        "end": 9.73
+      },
+      {
+        "label": "growl",
+        "start": 13.73,
+        "end": 16.92
+      },
+      {
+        "label": "growl",
+        "start": 20.2,
+        "end": 23.17
+      },
+      {
+        "label": "hiss",
+        "start": 28.575,
+        "end": 30.1
+      },
+      {
+        "label": "growl",
+        "start": 35.36,
+        "end": 37.26
+      },
+      {
+        "label": "hiss",
+        "start": 51.15,
+        "end": 53.15
+      },
+      {
+        "label": "growl",
+        "start": 54.78,
+        "end": 56.98
+      },
+      {
+        "label": "hiss",
+        "start": 77.67,
+        "end": 79.01
+      },
+      {
+        "label": "growl",
+        "start": 86.83,
+        "end": 90.74
+      },
+      {
+        "label": "hiss",
+        "start": 90.94,
+        "end": 93.1
+      },
+      {
+        "label": "growl",
+        "start": 93.15,
+        "end": 95.72
+      },
+      {
+        "label": "hiss",
+        "start": 97.25,
+        "end": 98.58
+      },
+      {
+        "label": "growl",
+        "start": 105.14,
+        "end": 107.19
+      },
+      {
+        "label": "growl",
+        "start": 117.3,
+        "end": 120.59
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Vine-angry cat.mp3",
+    "website": "https://www.youtube.com/watch?v=QmzdjhiOtcw",
+    "description": "",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "audio",
+    "active_region": [
+      {
+        "label": "howl",
+        "start": 2.34,
+        "end": 3.18
+      },
+      {
+        "label": "howl",
+        "start": 3.83,
+        "end": 4.97
+      },
+      {
+        "label": "scream",
+        "start": 5.25,
+        "end": 5.95
       }
     ]
   }
-  
-  
 ]

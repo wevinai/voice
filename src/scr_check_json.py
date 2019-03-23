@@ -41,6 +41,7 @@ def check_json(dirs):
                     quit()
                 if len(e['active_region']) == 0:
                     print('ERROR: "active_region" is empty in {}'.format(e))
+                    quit()
                 valid = False
                 for ar in e['active_region']:
                     if ar['start']==0 and ar['end']==0:
@@ -55,15 +56,17 @@ def check_json(dirs):
                     elif ar['label'] not in settings.all_labels:
                         print('Label is incorrect (label={}): {}'.format(ar['label'], e['location'].split('/')[-1]))
                         quit()
-                    valid = True
                     if ar['start'] > ar['end']:
-                        print('Start time > end time (s={}, e={}) in {}'.format(ar['start'], ar['end'], 
+                        print('ERROR: Start time > end time (s={}, e={}) in {}'.format(ar['start'], ar['end'], 
                               e['location'].split('/')[-1]))
-                    elif ar['end'] - ar['start'] > 5 and ar['label']!='purring' and ar['label']!='growl':
+                        quit()
+                    valid = True
+                    if ar['end'] - ar['start'] > 5 and ar['label']!='purring' and ar['label']!='growl' and \
+                         ar['label']!='howl' and ar['label']!='chatter':
                         # We allow long segments for purring sound!
-                        print('WARN: Too large region in {}. Please shrink them into small pieces'.format(e['location']))
-                    else:
-                        vt += ar['end']-ar['start']
+                        print('WARN: Too large region in {} from {} to {}. Please shrink into small pieces'.\
+                              format(e['location'], ar['start'], ar['end']))
+                    vt += ar['end']-ar['start']
                     if ar['label']:
                         vs += 1
                 if valid:
