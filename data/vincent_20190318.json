@@ -6,7 +6,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 0.579,
@@ -48,7 +48,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 1.653,
@@ -95,7 +95,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 1.255,
@@ -291,7 +291,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 1.797,
@@ -343,7 +343,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 3.362,
@@ -370,7 +370,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 1.134,
@@ -432,7 +432,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 0.462,
@@ -489,7 +489,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 2.584,
@@ -536,7 +536,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 0.375,
@@ -653,7 +653,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 4.312,
@@ -700,7 +700,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 0.210,
@@ -812,7 +812,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 10.370,
@@ -844,7 +844,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 1.599,
@@ -891,7 +891,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 0.412,
@@ -978,7 +978,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 3.349,
@@ -1522,7 +1522,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -1654,7 +1654,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -1727,7 +1727,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "hiss",
@@ -1779,7 +1779,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -1856,7 +1856,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -1933,7 +1933,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -1975,7 +1975,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "chatter",
@@ -2072,7 +2072,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -2124,7 +2124,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "start": 4.19,
@@ -2141,7 +2141,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -2168,7 +2168,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -2210,7 +2210,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "chatter",
@@ -2247,7 +2247,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -2329,7 +2329,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "growl",
@@ -2406,7 +2406,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -2458,7 +2458,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -2515,7 +2515,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "chatter",
@@ -2557,7 +2557,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "purring",
@@ -2579,7 +2579,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -2642,7 +2642,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "scream",
@@ -2658,7 +2658,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "growl",
@@ -2759,7 +2759,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "howl",
@@ -2845,7 +2845,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "howl",
@@ -2981,7 +2981,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "growl",
@@ -3097,7 +3097,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -3128,7 +3128,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "growl",
@@ -3229,7 +3229,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -3265,7 +3265,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "growl",
@@ -3351,7 +3351,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -3387,7 +3387,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "chatter",
@@ -3413,7 +3413,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -3429,7 +3429,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -3455,7 +3455,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -3516,7 +3516,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -3592,7 +3592,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "chatter",
@@ -3668,7 +3668,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -3711,7 +3711,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -3847,7 +3847,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "chatter",
@@ -3868,7 +3868,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -3920,7 +3920,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -4011,7 +4011,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -4027,7 +4027,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -4063,7 +4063,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -4109,7 +4109,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -4135,7 +4135,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "growl",
@@ -4191,7 +4191,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "chatter",
@@ -4227,7 +4227,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "scream",
@@ -4318,7 +4318,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -4359,7 +4359,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -4385,7 +4385,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -4416,7 +4416,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -4482,7 +4482,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -4503,7 +4503,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -4529,7 +4529,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -4555,7 +4555,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -4611,7 +4611,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "meow",
@@ -4637,7 +4637,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "hiss",
@@ -4728,7 +4728,7 @@
     "species: ": "cat",
     "race": "",
     "gender": "",
-    "format": "audio",
+    "format": "video",
     "active_region": [
       {
         "label": "howl",
@@ -4744,6 +4744,319 @@
         "label": "scream",
         "start": 5.25,
         "end": 5.95
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Trilling Cat-fyYGnb9Fq3M.mp4",
+    "website": "https://www.youtube.com/watch?v=fyYGnb9Fq3M",
+    "description": "Milo the cat trills a few times for the camera. He makes this noise constantly throughout the day, for no obvious reason.",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "video",
+    "active_region": [
+      {
+        "label": "trill",
+        "start": 0.41,
+        "end": 1.18
+      },
+      {
+        "label": "trill",
+        "start": 15.339,
+        "end": 16.566
+      },
+      {
+        "label": "trill",
+        "start": 26.21,
+        "end": 27.34
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Cat mating call-MaM_y04MwWU.mkv",
+    "website": "https://www.youtube.com/watch?v=MaM_y04MwWU",
+    "description": "This is tigerlilly our desert cat we found injured as someone threw her in a bin. We heard her, rescued her, loved her. She has just come into her first heat but still skinny and with a limp due to malnutrition.  She was kept indoors until she could be spayed.",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "video",
+    "active_region": [
+      {
+        "label": "call",
+        "start": 1.13,
+        "end": 2.26
+      },
+      {
+        "label": "call",
+        "start": 2.63,
+        "end": 3.498
+      },
+      {
+        "label": "call",
+        "start": 3.77,
+        "end": 4.636
+      },
+      {
+        "label": "call",
+        "start": 4.587,
+        "end": 5.664
+      },
+      {
+        "label": "call",
+        "start": 5.677,
+        "end": 6.859
+      },
+      {
+        "label": "call",
+        "start": 7.221,
+        "end": 8.293
+      },
+      {
+        "label": "call",
+        "start": 8.448,
+        "end": 9.514
+      },
+      {
+        "label": "call",
+        "start": 9.765,
+        "end": 10.777
+      },
+      {
+        "label": "call",
+        "start": 11.082,
+        "end": 12.332
+      },
+      {
+        "label": "call",
+        "start": 12.717,
+        "end": 13.77
+      },
+      {
+        "label": "call",
+        "start": 14.125,
+        "end": 15.233
+      },
+      {
+        "label": "call",
+        "start": 15.851,
+        "end": 16.867
+      },
+      {
+        "label": "call",
+        "start": 17.531,
+        "end": 18.476
+      },
+      {
+        "label": "call",
+        "start": 19.211,
+        "end": 20.315
+      },
+      {
+        "label": "call",
+        "start": 20.937,
+        "end": 21.752
+      },
+      {
+        "label": "call",
+        "start": 22.845,
+        "end": 24.643
+      },
+      {
+        "label": "call",
+        "start": 25.207,
+        "end": 26.207
+      },
+      {
+        "label": "call",
+        "start": 27.432,
+        "end": 28.427
+      },
+      {
+        "label": "call",
+        "start": 31.565,
+        "end": 32.807
+      },
+      {
+        "label": "call",
+        "start": 33.518,
+        "end": 35.249
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Female cat in heat meowing ( mate calling )-tb24B2Y-51M.mp4",
+    "website": "https://www.youtube.com/watch?v=tb24B2Y-51M",
+    "description": "Bu videoyu YouTube Video Düzenleyici ile oluşturdum (http://www.youtube.com/editor) Female Cat Mating Call / Female Cat in howling funny sound",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "video",
+    "active_region": [
+      {
+        "label": "call",
+        "start": 0.424,
+        "end": 3.658
+      },
+      {
+        "label": "call",
+        "start": 4.326,
+        "end": 8.896
+      },
+      {
+        "label": "call",
+        "start": 13.149,
+        "end": 16.099
+      },
+      {
+        "label": "call",
+        "start": 16.797,
+        "end": 20.007
+      },
+      {
+        "label": "meow",
+        "start": 22.141,
+        "end": 26.966
+      },
+      {
+        "label": "call",
+        "start": 28.334,
+        "end": 32.277
+      },
+      {
+        "label": "call",
+        "start": 33,
+        "end": 37.129
+      },
+      {
+        "label": "call",
+        "start": 37.665,
+        "end": 40.513
+      },
+      {
+        "label": "meow",
+        "start": 41.398,
+        "end": 43.229
+      },
+      {
+        "label": "call",
+        "start": 47.675,
+        "end": 51.584
+      },
+      {
+        "label": "call",
+        "start": 53.868,
+        "end": 56.991
+      },
+      {
+        "label": "call",
+        "start": 61.164,
+        "end": 64.99
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Meow Meow baby miaow miaow Why Do Cats Miaow-9zkkUJh91pM.mp4",
+    "website": "Meow Meow baby miaow miaow Why Do Cats Miaow-9zkkUJh91pM.mp4",
+    "description": "Miaow miaow Youtube drug Meow Meow baby miaow miaow Why Do Cats Miaow? Yuan: FIXME, unfinished",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "video",
+    "active_region": [
+      {
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 0.5,
+        "end": 2.91
+      },
+      {
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 4.52,
+        "end": 7.132
+      },
+      {
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 9.744,
+        "end": 11.392
+      },
+      {
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 11.4,
+        "end": 13.05
+      },
+      {
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 11.5,
+        "end": 14.56
+      },
+      {
+        "label": "meow",
+        "slabel": "miaow",
+        "start": 14.6,
+        "end": 16.47
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/My cat squeaks instead of meowing-WucevmjEg_s.mkv",
+    "website": "https://www.youtube.com/watch?v=WucevmjEg_s",
+    "description": "",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "video",
+    "active_region": [
+      {
+        "label": "meow",
+        "slabel": "squeak",
+        "start": 4.484,
+        "end": 4.998
+      },
+      {
+        "label": "meow",
+        "slabel": "squeak",
+        "start": 7.567,
+        "end": 8.284
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/vincent/20190318/Squeak instead of a cat's meow-T_pIzoncwr4.mkv",
+    "website": "Squeak instead of a cat's meow-T_pIzoncwr4.mkv",
+    "description": "",
+    "species: ": "cat",
+    "race": "",
+    "gender": "",
+    "format": "video",
+    "active_region": [
+      {
+        "label": "meow",
+        "slabel": "squeak",
+        "start": 7.717,
+        "end": 8.842
+      },
+      {
+        "label": "meow",
+        "slabel": "squeak",
+        "start": 28.439,
+        "end": 29.464
+      },
+      {
+        "label": "meow",
+        "slabel": "squeak",
+        "start": 61.078,
+        "end": 62.478
+      },
+      {
+        "label": "meow",
+        "slabel": "squeak",
+        "start": 65.98,
+        "end": 67.05
       }
     ]
   }
