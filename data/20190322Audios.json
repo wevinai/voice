@@ -1,0 +1,1492 @@
+[
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/7SoundsCatsMakeandWhatTheyMean-wMTQqQmJkGA.mp4",
+    "website": "https://www.youtube.com/watch?v=wMTQqQmJkGA",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "trilling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 76.225,
+        "end": 79.274,
+        "label": "trill"
+      },
+      {
+        "start": 79.828,
+        "end": 82.323,
+        "label": "trill"
+      },
+      {
+        "start": 82.877,
+        "end": 85.926,
+        "label": "trill"
+      },
+      {
+        "start": 85.926,
+        "end": 87.312,
+        "label": "trill"
+      },
+      {
+        "start": 87.312,
+        "end": 90,
+        "label": "trill"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Bengalcatchatteringatbird-rEEMMn80XJw.mp4",
+    "website": "https://www.youtube.com/watch?v=rEEMMn80XJw",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "chattering",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 0.995,
+        "label": "chattering"
+      },
+      {
+        "start":5.396 ,
+        "end": 6.811,
+        "label": "chattering"
+      },
+      {
+        "start": 6.916,
+        "end": 10.112,
+        "label": "chattering"
+      },
+      {
+        "start": 10.112,
+        "end": 14.460,
+        "label": "chattering"
+      },
+      {
+        "start": 14.460,
+        "end": 19.700,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Bengalcatchatteringatrobin-Q5phF4Ab-fE.mp4",
+    "website": "https://www.youtube.com/watch?v=Q5phF4Ab-fE",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 15.000,
+        "end": 20.000,
+        "label": "chattering"
+      },
+      {
+        "start": 20.000,
+        "end": 25.000,
+        "label": "chattering"
+      },
+      {
+        "start": 25.000,
+        "end": 30.000,
+        "label": "chattering"
+      },
+      {
+        "start": 30.000,
+        "end": 35.000,
+        "label": "chattering"
+      },
+      {
+        "start": 35.000,
+        "end": 40.000,
+        "label": "chattering"
+      },
+      {
+        "start": 40.000,
+        "end": 42.910,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Bengalcatchatteringlikeanalien-KWtyA9uITDs.mkv",
+    "website": "https://www.youtube.com/watch?v=KWtyA9uITDs",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "chattering",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0.810,
+        "end": 2.429,
+        "label": "chattering"
+      },
+      {
+        "start": 3.806,
+        "end": 5.587,
+        "label": "chattering"
+      },
+      {
+        "start": 7.207,
+        "end": 9.312,
+        "label": "chattering"
+      },
+      {
+        "start": 10.608,
+        "end": 14.737,
+        "label": "chattering"
+      },
+      {
+        "start": 21.539,
+        "end": 25.750,
+        "label": "chattering"
+      },
+      {
+        "start": 27.774,
+        "end": 29.718,
+        "label": "chattering"
+      },
+      {
+        "start": 31.580,
+        "end": 33.766,
+        "label": "chattering"
+      },
+      {
+        "start": 34.576,
+        "end": 39.515,
+        "label": "chattering"
+      },
+      {
+        "start": 41.054,
+        "end": 46.054,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Blackcatchatteringvoice-VclMCODQAkM.mp4",
+    "website": "https://www.youtube.com/watch?v=VclMCODQAkM",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "chattering",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0.931,
+        "end": 1.948,
+        "label": "chattering"
+      },
+      {
+        "start": 6.224,
+        "end": 10.162,
+        "label": "chattering"
+      },
+      {
+        "start": 10.500,
+        "end": 14.692,
+        "label": "chattering"
+      },
+      {
+        "start": 16.343,
+        "end": 19.603,
+        "label": "chattering"
+      },
+      {
+        "start": 20.323,
+        "end": 22.779,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Burmesecatchattering-talkingtobirds-kBBe0s7EUN0.mp4",
+    "website": "https://www.youtube.com/watch?v=kBBe0s7EUN0",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 4.888,
+        "end": 8.995,
+        "label": "chattering"
+      },
+      {
+        "start": 9.190,
+        "end": 13.296,
+        "label": "chattering"
+      },
+      {
+        "start": 13.492,
+        "end": 18.478,
+        "label": "chattering"
+      },
+      {
+        "start": 19.358,
+        "end": 21.216,
+        "label": "chattering"
+      },
+      {
+        "start": 25.615,
+        "end": 29.136,
+        "label": "chattering"
+      },
+      {
+        "start": 33.437,
+        "end": 38.436,
+        "label": "chattering"
+      },
+      {
+        "start": 48.004,
+        "end": 53.004,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Catchattering-3MgCCJFfl0U.mp4",
+    "website": "https://www.youtube.com/watch?v=3MgCCJFfl0U",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": ,
+        "end": ,
+        "label": ""
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/CatChatteringAtBirds-iSX2MNxBDXc.mkv",
+    "website": "https://www.youtube.com/watch?v=iSX2MNxBDXc",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 3.117,
+        "label": "chattering"
+      },
+      {
+        "start": 4.439,
+        "end": 6.706,
+        "label": "chattering"
+      },
+      {
+        "start": 18.230,
+        "end": 18.986,
+        "label": "chattering"
+      },
+      {
+        "start": 32.776,
+        "end": 34.855,
+        "label": "chattering"
+      },
+      {
+        "start": 38.349,
+        "end": 40.522,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/CatChatteringatBirdsoutdoors-H1GEvh66P88.mp4",
+    "website": "https://www.youtube.com/watch?v=H1GEvh66P88",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "chattering",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 20.427,
+        "end": 22.029,
+        "label": "chattering"
+      },
+      {
+        "start": 32.644,
+        "end": 33.745,
+        "label": "chattering"
+      },
+      {
+        "start": 40.154,
+        "end": 41.355,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/catchatteringatbirds-ppvdYVqmjW4.mp4",
+    "website": "https://www.youtube.com/watch?v=ppvdYVqmjW4",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "chattering",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 2.800,
+        "end": 3.756,
+        "label": "chattering"
+      },
+      {
+        "start": 14.300,
+        "end": 16.972,
+        "label": "chattering"
+      },
+      {
+        "start": 19.500,
+        "end": 21.667,
+        "label": "chattering"
+      },
+      {
+        "start": 28.817,
+        "end": 33.816,
+        "label": "chattering"
+      },
+      {
+        "start": 33.816,
+        "end": 38.815,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Catchatteringatlaseronceiling-UMQ4X-6raVg.mkv",
+    "website": "https://www.youtube.com/watch?v=UMQ4X-6raVg",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 1.128,
+        "end": 4.514,
+        "label": "chattering"
+      },
+      {
+        "start": 5.034,
+        "end": 9.722,
+        "label": "chattering"
+      },
+      {
+        "start": 9.722,
+        "end": 14.582,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/catchatteringwithhisteeth-PHnAti19P_o.mp4",
+    "website": "https://www.youtube.com/watch?v=PHnAti19P_o",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "claims to be chattering but idk",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 6.439,
+        "end": 8.612,
+        "label": "unknown"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/CatIsChatteringAndPurringAtTheSameTime-uLHyhvv6mPA.mp4",
+    "website": "https://www.youtube.com/watch?v=uLHyhvv6mPA",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 3.523,
+        "label": "chattering"
+      },
+      {
+        "start": 3.523,
+        "end": 7.838,
+        "label": "chattering"
+      },
+      {
+        "start": 7.838,
+        "end": 12.770,
+        "label": "chattering"
+      },
+      {
+        "start": 12.770,
+        "end": 17.769,
+        "label": "chattering"
+      },
+      {
+        "start": 17.769,
+        "end": 22.769,
+        "label": "chattering"
+      },
+      {
+        "start": 22.769,
+        "end": 27.768,
+        "label": "chattering"
+      },
+      {
+        "start": 27.767,
+        "end": 32.766,
+        "label": "chattering"
+      },
+      {
+        "start": 32.766,
+        "end": 37.765,
+        "label": "chattering"
+      },
+      {
+        "start": 37.765,
+        "end": 42.764,
+        "label": "chattering"
+      },
+      {
+        "start": 42.764,
+        "end": 47.763,
+        "label": "chattering"
+      },
+      {
+        "start": 47.763,
+        "end": 51.609,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Catmeowingandyowling-9lr4HcT1JGE.mp4",
+    "website": "https://www.youtube.com/watch?v=9lr4HcT1JGE",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 3.899,
+        "label": "meowing"
+      },
+      {
+        "start": 3.899,
+        "end": 7.241,
+        "label": "meowing"
+      },
+      {
+        "start": 7.241,
+        "end": 11.418,
+        "label": "meowing"
+      },
+      {
+        "start": 12.114,
+        "end": 16.570,
+        "label": "meowing"
+      },
+      {
+        "start": 22.000,
+        "end": 26.999,
+        "label": "meowing"
+      },
+      {
+        "start": 26.999,
+        "end": 31.998,
+        "label": "meowing"
+      },
+      {
+        "start": 31.998,
+        "end": 35.089,
+        "label": "meowing"
+      },
+      {
+        "start": 35.089,
+        "end": 37.456,
+        "label": "meowing"
+      },
+      {
+        "start": 39.962,
+        "end": 43.443,
+        "label": "meowing"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/CatsChatteringatBird-ILFCDPjwSBw.mkv",
+    "website": "https://www.youtube.com/watch?v=ILFCDPjwSBw",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 3.334,
+        "end": 7.917,
+        "label": "chattering"
+      },
+      {
+        "start": 9.028,
+        "end": 12.223,
+        "label": "chattering"
+      },
+      {
+        "start": 12.779,
+        "end": 17.778,
+        "label": "chattering"
+      },
+      {
+        "start": 24.585,
+        "end": 29.030,
+        "label": "chattering"
+      },
+      {
+        "start": 29.030,
+        "end": 34.029,
+        "label": "chattering"
+      },
+      {
+        "start": 34.029,
+        "end": 39.028,
+        "label": "chattering"
+      },
+      {
+        "start": 39.028,
+        "end": 44.027,
+        "label": "chattering"
+      },
+      {
+        "start": 44.027,
+        "end": 49.026,
+        "label": "chattering"
+      },
+      {
+        "start": 49.026,
+        "end": 54.025,
+        "label": "chattering"
+      },
+      {
+        "start": 54.025,
+        "end": 59.024,
+        "label": "chattering"
+      },
+      {
+        "start": 59.024,
+        "end": 64.023,
+        "label": "chattering"
+      },
+      {
+        "start": 64.023,
+        "end": 69.022,
+        "label": "chattering"
+      },
+      {
+        "start": 74.022,
+        "end": 79.021,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Cattrillingandpurring-8vw760Ch6fU.mkv",
+    "website": "https://www.youtube.com/watch?v=8vw760Ch6fU",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 18.994,
+        "end": 21.385,
+        "label": "trilling"
+      },
+      {
+        "start": 58.311,
+        "end": 59.108,
+        "label": "trilling"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/cattrilling-R0D_qHk49_Q.mkv",
+    "website": "https://www.youtube.com/watch?v=R0D_qHk49_Q",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 1.914,
+        "end": 3.051,
+        "label": "trilling"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Catyowlingallnighteverynight-wz3C_WdNAtI.mp4",
+    "website": "https://www.youtube.com/watch?v=wz3C_WdNAtI",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 3.550,
+        "end": 7.888,
+        "label": "yowling"
+      },
+      {
+        "start": 7.888,
+        "end": 11.964,
+        "label": "yowling"
+      },
+      {
+        "start": 11.964,
+        "end": 16.566,
+        "label": "yowling"
+      },
+      {
+        "start": 16.694,
+        "end": 21.693,
+        "label": "yowling"
+      },
+      {
+        "start": 22.219,
+        "end": 24.586,
+        "label": "yowling"
+      },
+      {
+        "start": 28.661,
+        "end": 33.642,
+        "label": "yowling"
+      },
+      {
+        "start": 39.048,
+        "end": 41.283,
+        "label": "yowling"
+      },
+      {
+        "start": 43.304,
+        "end": 49.303,
+        "label": "yowling"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Catyowlingloudly-K8KUsvO0c_0.mp4",
+    "website": "https://www.youtube.com/watch?v=K8KUsvO0c_0",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 1.719,
+        "end": 6.532,
+        "label": "yowling"
+      },
+      {
+        "start": 13.957,
+        "end": 18.151,
+        "label": "chattering"
+      },
+      {
+        "start": 18.770,
+        "end": 20.901,
+        "label": "chattering"
+      },
+      {
+        "start": 30.733,
+        "end": 33.552,
+        "label": "chattering"
+      },
+      {
+        "start": 35.820,
+        "end": 40.152,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/CatYowling-uw8aG_xY9kY.mp4",
+    "website": "https://www.youtube.com/watch?v=uw8aG_xY9kY",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "yowling",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 3.356,
+        "label": "yowling"
+      },
+      {
+        "start": 5.993,
+        "end": 10.069,
+        "label": "yowling"
+      },
+      {
+        "start": 10.228,
+        "end": 14.943,
+        "label": "yowling"
+      },
+      {
+        "start": 18.859,
+        "end": 21.975,
+        "label": "yowling"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/ChatteringBoozleTheCat-pwl5Qg7iBmg.mp4",
+    "website": "https://www.youtube.com/watch?v=pwl5Qg7iBmg",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 5.318,
+        "end": 8.584,
+        "label": "chattering"
+      },
+      {
+        "start": 8.584,
+        "end": 9.496,
+        "label": "chattering"
+      },
+      {
+        "start": 9.496,
+        "end": 14.495,
+        "label": "chattering"
+      },
+      {
+        "start": 14.495,
+        "end": 19.494,
+        "label": "chattering"
+      },
+      {
+        "start": 19.494,
+        "end": 24.493,
+        "label": "chattering"
+      },
+      {
+        "start": 24.493,
+        "end": 29.492,
+        "label": "chattering"
+      },
+      {
+        "start": 29.492,
+        "end": 34.491,
+        "label": "chattering"
+      },
+      {
+        "start": 34.491,
+        "end": 39.490,
+        "label": "chattering"
+      },
+      {
+        "start": 39.490,
+        "end": 44.489,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Doesyourcattrillandtalklikethis-Bf7bwli1bfQ.mkv",
+    "website": "https://www.youtube.com/watch?v=Bf7bwli1bfQ",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 1.846,
+        "end": 2.872,
+        "label": "trilling"
+      },
+      {
+        "start": 5.897,
+        "end": 7.128,
+        "label": "trilling"
+      },
+      {
+        "start": 16.615,
+        "end": 17.281,
+        "label": "trilling"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/HandsomeSiberianCatChatteringattheBirds-y_lbJ7KofGA.mkv",
+    "website": "https://www.youtube.com/watch?v=y_lbJ7KofGA",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "chattering",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 4.999,
+        "label": "chattering"
+      },
+      {
+        "start": 4.999,
+        "end": 9.998,
+        "label": "chattering"
+      },
+      {
+        "start": 9.998,
+        "end": 14.997,
+        "label": "chattering"
+      },
+      {
+        "start": 14.997,
+        "end": 19.996,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/LongestCatYowlEvar-MU_OcgCY9ec.mkv",
+    "website": "https://www.youtube.com/watch?v=MU_OcgCY9ec",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "cat yowl is this long so shouldn't be cut even if >5s",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 7.994,
+        "end": 19.948,
+        "label": "yowling"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Mainecooncatchatteringandbeingsweet-2wuYNnsJksQ.mp4",
+    "website": "https://www.youtube.com/watch?v=2wuYNnsJksQ",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0.824,
+        "end": 3.373,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/MamaCatTalkstoherBabyKittens-J17E2bPyOZk.mkv",
+    "website": "https://www.youtube.com/watch?v=J17E2bPyOZk",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 1.090,
+        "end": 4.579,
+        "label": "trilling"
+      },
+      {
+        "start": 7.196,
+        "end": 9.376,
+        "label": "trilling"
+      },
+      {
+        "start": 20.060,
+        "end": 23.113,
+        "label": "trilling"
+      },
+      {
+        "start": 27.038,
+        "end": 32.030,
+        "label": "trilling"
+      },
+      {
+        "start": 32.030,
+        "end": 37.029,
+        "label": "trilling"
+      },
+      {
+        "start": 37.029,
+        "end": 41.429,
+        "label": "trilling"
+      },
+      {
+        "start": 50.805,
+        "end": 55.805,
+        "label": "trilling"
+      },
+      {
+        "start": 61.181,
+        "end": 66.180,
+        "label": "trilling"
+      },
+      {
+        "start": 66.180,
+        "end": 71.179,
+        "label": "trilling"
+      },
+      {
+        "start": 71.179,
+        "end": 76.178,
+        "label": "trilling"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Myangrycatyowls--By_0iIghuE.mp4",
+    "website": "https://www.youtube.com/watch?v=-By_0iIghuE",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "yowling, >5s",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 3.047,
+        "end": 8.047,
+        "label": "yowling"
+      },
+      {
+        "start": 22.853,
+        "end": 28.947,
+        "label": "yowling"
+      },
+      {
+        "start": 31.063,
+        "end": 37.665,
+        "label": "yowling"
+      },
+      {
+        "start": 38.765,
+        "end": 45.621,
+        "label": "yowling"
+      },
+      {
+        "start": 45.621,
+        "end": 49.853,
+        "label": "yowling"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/MyCatChatteringAtBirds-oKk7Mx208Fc.mp4",
+    "website": "https://www.youtube.com/watch?v=oKk7Mx208Fc",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 1.552,
+        "end": 6.551,
+        "label": "chattering"
+      },
+      {
+        "start": 6.551,
+        "end": 11.550,
+        "label": "chattering"
+      },
+      {
+        "start": 27.714,
+        "end": 32.481,
+        "label": "chattering"
+      },
+      {
+        "start": 45.562,
+        "end": 48.777,
+        "label": "chattering"
+      },
+      {
+        "start": 49.885,
+        "end": 53.100,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Mycathasdementia-6ppee1x7B-A.mkv",
+    "website": "https://www.youtube.com/watch?v=6ppee1x7B-A",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 4.999,
+        "label": "yowling"
+      },
+      {
+        "start": 4.999,
+        "end": 9.510,
+        "label": "yowling"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/SavannahCatschattering-3gTkk1bka4o.mp4",
+    "website": "https://www.youtube.com/watch?v=3gTkk1bka4o",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 3.667,
+        "label": "chattering"
+      },
+      {
+        "start": 38.374,
+        "end": 43.373,
+        "label": "chattering"
+      },
+      {
+        "start": 43.373,
+        "end": 48.372,
+        "label": "chattering"
+      },
+      {
+        "start": 48.372,
+        "end": 52.686,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Snoweythesiamesecatchatteringatabird-Awoy4IUIZK0.mp4",
+    "website": "https://www.youtube.com/watch?v=Awoy4IUIZK0",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 4.114,
+        "end": 7.363,
+        "label": "chattering"
+      },
+      {
+        "start": 11.044,
+        "end": 13.859,
+        "label": "chattering"
+      },
+      {
+        "start": 16.025,
+        "end": 21.005,
+        "label": "chattering"
+      },
+      {
+        "start": 22.900,
+        "end": 27.863,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Sphynxcatchattering-8eLRZz96Ulw.mp4",
+    "website": "https://www.youtube.com/watch?v=8eLRZz96Ulw",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0.526,
+        "end": 1.944,
+        "label": "chattering"
+      },
+      {
+        "start": 4.677,
+        "end": 9.091,
+        "label": "chattering"
+      },
+      {
+        "start": 9.091,
+        "end": 14.090,
+        "label": "chattering"
+      },
+      {
+        "start": 14.090,
+        "end": 19.089,
+        "label": "chattering"
+      },
+      {
+        "start": 19.089,
+        "end": 24.088,
+        "label": "chattering"
+      },
+      {
+        "start": 24.088,
+        "end": 29.087,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Sphynxcatchattering-mN97qzrSG0I.mp4",
+    "website": "https://www.youtube.com/watch?v=mN97qzrSG0I",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 4.809,
+        "label": "chattering"
+      },
+      {
+        "start": 8.248,
+        "end": 10.226,
+        "label": "chattering"
+      },
+      {
+        "start": 12.630,
+        "end": 16.069,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Terrificcatchattervideo-66iN3vzM98U.mp4",
+    "website": "https://www.youtube.com/watch?v=66iN3vzM98U",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 3.670,
+        "end": 8.669,
+        "label": "chattering"
+      },
+      {
+        "start": 8.669,
+        "end": 13.668,
+        "label": "chattering"
+      },
+      {
+        "start": 13.668,
+        "end": 18.667,
+        "label": "chattering"
+      },
+      {
+        "start": 18.667,
+        "end": 23.666,
+        "label": "chattering"
+      },
+      {
+        "start": 23.666,
+        "end": 26.835,
+        "label": "chattering"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Tiggerunabletomoveandyowling-_13TD-dXQPk.mkv",
+    "website": "https://www.youtube.com/watch?v=_13TD-dXQPk",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 4.999,
+        "label": "yowling"
+      },
+      {
+        "start": 9.249,
+        "end": 13.941,
+        "label": "yowling"
+      },
+      {
+        "start": 26.139,
+        "end": 27.346,
+        "label": "yowling"
+      },
+      {
+        "start": 32.574,
+        "end": 34.450,
+        "label": "yowling"
+      },
+      {
+        "start": 35.791,
+        "end": 40.080,
+        "label": "yowling"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/tomcatsyowling-Fsu8KjtWhPo.mp4",
+    "website": "https://www.youtube.com/watch?v=Fsu8KjtWhPo",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 4.335,
+        "label": "yowling"
+      },
+      {
+        "start": 4.335,
+        "end": 9.335,
+        "label": "yowling"
+      },
+      {
+        "start": 14.933,
+        "end": 18.465,
+        "label": "yowling"
+      },
+      {
+        "start": 18.465,
+        "end": 22.158,
+        "label": "yowling"
+      },
+      {
+        "start": 23.443,
+        "end": 28.443,
+        "label": "yowling"
+      },
+      {
+        "start": 32.435,
+        "end": 37.412,
+        "label": "yowling"
+      },
+      {
+        "start": 54.893,
+        "end": 59.892,
+        "label": "yowling"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Trillingatbirds-_gCDhXymX-g.mkv",
+    "website": "https://www.youtube.com/watch?v=_gCDhXymX-g",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 11.470,
+        "end": 14.901,
+        "label": "trilling"
+      },
+      {
+        "start": 14.999,
+        "end": 16.666,
+        "label": "trilling"
+      },
+      {
+        "start": 21.176,
+        "end": 22.940,
+        "label": "trilling"
+      },
+      {
+        "start": 32.842,
+        "end": 37.057,
+        "label": "trilling"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/TrillingCat-fyYGnb9Fq3M.mp4",
+    "website": "https://www.youtube.com/watch?v=fyYGnb9Fq3M",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0.492,
+        "end": 1.526,
+        "label": "trilling"
+      },
+      {
+        "start": 15.412,
+        "end": 16.347,
+        "label": "trilling"
+      },
+      {
+        "start": 25.998,
+        "end": 27.328,
+        "label": "trilling"
+      }
+    ],
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/TuxedoCatChatteringClickinghisJaws-phWw8sZEeQk.mp4",
+    "website": "https://www.youtube.com/watch?v=phWw8sZEeQk",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 0,
+        "end": 4.999,
+        "label": "unknown"
+      },
+      {
+        "start": 10.417,
+        "end": 13.517,
+        "label": "unknown"
+      },
+      {
+        "start": 14.686,
+        "end": 16.159,
+        "label": "unknown"
+      },
+      {
+        "start": 24.900,
+        "end": 26.221,
+        "label": "unknown"
+      }
+    ]
+  },
+  {
+    "location": "/hdd/mlrom/Data/animal_voice/weilin/20190322Audios/Viivithechatteringcat-6qqy5dlYRTI.mp4",
+    "website": "https://www.youtube.com/watch?v=6qqy5dlYRTI",
+    "species": "cat",
+    "race": "",
+    "gender": "",
+    "purpose": "",
+    "format" : "video",
+    "age" : "",
+    "active_region": [
+      {
+        "start": 7.328,
+        "end": 9.718,
+        "label": "chattering"
+      },
+      {
+        "start": 11.470,
+        "end": 16.469,
+        "label": "chattering"
+      },
+      {
+        "start": 16.469,
+        "end": 21.468,
+        "label": "chattering"
+      },
+      {
+        "start": 21.468,
+        "end": 26.467,
+        "label": "chattering"
+      },
+      {
+        "start": 26.467,
+        "end": 31.466,
+        "label": "chattering"
+      },
+      {
+        "start": 31.466,
+        "end": 36.465,
+        "label": "chattering"
+      },
+      {
+        "start": 36.465,
+        "end": 41.464,
+        "label": "chattering"
+      },
+      {
+        "start": 41.464,
+        "end": 46.463,
+        "label": "chattering"
+      },
+      {
+        "start": 46.463,
+        "end": 51.138,
+        "label": "chattering"
+      }
+    ]
+  }
+]
