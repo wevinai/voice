@@ -57,6 +57,13 @@ all_labels = {
                              # (e.g. a closed door or window) Adult cats mainly meow to humans, and seldom 
                              # to other cats, so adult meow could be a post-domestication extension of 
                              # mewing by kittens
+                             #
+                             # short merow/mew (mew/miaow): standard greeting. "hello!"
+                             # Multiple meows/mews (mew/miaow): Excited greeting. "Great to see u!"
+                             # Mid-pitch meow (miaow?): Plea for sth. "I'd like to eat."
+                             # Drawn-out mrrrrooow (?): Demand for sth. "Open the door now!"
+                             # Low-pitch mrrrroooowwww (moan) : complaint of a wrong u have done.
+                             # High-pitch RRRROWW! (squeak): Anger or pain.
 }
 
 # tuples
