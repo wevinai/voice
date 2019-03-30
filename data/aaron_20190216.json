@@ -9,23 +9,32 @@
     "format" : "audio",
     "active_region": [
       {
+        "start": 0.724,
+        "end": 1.359,
+        "old_label1": "annoy",
+        "old_label": "complain",
+	"label": "meow"
+      },
+      {
         "start": 2.172,
         "end": 2.985,
-        "old_label": "annoy",
-	"label": "complain"
+        "old_label1": "annoy",
+        "old_label": "complain",
+	"label": "meow"
       },
       {
         "start": 3.363,
 	"end": 3.931,
+	"old_label1": "complain",
 	"old_label": "complain",
-	"label": "complain"
+	"label": "meow"
       }
     ]
   },
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/55151__noisecollector__chino3.wav",
    
-    "description": "There it is, the cat with the broken meow.",
+    "description": "There it is, the cat with the broken meow. Jing - pls chk",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -34,8 +43,9 @@
       {
         "start": 0.134,
         "end": 0.53,
-        "old_label": "angry",
-	"label": "complain"
+        "old_label1": "angry",
+        "old_label": "complain",
+	"label": "growl"
       }
     ]
   },
@@ -49,28 +59,57 @@
     "format" : "audio",
     "active_region": [
       {
-        "start": 1.635,
-        "end": 2.579,
+        "start": 0.231,
+        "end": 0.797,
+        "old_label1": "complain",
         "old_label": "complain",
-	"label": "complain"
+	"label": "meow"
       },
       {
-	"start": 2.810,
-	"end": 3.795,
-	"old_label": "pain",
-	"label": "complain"
+        "start": 1.689,
+        "end": 2.432,
+        "old_label1": "complain",
+        "old_label": "complain",
+	"label": "meow"
       },
       {
-        "start": 10.735,
-        "end": 11.742,
-        "old_label": "pain",
-	"label": "complain"
+	"start": 2.852,
+	"end": 3.627,
+	"old_label1": "pain",
+	"old_label": "complain",
+	"label": "meow"
+      },
+      {
+        "start": 4.529,
+        "end": 5.116,
+	"label": "unknown"
+      },
+      {
+        "start": 7.653,
+        "end": 8.135,
+	"label": "unknown"
+      },
+      {
+        "start": 9.645,
+        "end": 10.253,
+	"label": "unknown"
+      },
+      {
+        "start": 10.777,
+        "end": 11.469,
+	"label": "meow"
       },
       {
         "start": 13.566,
-        "end": 14.551,
-        "old_label": "pain",
-	"label": "complain"
+        "end": 14.299,
+        "old_label1": "pain",
+        "old_label": "complain",
+	"label": "meow"
+      },
+      {
+        "start": 14.761,
+        "end": 15.369,
+	"label": "unknown"
       }
     ]
   },
@@ -86,8 +125,9 @@
       {
         "start": 0.635,
         "end": 1.679,
-        "old_label": "annoy",
-	"label": "complain"
+        "old_label1": "annoy",
+        "old_label": "complain",
+	"label": "meow"
       }
     ]
   },
@@ -103,8 +143,9 @@
       {
         "start": 0.059,
         "end": 1.679,
-        "old_label": "beg",
-	"label": "attention"
+        "old_label1": "beg",
+        "old_label": "attention",
+	"label": "meow"
       }
     ]
   },
@@ -119,28 +160,31 @@
     "active_region": [
       {
         "start": 0.093,
-        "end": 0.854,
-        "old_label": "beg",
-	"label": "attention"
+        "end": 0.710,
+        "old_label1": "beg",
+        "old_label": "attention",
+	"label": "meow"
       },
       {
         "start": 1.399,
-        "end": 2.104,
+        "end": 1.790,
+        "old_label1": "complain",
         "old_label": "complain",
-	"label": "complain"
+	"label": "meow"
       },
       {
         "start": 2.469,
         "end": 3.441,
-        "old_label": "beg",
-	"label": "attention"
+        "old_label1": "beg",
+        "old_label": "attention",
+	"label": "meow"
       }
     ]
   },
   {
     "location": "/hdd/mlrom/Data/animal_voice/audio/67446__promete__cat-loud-meows.wav",
  
-    "description": "sound",
+    "description": "sound. Jing - pls chk 2nd set",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -149,26 +193,35 @@
       {
         "start": 0.241,
         "end": 1.985,
+        "old_label1": "complain",
         "old_label": "complain",
-	"label": "complain"
+	"label": "meow"
       },
       {
         "start": 2.836,
         "end": 4.508,
-        "old_label": "annoy",
-	"label": "complain"
+        "old_label1": "annoy",
+        "old_label": "complain",
+	"label": "meow"
+      },
+      {
+        "start": 5.232,
+        "end": 6.082,
+	"label": "unknown"
       },
       {
         "start": 6.635,
         "end": 7.599,
-        "old_label": "angry",
-	"label": "complain"
+        "old_label1": "angry",
+        "old_label": "complain",
+	"label": "meow"
       },
       {
         "start": 9.343,
         "end": 10.520,
-        "old_label": "annoy",
-	"label": "complain"
+        "old_label1": "annoy",
+        "old_label": "complain",
+	"label": "meow"
       }
     ]
   },
@@ -183,9 +236,10 @@
     "active_region": [
       {
         "start": 0.213,
-        "end": 1.072,
-        "old_label": "comfortable",
-	"label": "unknown"
+        "end": 0.757,
+        "old_label1": "comfortable",
+        "old_label": "unknown",
+	"label": "meow"
       },
       {
         "start": 1.812,
@@ -194,16 +248,18 @@
 	"label": "unknown"
       },
       {
-        "start": 2.37,
-        "end": 4.043,
-        "old_label": "comfortable",
-	"label": "unknown"
+        "start": 3.318,
+        "end": 3.814,
+        "old_label1": "comfortable",
+        "old_label": "unknown",
+	"label": "meow"
       },
       {
         "start": 5.311,
         "end": 6.185,
-        "old_label": "comfortable",
-	"label": "unknown"
+        "old_label1": "comfortable",
+        "old_label": "unknown",
+	"label": "meow"
       }
     ]
   },
@@ -235,51 +291,69 @@
     "active_region": [
       {
         "start": 0.349,
-        "end": 1.747,
+        "end": 1.223,
+        "old_label1": "attention",
         "old_label": "attention",
-        "label": "attention"
+        "label": "meow"
       },
       {
-        "start": 3.495,
-        "end": 4.718,
+        "start": 3.553,
+        "end": 4.543,
+        "old_label1": "attention",
         "old_label": "attention",
-        "label": "attention"
+        "label": "meow"
       },
       {
         "start": 8.562,
-        "end": 9.901,
+        "end": 9.552,
+        "old_label1": "attention",
         "old_label": "attention",
-        "label": "attention"
+        "label": "meow"
       }, 
       {
         "start": 10.193,
         "end": 11.183,
+        "old_label1": "attention",
         "old_label": "attention",
-        "label": "attention"
+        "label": "meow"
       },     
       {
         "start": 20.676,
-        "end": 22.133,
+        "end": 21.608,
+        "old_label1": "attention",
         "old_label": "attention",
-        "label": "attention"
+        "label": "meow"
       },
       {
         "start": 22.366,
-        "end": 23.297,
+        "end": 23.181,
+        "old_label1": "attention",
         "old_label": "attention",
-        "label": "attention"
+        "label": "meow"
       },
       {
         "start": 33.141,
-        "end": 34.247,
+        "end": 33.840,
+        "old_label1": "attention",
         "old_label": "attention",
-        "label": "attention"
+        "label": "meow"
+      },
+      {
+        "start": 37.392,
+        "end": 38.208,
+        "label": "unknown"
+      },
+      {
+        "start": 41.295,
+        "end": 42.343,
+        "label": "meow"
       },
       {
         "start": 43.683,
         "end": 45.372,
+        "old_label1": "attention",
         "old_label": "attention",
-        "label": "attention"
+        "label": "meow"
       }
     ]
   },
@@ -340,51 +414,62 @@
     "active_region": [
       {
         "start": 0.479,
-        "end": 1.877,
-        "old_label": "pain",
-        "label": "complain"
+        "end": 1.438,
+        "old_label1": "pain",
+        "old_label": "complain",
+        "label": "meow"
       },
       {
-        "start": 3.834,
-        "end": 5.073,
+        "start": 3.635,
+        "end": 4.713,
+        "label": "meow"
+      },
+      {
+        "start": 5.033,
+        "end": 12.302,
         "old_label": "comfortable",
         "label": "purring"
       },
       {
-        "start": 6.710,
-        "end": 9.985,
-        "old_label": "comfortable",
-        "label": "purring"
+        "start": 12422,
+        "end": 13.301,
+        "old_label1": "pain",
+        "old_label": "complain",
+        "label": "meow"
       },
       {
-        "start": 12.062,
-        "end": 13.78,
-        "old_label": "pain",
-        "label": "complain"
-      },
-      {
-        "start": 14.818,
-        "end": 16.176,
-        "old_label": "pain",
-        "label": "complain"
+        "start": 15.018,
+        "end": 15.817,
+        "old_label1": "pain",
+        "old_label": "complain",
+        "label": "meow"
       },
       {
         "start": 16.296,
         "end": 17.455,
-        "old_label": "pain",
-        "label": "complain"
+        "old_label1": "pain",
+        "old_label": "complain",
+        "label": "meow"
       },
       {
         "start": 17.774,
         "end": 18.932,
-        "old_label": "pain",
-        "label": "complain"
+        "old_label1": "pain",
+        "old_label": "complain",
+        "label": "meow"
       },
       {
         "start": 21.968,
         "end": 23.805,
         "old_label": "comfortable",
         "label": "purring"
+      },
+      {
+        "start": 25.163,
+        "end": 26.042,
+        "old_label1": "comfortable",
+        "old_label": "purring",
+        "label": "meow"
       },
       {
         "start": 26.921,
@@ -423,8 +508,9 @@
       {
         "start": 0.101,
 	"end": 1.463,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       },
       {
 	"start": 1.633,
@@ -480,20 +566,23 @@
       {
         "start": 0.214,
 	"end": 1.086,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       },
       {
         "start": 1.550,
 	"end": 2.643,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       },
       {
         "start": 3.460,
 	"end": 4.651,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -509,8 +598,9 @@
       {
         "start": 0.111,
 	"end": 1.177,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -525,27 +615,31 @@
     "active_region": [
       {
         "start": 0.211,
-	"end": 1.322,
-	"old_label": "beg",
-	"label": "attention"
+	"end": 1.135,
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       },
       {
         "start": 2.973,
 	"end": 4.026,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       },
       {
         "start": 5.2311,
 	"end": 6.296,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       },
       {
         "start": 7.478,
 	"end": 8.379,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       }
     ]
   },
@@ -578,44 +672,51 @@
       {
         "start": 0.058,
 	"end": 0.759,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       },
       {
 	"start": 0.747,
 	"end": 1.517,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       },
       {
 	"start": 1.879,
 	"end": 2.754,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       },
       {
 	"start": 3.302,
 	"end": 3.991,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       },
       {
 	"start": 4.364,
 	"end": 5.275,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       },
       {
 	"start": 5.753,
 	"end": 6.757,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       },
       {
 	"start": 7.048,
 	"end": 7.772,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -631,8 +732,9 @@
       {
         "start": 0.082,
 	"end": 0.884,
-	"old_label": "upset/scream",
-	"label": "complain"
+	"old_label1": "upset/scream",
+	"old_label": "complain",
+	"label": "meow"
       }
     ]
   },
@@ -648,8 +750,9 @@
       {
         "start": 0.372,
 	"end": 1.244,
-	"old_label": "",
-	"label": "unknown"
+	"old_label1": "",
+	"old_label": "unknown",
+	"label": "meow"
       },
       {
         "start": 1.251,
@@ -660,8 +763,9 @@
       {
         "start": 2.311,
 	"end": 2.962,
-	"old_label": "",
-	"label": "unknown"
+	"old_label1": "",
+	"old_label": "unknown",
+	"label": "meow"
       },
       {
         "start": 2.963,
