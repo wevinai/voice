@@ -41,23 +41,6 @@
     ]
   },
   {
-    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/16426.wav",
-    "website": "http://www.findsounds.com",
-    "description": "",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-	"start": 0.126,
-	"end": 3.411,
-	"old_label": "attention",
-	"label": "attention"
-      }
-    ]
-  },
-  {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/282-Cat-Meowing.wav",
     "website": "http://www.findsounds.com",
     "description": "",
@@ -69,32 +52,37 @@
       {
 	"start": 0,
 	"end": 1.099,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       },
       {
 	"start": 1.903,
 	"end": 2.894,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       },
       {
 	"start": 3.639,
 	"end": 4.659,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       },
       {
 	"start": 5.660,
 	"end": 6.631,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       },
       {
 	"start": 6.758,
 	"end": 7.641,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -144,8 +132,9 @@
       {
 	"start": 0.061,
 	"end": 1.321,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       }
     ]
   },
@@ -161,8 +150,9 @@
       {
 	"start": 0,
 	"end": 2.386,
-	"old_label": "angry",
-	"label": "complain"
+	"old_label1": "angry",
+	"old_label": "complain",
+	"label": "scream"
       }
     ]
   },
@@ -178,8 +168,9 @@
       {
 	"start": 0.056,
 	"end": 2.578,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "growl"
       }
     ]
   },
@@ -194,63 +185,73 @@
     "active_region": [
       {
 	"start": 0.382,
-	"end": 1.230,
-	"old_label": "beg",
-	"label": "attention"
+	"end":0.848, 
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "squeak"
       },
       {
 	"start": 2.545,
-	"end": 3.394,
-	"old_label": "beg",
-	"label": "attention"
+	"end": 3.055,
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "squeak"
       },
       {
 	"start": 4.964,
 	"end": 5.600,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "squeak"
       },
       {
 	"start": 8.485,
-	"end": 9.460,
-	"old_label": "beg",
-	"label": "attention"
+	"end": 9.079,
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "squeak"
       },
       {
-	"start": 12.091,
-	"end": 13.194,
-	"old_label": "beg",
-	"label": "attention"
+	"start": 12.260,
+	"end": 12.939,
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       },
       {
 	"start": 14.679,
 	"end": 16.079,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       },
       {
 	"start": 22.230,
 	"end": 23.078,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       },
       {
 	"start": 25.539,
 	"end": 26.430,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       },
       {
 	"start": 27.915,
 	"end": 28.975,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       },
       {
 	"start": 30.969,
 	"end": 31.903,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       }
     ]
   },
@@ -283,20 +284,23 @@
       {
 	"start": 0.104,
 	"end": 0.997,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "unknown"
       },
       {
 	"start": 2.034,
 	"end": 2.823,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       },
       {
 	"start": 3.952,
 	"end": 4.488,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -329,8 +333,9 @@
       {
 	"start": 0,
 	"end": 0.790,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -455,26 +460,30 @@
       {
 	"start": 0.294,
 	"end": 1.006,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       },
       {
 	"start": 1.645,
 	"end": 2.423,
-	"old_label": "complain/scream",
-	"label": "happy"
+	"old_label1": "complain/scream",
+	"old_label": "happy",
+	"label": "meow"
       },
       {
 	"start": 3.011,
 	"end": 3.811,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       },
       {
 	"start": 4.215,
 	"end": 5.119,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -490,8 +499,9 @@
       {
 	"start": 0.081,
 	"end": 0.896,
+	"old_label1": "complain",
 	"old_label": "complain",
-	"label": "complain"
+	"label": "meow"
       }
     ]
   },
@@ -507,8 +517,19 @@
       {
 	"start": 2.032,
 	"end": 3.134,
-	"old_label": "complain",
-	"label": "attention"
+	"old_label1": "complain",
+	"old_label": "attention",
+	"label": "meow"
+      }
+      {
+	"start": 4.022,
+	"end": 5.028,
+	"label": "meow"
+      }
+      {
+	"start": 6.183,
+	"end": 7.124,
+	"label": "unknown"
       }
     ]
   },
@@ -522,10 +543,21 @@
     "format": "audio",
     "active_region": [
       {
-	"start": 0.085,
-	"end": 1.144,
+	"start": 1.102,
+	"end": 1.589,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
+      }
+      {
+	"start": 3.66,
+	"end": 4.241,
+	"label": "meow"
+      }
+      {
+	"start": 5.688,
+	"end": 6.298,
+	"label": "meow"
       }
     ]
   },
@@ -539,17 +571,18 @@
     "format": "audio",
     "active_region": [
       {
-	"start": 0.080,
-	"end": 0.871,
-	"old_label": "complain",
-	"label": "attention"
+	"start": 1.272,
+	"end": 1.853,
+	"old_label1": "complain",
+	"old_label": "attention",
+	"label": "meow"
       }
     ]
   },
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/Cat Meow.aif",
     "website": "http://www.findsounds.com",
-    "description": "",
+    "description": "Jing - cannot find the audio file",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -574,9 +607,10 @@
     "active_region": [
       {
 	"start": 0.010,
-	"end": 1.412,
-	"old_label": "beg",
-	"label": "attention"
+	"end": 1.477,
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "miaow"
       }
     ]
   },
@@ -592,7 +626,8 @@
       {
 	"start": 0,
 	"end": 0.699,
-	"old_label": "complain",
+	"old_label1": "complain",
+	"old_label": "attention",
 	"label": "attention"
       }
     ]
@@ -947,14 +982,16 @@
       {
 	"start": 0.055,
 	"end": 0.973,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       },
       {
 	"start": 1.567,
 	"end": 2.386,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -987,8 +1024,9 @@
       {
 	"start": 0.364,
 	"end": 1.413,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -1004,8 +1042,9 @@
       {
 	"start": 0,
 	"end": 0.931,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -1021,8 +1060,9 @@
       {
 	"start": 0,
 	"end": 0.826,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "howl"
       }
     ]
   },
@@ -1038,8 +1078,9 @@
       {
 	"start": 0,
 	"end": 1.112,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       }
     ]
   },
@@ -1055,8 +1096,9 @@
       {
 	"start": 0.270,
 	"end": 1.076,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       }
     ]
   },
@@ -1072,8 +1114,9 @@
       {
 	"start": 1.458,
 	"end": 3.173,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -1089,8 +1132,9 @@
       {
 	"start": 0,
 	"end": 1.452,
-	"old_label": "complain",
-	"label": "attention"
+	"old_label1": "complain",
+	"old_label": "attention",
+	"label": "unknown"
       }
     ]
   },
@@ -1106,8 +1150,9 @@
       {
 	"start": 0.035,
 	"end": 0.667,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -1123,8 +1168,9 @@
       {
 	"start": 0.017,
 	"end": 0.920,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       }
     ]
   },
@@ -1140,20 +1186,23 @@
       {
 	"start": 0,
 	"end": 0.866,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "growl"
       },
       {
 	"start": 1.075,
 	"end": 2.802,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "growl"
       },
       {
 	"start": 3.176,
 	"end": 3.789,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "growl"
       }
     ]
   },
@@ -1169,20 +1218,23 @@
       {
 	"start": 0,
 	"end": 0.866,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "growl"
       },
       {
 	"start": 1.075,
 	"end": 2.802,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "growl"
       },
       {
 	"start": 3.176,
 	"end": 3.789,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "growl"
       }
     ]
   },
@@ -1232,8 +1284,9 @@
       {
 	"start": 0.191,
 	"end": 0.597,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -1249,8 +1302,9 @@
       {
 	"start": 0.141,
 	"end": 0.794,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -1266,8 +1320,9 @@
       {
 	"start": 0.141,
 	"end": 0.764,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       }
     ]
   },
@@ -1306,14 +1361,16 @@
       {
 	"start": 0.032,
 	"end": 2.167,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "call"
       },
       {
 	"start": 2.245,
 	"end": 3.576,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "call"
       }
     ]
   },
@@ -1329,8 +1386,9 @@
       {
 	"start": 0.128,
 	"end": 3.583,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "growl"
       }
     ]
   },
@@ -1380,8 +1438,9 @@
       {
 	"start": 0.070,
 	"end": 3.400,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "howl"
       }
     ]
   },
@@ -1425,9 +1484,17 @@
     "active_region": [
       {
 	"start": 0.048,
-	"end": 2.753,
+	"end": 0.674,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
+      }
+      {
+	"start": 0.675,
+	"end": 2.753,
+	"old_label1": "happy",
+	"old_label": "happy",
+	"label": "unknown"
       }
     ]
   },
@@ -1460,8 +1527,9 @@
       {
 	"start": 0.082,
 	"end": 1.153,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -1477,8 +1545,9 @@
       {
 	"start": 0.082,
 	"end": 1.153,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -1494,8 +1563,9 @@
       {
 	"start": 0.102,
 	"end": 3.287,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "miaow"
       }
     ]
   },
@@ -1510,9 +1580,17 @@
     "active_region": [
       {
 	"start": 0,
-	"end": 1.451,
+	"end": 1.381,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
+      }
+      {
+	"start": 1.382,
+	"end": 1.451,
+	"old_label1": "attention",
+	"old_label": "attention",
+	"label": "unknown"
       }
     ]
   },
@@ -1568,8 +1646,9 @@
       {
 	"start": 0,
 	"end": 0.762,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -1585,26 +1664,30 @@
       {
 	"start": 0,
 	"end": 0.917,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       },
       {
 	"start": 1.841,
 	"end": 2.711,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       },
       {
 	"start": 3.123,
 	"end": 4.032,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       },
       {
 	"start": 4.366,
 	"end": 5.275,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -1620,8 +1703,9 @@
       {
 	"start": 0.124,
 	"end": 1.180,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       }
     ]
   },
@@ -1637,15 +1721,16 @@
       {
 	"start": 0.093,
 	"end": 1.301,
-	"old_label": "annoy",
-	"label": "complain"
+	"old_label1": "annoy",
+	"old_label": "complain",
+	"label": "meow"
       }
     ]
   },
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/cat_and__owl.wav",
     "website": "http://www.findsounds.com",
-    "description": "",
+    "description": "Jing - pls check",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -1653,9 +1738,10 @@
     "active_region": [
       {
 	"start": 0,
-	"end": 1.920,
+	"end": 0.970,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "scream"
       }
     ]
   },
@@ -1768,15 +1854,16 @@
       {
 	"start": 0.080,
 	"end": 0.873,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/Cat meow animals023.wav",
     "website": "http://www.findsounds.com",
-    "description": "",
+    "description": "Jing - pls check",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -1785,8 +1872,9 @@
       {
 	"start": 0.021,
 	"end": 2.396,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -1802,33 +1890,37 @@
       {
 	"start": 0.880,
 	"end": 1.759,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       },
       {
 	"start": 2.438,
 	"end": 3.385,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       },
       {
 	"start": 4.140,
 	"end": 5.412,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       },
       {
 	"start": 5.881,
 	"end": 6.885,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/Catmeow.mp3",
     "website": "http://www.findsounds.com",
-    "description": "",
+    "description": "Jing - pls check vibration sound at end",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -1837,8 +1929,9 @@
       {
 	"start": 0.139,
 	"end": 1.585,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -1854,8 +1947,9 @@
       {
 	"start": 0.150,
 	"end": 0.569,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "growl"
       }
     ]
   },
@@ -1871,8 +1965,9 @@
       {
 	"start": 0.052,
 	"end": 0.486,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -1887,21 +1982,17 @@
     "active_region": [
       {
 	"start": 0.042,
-	"end": 0.654,
+	"end": 2.187,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "call"
       },
       {
-	"start": 1.616,
-	"end": 2.783,
-	"old_label": "happy",
-	"label": "happy"
-      },
-      {
-	"start": 2.977,
+	"start": 2.187,
 	"end": 3.965,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "call"
       }
     ]
   },
@@ -1917,8 +2008,9 @@
       {
 	"start": 0.227,
 	"end": 1.146,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -1969,20 +2061,23 @@
       {
 	"start": 0.220,
 	"end": 1.404,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       },
       {
 	"start": 1.682,
 	"end": 2.756,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       },
       {
 	"start": 3.133,
 	"end": 4.142,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -1998,8 +2093,9 @@
       {
 	"start": 0.256,
 	"end": 1.193,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -2049,8 +2145,9 @@
       {
 	"start": 0.225,
 	"end": 1.034,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -2095,8 +2192,9 @@
       {
 	"start": 0,
 	"end": 1.777,
+	"old_label1": "complain",
 	"old_label": "complain",
-	"label": "complain"
+	"label": "growl"
       },
       {
 	"start": 1.878,
@@ -2124,8 +2222,9 @@
       {
 	"start": 0,
 	"end": 0.807,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -2149,7 +2248,7 @@
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/frisky1.wav",
     "website": "http://www.findsounds.com",
-    "description": "",
+    "description": "Jing - pls check last set, vibration sound before meow",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -2157,21 +2256,24 @@
     "active_region": [
       {
 	"start": 0,
-	"end": 0.995,
+	"end": 0.882,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       },
       {
 	"start": 2.647,
-	"end": 3.831,
+	"end": 3.756,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       },
       {
 	"start": 4.676,
 	"end": 5.875,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -2187,8 +2289,9 @@
       {
 	"start": 0.049,
 	"end": 1.259,
+	"old_label1": "beg",
 	"old_label": "beg",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -2204,8 +2307,9 @@
       {
 	"start": 0,
 	"end": 0.632,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -2221,8 +2325,9 @@
       {
 	"start": 0.021,
 	"end": 0.867,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -2238,15 +2343,16 @@
       {
 	"start": 0.052,
 	"end": 0.933,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       }
     ]
   },
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/meow.au",
     "website": "http://www.findsounds.com",
-    "description": "",
+    "description": "Jing - pls check",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -2255,8 +2361,9 @@
       {
 	"start": 0.145,
 	"end": 0.599,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "growl"
       }
     ]
   },
@@ -2272,8 +2379,9 @@
       {
 	"start": 0,
 	"end": 0.586,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -2306,8 +2414,9 @@
       {
 	"start": 0.120,
 	"end": 0.698,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       }
     ]
   },
@@ -2323,8 +2432,9 @@
       {
 	"start": 0.099,
 	"end": 0.614,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -2365,7 +2475,7 @@
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/mjau.wav",
     "website": "http://www.findsounds.com",
-    "description": "",
+    "description": "Jing - pls check 2nd group",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -2373,21 +2483,29 @@
     "active_region": [
       {
 	"start": 0.188,
-	"end": 0.947,
+	"end": 0.885,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       },
       {
 	"start": 1.233,
-	"end": 2.836,
-	"old_label": "hungry",
-	"label": "attention"
+	"end": 2.082,
+	"old_label1": "hungry",
+	"old_label": "attention",
+	"label": "growl"
+      },
+      {
+	"start": 2.083,
+	"end": 2.791,
+	"label": "meow"
       },
       {
 	"start": 3.447,
 	"end": 4.298,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       }
     ]
   },
@@ -2420,8 +2538,9 @@
       {
 	"start": 0.497,
 	"end": 1.920,
+	"old_label1": "complain",
 	"old_label": "complain",
-	"label": "complain"
+	"label": "scream"
       }
     ]
   },
@@ -2507,15 +2626,16 @@
       {
 	"start": 0.008,
 	"end": 1.435,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/wickedcat.wav",
     "website": "http://www.findsounds.com",
-    "description": "",
+    "description": "Jing - pls chk",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -2524,14 +2644,16 @@
       {
 	"start": 0,
 	"end": 4.115,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "call"
       },
       {
 	"start": 4.116,
 	"end": 5.160,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "call"
       }
     ]
   },
@@ -2651,8 +2773,9 @@
       {
 	"start": 0,
 	"end": 0.608,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -2668,15 +2791,16 @@
       {
 	"start": 0.105,
 	"end": 0.938,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/cat-meow2.wav",
     "website": "http://www.findsounds.com",
-    "description": "",
+    "description": "Jing - pls chk",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -2685,15 +2809,16 @@
       {
 	"start": 0.073,
 	"end": 1.060,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "howl"
       }
     ]
   },
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/Cat meow sound-20250-Free-Loops.com.mp3",
     "website": "http://www.findsounds.com",
-    "description": "",
+    "description": "Jing - pls chk",
     "species": "cat",
     "race": "",
     "gender": "",
@@ -2701,9 +2826,17 @@
     "active_region": [
       {
 	"start": 0.056,
-	"end": 3.605,
+	"end": 2.161,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "call"
+      },
+      {
+	"start": 2.162,
+	"end": 3.535,
+	"old_label1": "attention",
+	"old_label": "attention",
+	"label": "meow"
       }
     ]
   },
@@ -2719,43 +2852,30 @@
       {
 	"start": 0.329,
 	"end": 2.029,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       },
       {
 	"start": 2.278,
 	"end": 3.162,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       },
       {
 	"start": 3.423,
 	"end": 5.066,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       },
       {
 	"start": 5.338,
 	"end": 7.991,
-	"old_label": "beg",
-	"label": "attention"
-      }
-    ]
-  },
-  {
-    "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/Cat meow sound-20250-Free-Loops.com.mp3",
-    "website": "http://www.findsounds.com",
-    "description": "",
-    "species": "cat",
-    "race": "",
-    "gender": "",
-    "format": "audio",
-    "active_region": [
-      {
-	"start": 0.056,
-	"end": 3.605,
+	"old_label1": "beg",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "scream"
       }
     ]
   },
@@ -2839,8 +2959,9 @@
       {
 	"start": 0,
 	"end": 0.738,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       }
     ]
   },
@@ -2856,14 +2977,16 @@
       {
 	"start": 0.087,
 	"end": 1.017,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       },
       {
 	"start": 1.580,
 	"end": 2.369,
+	"old_label1": "attention",
 	"old_label": "attention",
-	"label": "attention"
+	"label": "meow"
       }
     ]
   },
@@ -2879,8 +3002,9 @@
       {
 	"start": 0,
 	"end": 0.773,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -2896,8 +3020,9 @@
       {
 	"start": 0.004,
 	"end": 0.593,
+	"old_label1": "happy",
 	"old_label": "happy",
-	"label": "happy"
+	"label": "meow"
       }
     ]
   },
@@ -2913,8 +3038,9 @@
       {
 	"start": 0.045,
 	"end": 0.627,
-	"old_label": "beg",
-	"label": "attention"
+	"old_label1": "beg",
+	"old_label": "attention",
+	"label": "meow"
       }
     ]
   }
