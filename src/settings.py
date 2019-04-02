@@ -17,12 +17,12 @@ old_labels_20190320 = {'purring':0, 'attention':1, 'sneeze':2, 'hiss':3, 'scream
 # https://en.wikipedia.org/wiki/Cat_communication
 all_labels = {
               'chatter': 0,  # chirp/prey-directed sound, a hunting instinct where cats copy the calls of their prey
-                             # new label sound
+                             # HuntingMind
               'growl':   1,  # a guttural low-pitched sound of long duration produced during a slow steady 
                              # exhalation, [grrr..] with a vocalic [rrr...] or rhotic [ʌ], occasionally 
                              # beginning with an [m]. Used to signal danger or to warn or scare off an opponent,
                              # often intertwined with howls/moans/yowls and hisses.
-                             # old_labels_20190320.growl
+                             # Warning
               'hiss':    2,  # involuntary reactions to when a cat is surprised by an (apparent) enemy
                              # old_labels_20190320.hiss
               'howl':    3,  # long and repeated vocalic warning signals produced by gradually opening the mouth 
@@ -41,8 +41,9 @@ all_labels = {
               'sneeze':  7,  # similar to human sneeze when cat is sick
                              # old_labels_20190320.sneeze
               'trill':   8,  # a short and often soft meow rolled on the tongue, produced by mouth closed, usually
-                             # high pitched.
-                             # new label sound
+                             # high pitched. Trill is an effort to get you to pay attention to her or as a way 
+                             # to get you to check out something she deems important. Chirrups and squeaky little 
+                             # trills might also happen when a cat is excited and happy.
               'call':    9,  # Mating call/mating cry, long sequences of meow-like sounds, sometimes similar to 
                              # howling and/or the cries of human infants, usually in spring during mating season.
                              # new label sound
