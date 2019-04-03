@@ -113,10 +113,11 @@
     "format": "audio",
     "active_region": [
       {
+        "label": "howl",
 	"start": 0.1,
 	"end": 2.364,
 	"old_label": "complain",
-	"label": "complain"
+	"old_label": "complain"
       }
     ]
   },
@@ -349,10 +350,10 @@
     "format": "audio",
     "active_region": [
       {
+        "label": "meow",
 	"start": 0,
 	"end": 1.259,
-	"old_label": "attention",
-	"label": "attention"
+	"old_label": "attention"
       }
     ]
   },
@@ -366,10 +367,10 @@
     "format": "audio",
     "active_region": [
       {
-	"start": 0,
+	"label": "meow",
+	"start": 0.24,
 	"end": 0.521,
-	"old_label": "attention",
-	"label": "attention"
+	"old_label": "attention"
       }
     ]
   },
@@ -383,10 +384,10 @@
     "format": "audio",
     "active_region": [
       {
+	"label": "meow",
 	"start": 0.032,
 	"end": 1.120,
-	"old_label": "attention",
-	"label": "attention"
+	"old_label": "attention"
       }
     ]
   },
@@ -400,28 +401,32 @@
     "format": "audio",
     "active_region": [
       {
+        "label": "meow",
 	"start": 0.385,
 	"end": 2.040,
-	"old_label": "annoy",
-	"label": "attention"
+	"old_label1": "annoy",
+	"old_label": "attention"
       },
       {
+        "label": "meow",
 	"start": 2.301,
 	"end": 3.230,
-	"old_label": "annoy",
-	"label": "attention"
+	"old_label1": "annoy",
+	"old_label": "attention"
       },
       {
+        "label": "meow",
 	"start": 3.480,
 	"end": 5.191,
-	"old_label": "annoy",
-	"label": "attention"
+	"old_label1": "annoy",
+	"old_label": "attention"
       },
       {
+        "label": "scream",
 	"start": 5.384,
 	"end": 8.013,
-	"old_label": "annoy",
-	"label": "attention"
+	"old_label1": "annoy",
+	"old_label": "attention"
       }
     ]
   },
@@ -435,16 +440,18 @@
     "format": "audio",
     "active_region": [
       {
+        "label": "meow",
 	"start": 0.700,
 	"end": 1.584,
-	"old_label": "complain/scream",
-	"label": "complain"
+	"old_label1": "complain/scream",
+	"old_label": "complain"
       },
       {
+        "label": "meow",
 	"start": 2.400,
 	"end": 3.108,
-	"old_label": "complain/scream",
-	"label": "complain"
+	"old_label1": "complain/scream",
+	"old_label": "complain"
       }
     ]
   },
@@ -520,12 +527,12 @@
 	"old_label1": "complain",
 	"old_label": "attention",
 	"label": "meow"
-      }
+      },
       {
 	"start": 4.022,
 	"end": 5.028,
 	"label": "meow"
-      }
+      },
       {
 	"start": 6.183,
 	"end": 7.124,
@@ -548,12 +555,12 @@
 	"old_label1": "happy",
 	"old_label": "happy",
 	"label": "meow"
-      }
+      },
       {
 	"start": 3.66,
 	"end": 4.241,
 	"label": "meow"
-      }
+      },
       {
 	"start": 5.688,
 	"end": 6.298,
@@ -582,17 +589,18 @@
   {
     "location": "/hdd/mlrom/Data/animal_voice/aaron/aaron_audio/Cat Meow.aif",
     "website": "http://www.findsounds.com",
-    "description": "Jing - cannot find the audio file",
+    "description": "Jing - cannot find the audio file, Yuan: found it!",
     "species": "cat",
     "race": "",
     "gender": "",
     "format": "audio",
     "active_region": [
       {
+        "label": "meow",
 	"start": 0,
 	"end": 0.604,
-	"old_label": "complain",
-	"label": "attention"
+	"old_label1": "complain",
+	"old_label": "attention"
       }
     ]
   },
@@ -610,7 +618,8 @@
 	"end": 1.477,
 	"old_label1": "beg",
 	"old_label": "attention",
-	"label": "miaow"
+        "label": "meow",
+	"sub_label": "miaow"
       }
     ]
   },
@@ -1488,7 +1497,7 @@
 	"old_label1": "happy",
 	"old_label": "happy",
 	"label": "meow"
-      }
+      },
       {
 	"start": 0.675,
 	"end": 2.753,
@@ -1584,7 +1593,7 @@
 	"old_label1": "attention",
 	"old_label": "attention",
 	"label": "meow"
-      }
+      },
       {
 	"start": 1.382,
 	"end": 1.451,
